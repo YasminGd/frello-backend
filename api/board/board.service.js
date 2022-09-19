@@ -42,14 +42,13 @@ async function add(board) {
     try {
         const store = asyncLocalStorage.getStore()
         const { loggedinUser } = store
+        delete loggedinUser.username
 
         const collection = await dbService.getCollection('board')
+
         board.createdAt = Date.now()
-        // board.createdBy = {
-        //     _id: makeId(8), //TODO check how to get the userID
-        //     fullname: board.fullname,
-        //     imgUrl: 'http://some-im',
-        // }
+
+        board.createdBy = loggedinUser
         board.labels = [
             {
                 id: makeId(8),
@@ -126,7 +125,7 @@ async function add(board) {
 
             ]
         }
-        board.members = [] //TODO add the loggedin use to the members
+        board.members = [loggedinUser]
         board.groups = []
         board.activities = []
         board.isStarred = false

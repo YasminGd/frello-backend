@@ -1771,3 +1771,81 @@
 9/20/2022, 6:45:49 PM - DEBUG - Getting Boards
 9/20/2022, 6:49:48 PM - DEBUG - Getting Boards
 9/20/2022, 6:53:28 PM - INFO - Server is running on port: 3030
+9/20/2022, 7:13:02 PM - INFO - Server is running on port: 3030
+9/20/2022, 7:13:07 PM - DEBUG - Getting Boards
+9/20/2022, 7:14:41 PM - DEBUG - Getting Boards
+9/20/2022, 7:14:53 PM - DEBUG - Getting Boards
+9/20/2022, 7:17:34 PM - DEBUG - Getting Boards
+9/20/2022, 7:23:30 PM - DEBUG - Getting Boards
+9/20/2022, 7:24:12 PM - DEBUG - Getting Boards
+9/20/2022, 7:25:44 PM - DEBUG - Getting Boards
+9/20/2022, 8:58:51 PM - DEBUG - Getting Boards
+9/20/2022, 8:59:13 PM - DEBUG - Getting Boards
+9/20/2022, 8:59:17 PM - DEBUG - Getting Boards
+9/20/2022, 8:59:19 PM - DEBUG - Getting Boards
+9/20/2022, 10:01:12 PM - DEBUG - auth.service - signup with username: Yonatan Ben Zeev, fullname: Yonatan Ben Zeev
+9/20/2022, 10:01:12 PM - DEBUG - auth.route - new account created: {"username":"Yonatan Ben Zeev","password":"$2b$10$oipqHexxCy1T5n7TBhrD2OOne/XfQIKyGhMnuGfrKzgy0JQz9zTM2","fullname":"Yonatan Ben Zeev","imgUrl":"https://ca.slack-edge.com/T03E3RZ2KHV-U03MCKE1VEG-cf43280f7c40-512","_id":"632a0df8ad0bbd0634217eef"}
+9/20/2022, 10:01:12 PM - DEBUG - auth.service - login with username: Yonatan Ben Zeev
+9/20/2022, 10:01:13 PM - INFO - User login:  | {"_id":"632a0df8ad0bbd0634217eef","username":"Yonatan Ben Zeev","fullname":"Yonatan Ben Zeev","imgUrl":"https://ca.slack-edge.com/T03E3RZ2KHV-U03MCKE1VEG-cf43280f7c40-512"}
+9/20/2022, 10:29:26 PM - DEBUG - Getting Boards
+9/20/2022, 10:29:32 PM - DEBUG - Getting Boards
+9/20/2022, 10:31:03 PM - DEBUG - Getting Boards
+9/20/2022, 10:31:16 PM - DEBUG - Getting Boards
+9/20/2022, 11:19:59 PM - DEBUG - Getting Boards
+9/20/2022, 11:20:25 PM - DEBUG - Getting Boards
+9/20/2022, 11:20:50 PM - DEBUG - Getting Boards
+9/20/2022, 11:29:38 PM - INFO - Server is running on port: 3030
+9/20/2022, 11:29:43 PM - INFO - Server is running on port: 3030
+9/20/2022, 11:29:47 PM - DEBUG - Getting Users
+9/20/2022, 11:32:03 PM - DEBUG - Getting Users
+9/20/2022, 11:36:08 PM - DEBUG - Getting Users
+9/20/2022, 11:48:51 PM - DEBUG - Getting Users
+9/20/2022, 11:49:12 PM - DEBUG - Getting Users
+9/20/2022, 11:49:13 PM - DEBUG - Getting Users
+9/20/2022, 11:53:41 PM - DEBUG - Getting Users
+9/20/2022, 11:56:42 PM - DEBUG - Getting Users
+9/21/2022, 12:02:40 AM - DEBUG - Getting Users
+9/21/2022, 12:02:58 AM - DEBUG - Getting Users
+9/21/2022, 12:04:04 AM - DEBUG - Getting Users
+9/21/2022, 12:04:17 AM - DEBUG - Getting Users
+9/21/2022, 12:08:14 AM - DEBUG - Getting Users
+9/21/2022, 12:09:59 AM - DEBUG - Getting Users
+9/21/2022, 12:11:06 AM - DEBUG - Getting Users
+9/21/2022, 12:11:46 AM - DEBUG - Getting Users
+9/21/2022, 12:12:14 AM - DEBUG - Getting Users
+9/21/2022, 12:13:28 AM - DEBUG - Getting Users
+9/21/2022, 12:16:07 AM - DEBUG - Getting Users
+9/21/2022, 12:37:30 AM - DEBUG - Getting Users
+9/21/2022, 12:38:46 AM - DEBUG - Getting Users
+9/21/2022, 12:40:59 AM - DEBUG - auth.service - signup with username: Tommy Irmia, fullname: Tommy Irmia
+9/21/2022, 12:41:00 AM - DEBUG - auth.route - new account created: {"username":"Tommy Irmia","password":"$2b$10$GUA8iv8tbb4qdxV6PH4.te9kURBxqdu0lE6/8M7MFgs9/btERaYJu","fullname":"Tommy Irmia","imgUrl":"https://ca.slack-edge.com/T03E3RZ2KHV-U03JYAMU4MR-9ca48df5fcba-512","_id":"632a336b8b579c11de17cc91"}
+9/21/2022, 12:41:00 AM - DEBUG - auth.service - login with username: Tommy Irmia
+9/21/2022, 12:41:00 AM - INFO - User login:  | {"_id":"632a336b8b579c11de17cc91","username":"Tommy Irmia","fullname":"Tommy Irmia","imgUrl":"https://ca.slack-edge.com/T03E3RZ2KHV-U03JYAMU4MR-9ca48df5fcba-512"}
+9/21/2022, 12:41:07 AM - DEBUG - Getting Users
+9/21/2022, 12:42:31 AM - DEBUG - auth.service - signup with username: Vicky Polatov, fullname: Vicky Polatov
+9/21/2022, 12:42:31 AM - DEBUG - auth.route - new account created: {"username":"Vicky Polatov","password":"$2b$10$Z27UGXLRJkZJpenVdif2R.ktC5hqWBtjgDE7PJ5DFzrX7zS75mgM.","fullname":"Vicky Polatov","imgUrl":"https://ca.slack-edge.com/T03E3RZ2KHV-U03M2Q9S60M-4c913bd30643-512","_id":"632a33c78b579c11de17cc92"}
+9/21/2022, 12:42:31 AM - DEBUG - auth.service - login with username: Vicky Polatov
+9/21/2022, 12:42:31 AM - INFO - User login:  | {"_id":"632a33c78b579c11de17cc92","username":"Vicky Polatov","fullname":"Vicky Polatov","imgUrl":"https://ca.slack-edge.com/T03E3RZ2KHV-U03M2Q9S60M-4c913bd30643-512"}
+9/21/2022, 12:43:52 AM - DEBUG - auth.service - signup with username: Barak Treves, fullname: Barak Treves
+9/21/2022, 12:43:53 AM - DEBUG - auth.route - new account created: {"username":"Barak Treves","password":"$2b$10$VBnMKQD8xWD/6WFPTXUTkedWLngnbbpIA4d9Xh5aD7J9NbZ.fS1rG","fullname":"Barak Treves","imgUrl":"https://ca.slack-edge.com/T03E3RZ2KHV-U03M84KEW04-2b7a4cf96553-512","_id":"632a34198b579c11de17cc93"}
+9/21/2022, 12:43:53 AM - DEBUG - auth.service - login with username: Barak Treves
+9/21/2022, 12:43:53 AM - INFO - User login:  | {"_id":"632a34198b579c11de17cc93","username":"Barak Treves","fullname":"Barak Treves","imgUrl":"https://ca.slack-edge.com/T03E3RZ2KHV-U03M84KEW04-2b7a4cf96553-512"}
+9/21/2022, 12:43:58 AM - DEBUG - Getting Users
+9/21/2022, 12:46:07 AM - DEBUG - auth.service - signup with username: Ori Ben Amram, fullname: Ori Ben Amram
+9/21/2022, 12:46:08 AM - DEBUG - auth.route - new account created: {"username":"Ori Ben Amram","password":"$2b$10$1Bx0MOn4gJMzsSNRqhq9TOerSj6LUXZXK7v5qLU98LNvAkag3akgy","fullname":"Ori Ben Amram","imgUrl":"https://ca.slack-edge.com/T03E3RZ2KHV-U03KA7R10H0-e3c51ee4a5e6-512","_id":"632a34a08b579c11de17cc94"}
+9/21/2022, 12:46:08 AM - DEBUG - auth.service - login with username: Ori Ben Amram
+9/21/2022, 12:46:08 AM - INFO - User login:  | {"_id":"632a34a08b579c11de17cc94","username":"Ori Ben Amram","fullname":"Ori Ben Amram","imgUrl":"https://ca.slack-edge.com/T03E3RZ2KHV-U03KA7R10H0-e3c51ee4a5e6-512"}
+9/21/2022, 12:46:55 AM - DEBUG - auth.service - signup with username: Roi Yotvat, fullname: Roi Yotvat
+9/21/2022, 12:46:56 AM - DEBUG - auth.route - new account created: {"username":"Roi Yotvat","password":"$2b$10$cVb08p.u5xr0KEMX9AzvueWe4TGt11bhsVu3njsU4kiz5ICCOvrnK","fullname":"Roi Yotvat","imgUrl":"https://ca.slack-edge.com/T03E3RZ2KHV-U03HE9ZJTA6-79c26a7781c8-512","_id":"632a34d08b579c11de17cc95"}
+9/21/2022, 12:46:56 AM - DEBUG - auth.service - login with username: Roi Yotvat
+9/21/2022, 12:46:56 AM - INFO - User login:  | {"_id":"632a34d08b579c11de17cc95","username":"Roi Yotvat","fullname":"Roi Yotvat","imgUrl":"https://ca.slack-edge.com/T03E3RZ2KHV-U03HE9ZJTA6-79c26a7781c8-512"}
+9/21/2022, 12:47:04 AM - DEBUG - Getting Users
+9/21/2022, 1:16:11 AM - DEBUG - Getting Users
+9/21/2022, 1:16:22 AM - DEBUG - Getting Users
+9/21/2022, 1:16:31 AM - DEBUG - Getting Users
+9/21/2022, 1:17:31 AM - DEBUG - Getting Users
+9/21/2022, 1:17:41 AM - DEBUG - Getting Users
+9/21/2022, 1:20:30 AM - DEBUG - Getting Users
+9/21/2022, 1:20:42 AM - DEBUG - Getting Users
+9/21/2022, 1:20:56 AM - DEBUG - Getting Users
+9/21/2022, 1:21:09 AM - DEBUG - Getting Users

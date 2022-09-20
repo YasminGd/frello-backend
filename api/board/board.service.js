@@ -91,39 +91,6 @@ async function add(board) {
             background:
                 '',
             isLabelsLarge: false,
-            colorsClasses: [
-                'light-green-hoverable',
-                'light-yellow-hoverable',
-                'light-orange-hoverable',
-                'light-red-hoverable',
-                'light-purple-hoverable',
-                'green-hoverable',
-                'yellow-hoverable',
-                'orange-hoverable',
-                'red-hoverable',
-                'purple-hoverable',
-                'dark-green-hoverable',
-                'dark-yellow-hoverable',
-                'dark-orange-hoverable',
-                'dark-red-hoverable',
-                'dark-purple-hoverable',
-                'light-blue-hoverable',
-                'light-sky-hoverable',
-                'light-lime-hoverable',
-                'light-pink-hoverable',
-                'light-black-hoverable',
-                'blue-hoverable',
-                'sky-hoverable',
-                'lime-hoverable',
-                'pink-hoverable',
-                'black-hoverable',
-                'dark-blue-hoverable',
-                'dark-sky-hoverable',
-                'dark-lime-hoverable',
-                'dark-pink-hoverable',
-                'dark-black-hoverable',
-
-            ]
         }
         board.members = [loggedinUser]
         board.groups = []
@@ -141,10 +108,12 @@ async function add(board) {
 
 async function update(board) {
     try {
-        var id = ObjectId(board._id)
+        let boardId = board._id
+        let id = ObjectId(board._id)
         delete board._id
         const collection = await dbService.getCollection('board')
         await collection.updateOne({ _id: id }, { $set: { ...board } })
+        board._id = boardId
         return board
     }
     catch (err) {

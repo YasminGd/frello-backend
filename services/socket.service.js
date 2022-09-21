@@ -9,64 +9,45 @@ function setupSocketAPI(http) {
         socket.on('disconnect', socket => {
             logger.info(`Socket disconnected [id: ${socket.id}]`)
         })
-        socket.on('chat-set-topic', topic => {
-            if (socket.myTopic === topic) return
-            if (socket.myTopic) {
-                socket.leave(socket.myTopic)
-                logger.info(`Socket is leaving topic ${socket.myTopic} [id: ${socket.id}]`)
+        socket.on('set-board-id', boardId => {
+            if (socket.myBoardId === boardId) return
+            if (socket.myBoardId) {
+                socket.leave(socket.myBoardId)
+                logger.info(`Socket is leaving board ${socket.myBoardId} [id: ${socket.id}]`)
             }
-            socket.join(topic)
-            socket.myTopic = topic
+            socket.join(boardId)
+            socket.myBoardId = boardId
         })
-        socket.on('chat-send-msg', msg => {
-            logger.info(`New chat msg from socket [id: ${socket.id}], emitting to topic ${socket.myTopic}`)
-            // emits to all sockets:
-            // gIo.emit('chat addMsg', msg)
-            // emits only to sockets in the same room
-            gIo.to(socket.myTopic).emit('chat-add-msg', msg)
-        })
-        socket.on('user-watch', userId => {
-            logger.info(`user-watch from socket [id: ${socket.id}], on user ${userId}`)
-            socket.join('watching:' + userId)
+        // socket.on('chat-send-msg', msg => {
+        //     logger.info(`New chat msg from socket [id: ${socket.id}], emitting to topic ${socket.myBoardId}`)
+        // emits to all sockets:
+        // gIo.emit('chat addMsg', msg)
+        // emits only to sockets in the same room
+        //     gIo.to(socket.myBoardId).emit('chat-add-msg', msg)
+        // })
+        // socket.on('user-watch', userId => {
+        //     logger.info(`user-watch from socket [id: ${socket.id}], on user ${userId}`)
+        //     socket.join('watching:' + userId)
 
-        })
-        socket.on('set-user-socket', userId => {
-            logger.info(`Setting socket.userId = ${userId} for socket [id: ${socket.id}]`)
-            socket.userId = userId
-        })
-        socket.on('unset-user-socket', () => {
-            logger.info(`Removing socket.userId for socket [id: ${socket.id}]`)
-            delete socket.userId
-        })
-        socket.on('user-is-typing', (user) => {
-            logger.info(`setting isTyping for socket [id: ${socket.id}]`)
+        // })
+        // socket.on('set-user-socket', userId => {
+        //     logger.info(`Setting socket.userId = ${userId} for socket [id: ${socket.id}]`)
+        //     socket.userId = userId
+        // })
+        // socket.on('unset-user-socket', () => {
+        //     logger.info(`Removing socket.userId for socket [id: ${socket.id}]`)
+        //     delete socket.userId
+        // })
+        socket.on('update-board', (board) => {
+            logger.info(`setting update board for socket [id: ${socket.id}]`)
             broadcast({
-                type: 'user-is-typing',
-                data: user,
-                room: socket.myTopic,
+                type: 'update-board',
+                data: board,
+                room: socket.myBoardId,
                 userId: user._id
             })
         })
-
     })
-}
-
-function emitTo({ type, data, label }) {
-    if (label) gIo.to('watching:' + label.toString()).emit(type, data)
-    else gIo.emit(type, data)
-}
-
-async function emitToUser({ type, data, userId }) {
-    userId = userId.toString()
-    const socket = await _getUserSocket(userId)
-
-    if (socket) {
-        logger.info(`Emiting event: ${type} to user: ${userId} socket [id: ${socket.id}]`)
-        socket.emit(type, data)
-    } else {
-        logger.info(`No active socket for user: ${userId}`)
-        // _printSockets()
-    }
 }
 
 // If possible, send to all sockets BUT not the current socket 
@@ -93,6 +74,25 @@ async function broadcast({ type, data, room = null, userId }) {
         gIo.emit(type, data)
     }
 }
+
+function emitTo({ type, data, label }) {
+    if (label) gIo.to('watching:' + label.toString()).emit(type, data)
+    else gIo.emit(type, data)
+}
+
+async function emitToUser({ type, data, userId }) {
+    userId = userId.toString()
+    const socket = await _getUserSocket(userId)
+
+    if (socket) {
+        logger.info(`Emiting event: ${type} to user: ${userId} socket [id: ${socket.id}]`)
+        socket.emit(type, data)
+    } else {
+        logger.info(`No active socket for user: ${userId}`)
+        // _printSockets()
+    }
+}
+
 
 async function _getUserSocket(userId) {
     const sockets = await _getAllSockets()

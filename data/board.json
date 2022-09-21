@@ -10,7 +10,7 @@
       "imgUrl": "https://scontent.ftlv23-1.fna.fbcdn.net/v/t31.18172-8/20157447_10155321973701047_7503367269692251994_o.jpg?stp=dst-jpg_p960x960&_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_ohc=-Xl-yuhb17QAX9mVafE&_nc_oc=AQmk7_yu3aK9zXZJ1L2aG8YCukN9dwOc_yxOdHSAcS6HsFNwBF-RsmA8IpM3BEEjx0Y&tn=qaqignt_wEc5HEq3&_nc_ht=scontent.ftlv23-1.fna&oh=00_AT8CayO-5d2vib8idTkvG-05B_NHSmRMZxjPk3kEAubWCA&oe=634D2378"
     },
     "style": {
-      "background": "url(\"https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1150039017.jpg?w=1390&crop=1\")",
+      "background": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1150039017.jpg?w=1390&crop=1",
       "isLabelsLarge": false
     },
     "labels": [
@@ -18,37 +18,37 @@
         "id": "l101",
         "title": "Done",
         "color": "green",
-        "class": "green-hoverable"
+        "class": "green-opacity"
       },
       {
         "id": "l102",
         "title": "Progress",
         "color": "yellow",
-        "class": "yellow-hoverable"
+        "class": "yellow-opacity"
       },
       {
         "id": "l103",
         "title": "Todo",
         "color": "orange",
-        "class": "orange-hoverable"
+        "class": "orange-opacity"
       },
       {
         "id": "l104",
         "title": "Todo",
         "color": "red",
-        "class": "red-hoverable"
+        "class": "red-opacity"
       },
       {
         "id": "l105",
         "title": "Later",
         "color": "purple",
-        "class": "purple-hoverable"
+        "class": "purple-opacity"
       },
       {
         "id": "l106",
         "title": "Important",
         "color": "blue",
-        "class": "blue-hoverable"
+        "class": "blue-opacity"
       }
     ],
     "members": [

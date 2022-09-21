@@ -1,5 +1,6 @@
 const boardService = require('./board.service.js')
 const logger = require('../../services/logger.service')
+const { broadcast } = require('../../services/socket.service.js')
 
 module.exports = {
     getBoards,
@@ -54,6 +55,8 @@ async function updateBoard(req, res) {
     try {
         const board = req.body
         const updatedBoard = await boardService.update(board)
+        console.log('req.cookies: ', req.cookies)
+        broadcast('update-board', updatedBoard, updatedBoard._id,)
         res.json(updatedBoard)
     } catch (err) {
         logger.error('Failed to update board', err)

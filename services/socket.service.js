@@ -9,7 +9,7 @@ function setupSocketAPI(http) {
         socket.on('disconnect', socket => {
             logger.info(`Socket disconnected [id: ${socket.id}]`)
         })
-        socket.on('set-board-id', boardId => {
+        socket.on('join-board', boardId => {
             if (socket.myBoardId === boardId) return
             if (socket.myBoardId) {
                 socket.leave(socket.myBoardId)
@@ -17,36 +17,37 @@ function setupSocketAPI(http) {
             }
             socket.join(boardId)
             socket.myBoardId = boardId
+            logger.info(`Socket is now on board ${socket.myBoardId} [id: ${socket.id}]`)
         })
-        // socket.on('chat-send-msg', msg => {
-        //     logger.info(`New chat msg from socket [id: ${socket.id}], emitting to topic ${socket.myBoardId}`)
-        // emits to all sockets:
-        // gIo.emit('chat addMsg', msg)
-        // emits only to sockets in the same room
-        //     gIo.to(socket.myBoardId).emit('chat-add-msg', msg)
-        // })
+        socket.on('board-change', board => {
+            logger.info(`Updated board from socket [id: ${socket.id}], emitting to topic ${socket.myBoardId}`)
+            // emits to all sockets:
+            // gIo.emit('chat addMsg', msg)
+            // emits only to sockets in the same room
+            gIo.to(socket.myBoardId).emit('update-board', board)
+        })
         // socket.on('user-watch', userId => {
         //     logger.info(`user-watch from socket [id: ${socket.id}], on user ${userId}`)
         //     socket.join('watching:' + userId)
 
         // })
-        // socket.on('set-user-socket', userId => {
-        //     logger.info(`Setting socket.userId = ${userId} for socket [id: ${socket.id}]`)
-        //     socket.userId = userId
-        // })
+        socket.on('set-user-socket', userId => {
+            logger.info(`Setting socket.userId = ${userId} for socket [id: ${socket.id}]`)
+            socket.userId = userId
+        })
         // socket.on('unset-user-socket', () => {
         //     logger.info(`Removing socket.userId for socket [id: ${socket.id}]`)
         //     delete socket.userId
         // })
-        socket.on('update-board', (board) => {
-            logger.info(`setting update board for socket [id: ${socket.id}]`)
-            broadcast({
-                type: 'update-board',
-                data: board,
-                room: socket.myBoardId,
-                userId: user._id
-            })
-        })
+        // socket.on('update-board', (board) => {
+        //     logger.info(`setting update board for socket [id: ${socket.id}]`)
+        //     broadcast({
+        //         type: 'update-board',
+        //         data: board,
+        //         room: socket.myBoardId,
+        //         userId: user._id
+        //     })
+        // })
     })
 }
 

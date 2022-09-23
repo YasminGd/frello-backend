@@ -55,7 +55,8 @@ async function updateBoard(req, res) {
     const updatedBoard = await boardService.update(board)
     const loggedinUser = asyncLocalStorage.getStore().loggedinUser
 
-    broadcast({ type: 'update-board', data: updatedBoard, room: updatedBoard._id, userId: loggedinUser._id })
+    broadcast({ type: 'update-board', data: updatedBoard, room: updatedBoard._id, userId: loggedinUser?._id })
+
     res.json(updatedBoard)
   } catch (err) {
     logger.error('Failed to update board', err)

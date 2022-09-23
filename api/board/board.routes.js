@@ -1,5 +1,5 @@
 const express = require('express')
-const { requireAuth, requireAdmin } = require('../../middlewares/requireAuth.middleware')
+// const { requireAuth, requireAdmin } = require('../../middlewares/requireAuth.middleware')
 const { getBoards, getBoardById, addBoard, updateBoard, removeBoard/*, addReview */ } = require('./board.controller')
 const router = express.Router()
 

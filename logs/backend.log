@@ -15961,3 +15961,40 @@
 9/23/2022, 10:22:06 PM - DEBUG - auth.service - login with username: LeeSharon
 9/23/2022, 10:22:06 PM - INFO - User login:  | {"_id":"6328c0c658bdeb6ae821db18","username":"LeeSharon","fullname":"Lee Sharon","imgUrl":"https://scontent.ftlv23-1.fna.fbcdn.net/v/t31.18172-8/20157447_10155321973701047_7503367269692251994_o.jpg?stp=dst-jpg_p960x960&_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_ohc=-Xl-yuhb17QAX9mVafE&_nc_oc=AQmk7_yu3aK9zXZJ1L2aG8YCukN9dwOc_yxOdHSAcS6HsFNwBF-RsmA8IpM3BEEjx0Y&tn=qaqignt_wEc5HEq3&_nc_ht=scontent.ftlv23-1.fna&oh=00_AT8CayO-5d2vib8idTkvG-05B_NHSmRMZxjPk3kEAubWCA&oe=634D2378"}
 9/23/2022, 10:22:06 PM - DEBUG - Getting Boards
+9/23/2022, 10:25:08 PM - INFO - Server is running on port: 3030
+9/23/2022, 10:25:10 PM - INFO - New connected socket [id: 9GF07NDNZqAzwzUlAAAB]
+9/23/2022, 10:30:44 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: 9GF07NDNZqAzwzUlAAAB]
+9/23/2022, 10:31:23 PM - INFO - Broadcasting event: update-board
+9/23/2022, 10:31:23 PM - INFO - Emit to room: 632b3c8ece43d75b60aaa4ab
+9/23/2022, 10:32:43 PM - INFO - Server is running on port: 3030
+9/23/2022, 10:32:44 PM - INFO - New connected socket [id: Eqh23Y1bURljPPZyAAAB]
+9/23/2022, 10:33:37 PM - DEBUG - Getting Boards
+9/23/2022, 10:33:38 PM - INFO - Socket is now on board 632ac23e4e2d9338caf71229 [id: Eqh23Y1bURljPPZyAAAB]
+9/23/2022, 10:33:45 PM - INFO - Broadcasting event: update-board
+9/23/2022, 10:33:45 PM - INFO - Emit to room: 632ac23e4e2d9338caf71229
+9/23/2022, 10:33:47 PM - INFO - Broadcasting event: update-board
+9/23/2022, 10:33:47 PM - INFO - Emit to room: 632ac23e4e2d9338caf71229
+9/23/2022, 10:35:00 PM - DEBUG - Getting Boards
+9/23/2022, 10:35:00 PM - INFO - Socket is leaving board 632ac23e4e2d9338caf71229 [id: Eqh23Y1bURljPPZyAAAB]
+9/23/2022, 10:35:00 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: Eqh23Y1bURljPPZyAAAB]
+9/23/2022, 10:35:08 PM - INFO - Broadcasting event: update-board
+9/23/2022, 10:35:08 PM - INFO - Emit to room: 632b3c8ece43d75b60aaa4ab
+9/23/2022, 10:44:56 PM - INFO - Server is running on port: 3030
+9/23/2022, 10:44:57 PM - INFO - New connected socket [id: oqwRFEv4Ppf34DYnAAAB]
+9/23/2022, 10:45:54 PM - INFO - Server is running on port: 3030
+9/23/2022, 10:45:56 PM - INFO - New connected socket [id: mtsaV7T42nd4bk7UAAAB]
+9/23/2022, 10:46:16 PM - INFO - Socket disconnected [id: undefined]
+9/23/2022, 10:46:18 PM - INFO - New connected socket [id: AJwvhlZQ9kSGOdgfAAAD]
+9/23/2022, 10:46:18 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: AJwvhlZQ9kSGOdgfAAAD]
+9/23/2022, 10:46:18 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: AJwvhlZQ9kSGOdgfAAAD]
+9/23/2022, 10:46:35 PM - DEBUG - Getting Boards
+9/23/2022, 10:46:42 PM - INFO - Broadcasting event: update-board
+9/23/2022, 10:46:42 PM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/23/2022, 10:46:43 PM - INFO - Broadcasting event: update-board
+9/23/2022, 10:46:43 PM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/23/2022, 10:46:48 PM - INFO - Broadcasting event: update-board
+9/23/2022, 10:46:48 PM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/23/2022, 10:46:49 PM - INFO - Broadcasting event: update-board
+9/23/2022, 10:46:49 PM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/23/2022, 10:46:51 PM - INFO - Broadcasting event: update-board
+9/23/2022, 10:46:51 PM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18

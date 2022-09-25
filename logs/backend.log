@@ -15998,3 +15998,424 @@
 9/23/2022, 10:46:49 PM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
 9/23/2022, 10:46:51 PM - INFO - Broadcasting event: update-board
 9/23/2022, 10:46:51 PM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/23/2022, 10:50:33 PM - INFO - Socket disconnected [id: undefined]
+9/23/2022, 10:50:35 PM - INFO - New connected socket [id: LR7w_qBPTCtnT4OVAAAF]
+9/23/2022, 10:50:35 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: LR7w_qBPTCtnT4OVAAAF]
+9/23/2022, 10:50:35 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: LR7w_qBPTCtnT4OVAAAF]
+9/23/2022, 10:50:43 PM - INFO - Socket disconnected [id: undefined]
+9/23/2022, 10:50:45 PM - INFO - New connected socket [id: jMhACYQHNMOhS2yFAAAH]
+9/23/2022, 10:50:45 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: jMhACYQHNMOhS2yFAAAH]
+9/23/2022, 10:50:45 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: jMhACYQHNMOhS2yFAAAH]
+9/23/2022, 10:54:38 PM - INFO - Socket disconnected [id: undefined]
+9/23/2022, 10:54:40 PM - INFO - New connected socket [id: uVjgoerDpilv4nT1AAAJ]
+9/23/2022, 10:54:40 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: uVjgoerDpilv4nT1AAAJ]
+9/23/2022, 10:54:40 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: uVjgoerDpilv4nT1AAAJ]
+9/23/2022, 10:56:22 PM - INFO - Socket disconnected [id: undefined]
+9/23/2022, 10:56:24 PM - INFO - New connected socket [id: 4rrllX9o3TLxzzLJAAAL]
+9/23/2022, 10:56:24 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: 4rrllX9o3TLxzzLJAAAL]
+9/23/2022, 10:56:24 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: 4rrllX9o3TLxzzLJAAAL]
+9/23/2022, 10:58:24 PM - INFO - Socket disconnected [id: undefined]
+9/23/2022, 10:58:26 PM - INFO - New connected socket [id: AnGJizSDIfIcUG9KAAAN]
+9/23/2022, 10:58:26 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: AnGJizSDIfIcUG9KAAAN]
+9/23/2022, 10:58:26 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: AnGJizSDIfIcUG9KAAAN]
+9/23/2022, 10:59:05 PM - INFO - Socket disconnected [id: undefined]
+9/23/2022, 10:59:07 PM - INFO - New connected socket [id: fR9tZ2JkW71Aq1lLAAAP]
+9/23/2022, 10:59:07 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: fR9tZ2JkW71Aq1lLAAAP]
+9/23/2022, 10:59:08 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: fR9tZ2JkW71Aq1lLAAAP]
+9/23/2022, 11:02:31 PM - INFO - Socket disconnected [id: undefined]
+9/23/2022, 11:02:33 PM - INFO - New connected socket [id: weNaxctoZek9CdmYAAAR]
+9/23/2022, 11:02:34 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: weNaxctoZek9CdmYAAAR]
+9/23/2022, 11:02:34 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: weNaxctoZek9CdmYAAAR]
+9/23/2022, 11:06:29 PM - DEBUG - Getting Boards
+9/23/2022, 11:06:33 PM - INFO - Socket disconnected [id: undefined]
+9/23/2022, 11:06:35 PM - INFO - New connected socket [id: CMJLPff7jrRj9f4_AAAT]
+9/23/2022, 11:06:35 PM - DEBUG - Getting Boards
+9/23/2022, 11:06:35 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: CMJLPff7jrRj9f4_AAAT]
+9/23/2022, 11:06:38 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: CMJLPff7jrRj9f4_AAAT]
+9/23/2022, 11:07:23 PM - INFO - Broadcasting event: update-board
+9/23/2022, 11:07:23 PM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/23/2022, 11:07:27 PM - INFO - Broadcasting event: update-board
+9/23/2022, 11:07:27 PM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/23/2022, 11:07:28 PM - INFO - Broadcasting event: update-board
+9/23/2022, 11:07:28 PM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/23/2022, 11:07:33 PM - INFO - Broadcasting event: update-board
+9/23/2022, 11:07:33 PM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/23/2022, 11:07:35 PM - INFO - Broadcasting event: update-board
+9/23/2022, 11:07:35 PM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/23/2022, 11:07:50 PM - INFO - Broadcasting event: update-board
+9/23/2022, 11:07:50 PM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/23/2022, 11:08:46 PM - INFO - Socket disconnected [id: undefined]
+9/23/2022, 11:08:48 PM - INFO - New connected socket [id: beOcS_Cs6upDML2VAAAV]
+9/23/2022, 11:08:48 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: beOcS_Cs6upDML2VAAAV]
+9/23/2022, 11:08:48 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: beOcS_Cs6upDML2VAAAV]
+9/23/2022, 11:08:54 PM - INFO - Socket disconnected [id: undefined]
+9/23/2022, 11:08:56 PM - INFO - New connected socket [id: PWNefokpydwiuiuhAAAX]
+9/23/2022, 11:08:56 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: PWNefokpydwiuiuhAAAX]
+9/23/2022, 11:08:56 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: PWNefokpydwiuiuhAAAX]
+9/23/2022, 11:09:05 PM - INFO - Socket disconnected [id: undefined]
+9/23/2022, 11:09:07 PM - INFO - New connected socket [id: r2_OEFcuBqxdElQOAAAZ]
+9/23/2022, 11:09:07 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: r2_OEFcuBqxdElQOAAAZ]
+9/23/2022, 11:09:07 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: r2_OEFcuBqxdElQOAAAZ]
+9/23/2022, 11:09:16 PM - INFO - Socket disconnected [id: undefined]
+9/23/2022, 11:09:18 PM - INFO - New connected socket [id: YWyo3JS43pSHjEqNAAAb]
+9/23/2022, 11:09:18 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: YWyo3JS43pSHjEqNAAAb]
+9/23/2022, 11:09:18 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: YWyo3JS43pSHjEqNAAAb]
+9/23/2022, 11:09:41 PM - INFO - Socket disconnected [id: undefined]
+9/23/2022, 11:09:43 PM - INFO - New connected socket [id: uCl0VhTYiDQH853tAAAd]
+9/23/2022, 11:09:44 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: uCl0VhTYiDQH853tAAAd]
+9/23/2022, 11:09:44 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: uCl0VhTYiDQH853tAAAd]
+9/23/2022, 11:20:43 PM - INFO - Socket disconnected [id: undefined]
+9/23/2022, 11:20:46 PM - INFO - New connected socket [id: 3YK4C3LL76TbSDJeAAAf]
+9/23/2022, 11:20:46 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: 3YK4C3LL76TbSDJeAAAf]
+9/23/2022, 11:20:46 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: 3YK4C3LL76TbSDJeAAAf]
+9/23/2022, 11:24:15 PM - INFO - Socket disconnected [id: undefined]
+9/23/2022, 11:24:18 PM - INFO - New connected socket [id: iA1TK5qDqATS0rooAAAh]
+9/23/2022, 11:24:18 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: iA1TK5qDqATS0rooAAAh]
+9/23/2022, 11:24:18 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: iA1TK5qDqATS0rooAAAh]
+9/23/2022, 11:34:01 PM - INFO - Server is running on port: 3030
+9/23/2022, 11:34:02 PM - INFO - New connected socket [id: X6mhMkNf0JoaM_lTAAAB]
+9/23/2022, 11:46:58 PM - DEBUG - Getting Boards
+9/23/2022, 11:47:01 PM - INFO - Socket is now on board 632ba572da9074328d58a98c [id: X6mhMkNf0JoaM_lTAAAB]
+9/23/2022, 11:47:23 PM - INFO - Broadcasting event: update-board
+9/23/2022, 11:47:23 PM - INFO - Emit to room: 632ba572da9074328d58a98c
+9/23/2022, 11:50:28 PM - INFO - Socket disconnected [id: undefined]
+9/23/2022, 11:50:29 PM - INFO - New connected socket [id: JZERtQtCxg1lAM4yAAAD]
+9/23/2022, 11:50:30 PM - INFO - Socket is now on board 632ba572da9074328d58a98c [id: JZERtQtCxg1lAM4yAAAD]
+9/23/2022, 11:50:30 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: JZERtQtCxg1lAM4yAAAD]
+9/23/2022, 11:50:43 PM - INFO - Socket disconnected [id: undefined]
+9/23/2022, 11:50:45 PM - INFO - New connected socket [id: fITyHQ1FDzT0A_7RAAAF]
+9/23/2022, 11:50:45 PM - INFO - Socket is now on board 632ba572da9074328d58a98c [id: fITyHQ1FDzT0A_7RAAAF]
+9/23/2022, 11:50:46 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: fITyHQ1FDzT0A_7RAAAF]
+9/23/2022, 11:52:12 PM - INFO - Socket disconnected [id: undefined]
+9/23/2022, 11:52:14 PM - INFO - New connected socket [id: JtMbO5Xm8TfI6X-NAAAH]
+9/23/2022, 11:52:14 PM - INFO - Socket is now on board 632ba572da9074328d58a98c [id: JtMbO5Xm8TfI6X-NAAAH]
+9/23/2022, 11:52:14 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: JtMbO5Xm8TfI6X-NAAAH]
+9/23/2022, 11:52:46 PM - INFO - Socket disconnected [id: undefined]
+9/23/2022, 11:52:48 PM - INFO - New connected socket [id: 659dXFUWnlMD5ggZAAAJ]
+9/23/2022, 11:52:48 PM - INFO - Socket is now on board 632ba572da9074328d58a98c [id: 659dXFUWnlMD5ggZAAAJ]
+9/23/2022, 11:52:48 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: 659dXFUWnlMD5ggZAAAJ]
+9/23/2022, 11:53:01 PM - INFO - Socket disconnected [id: undefined]
+9/23/2022, 11:53:03 PM - INFO - New connected socket [id: si9ZXuUxSRhNmtlIAAAL]
+9/23/2022, 11:53:03 PM - INFO - Socket is now on board 632ba572da9074328d58a98c [id: si9ZXuUxSRhNmtlIAAAL]
+9/23/2022, 11:53:04 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: si9ZXuUxSRhNmtlIAAAL]
+9/23/2022, 11:53:20 PM - INFO - Socket disconnected [id: undefined]
+9/23/2022, 11:53:21 PM - INFO - New connected socket [id: -HQ8-QoAPjBbNE11AAAN]
+9/23/2022, 11:53:22 PM - INFO - Socket is now on board 632ba572da9074328d58a98c [id: -HQ8-QoAPjBbNE11AAAN]
+9/23/2022, 11:53:22 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: -HQ8-QoAPjBbNE11AAAN]
+9/24/2022, 12:00:43 AM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 12:00:44 AM - INFO - New connected socket [id: 3eS238g0ZdIwF9gbAAAP]
+9/24/2022, 12:00:45 AM - INFO - Socket is now on board 632ba572da9074328d58a98c [id: 3eS238g0ZdIwF9gbAAAP]
+9/24/2022, 12:00:45 AM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: 3eS238g0ZdIwF9gbAAAP]
+9/24/2022, 12:09:09 AM - INFO - Broadcasting event: update-board
+9/24/2022, 12:09:09 AM - INFO - Broadcast to room 632ba572da9074328d58a98c excluding user: 6328c0c658bdeb6ae821db18
+9/24/2022, 12:11:14 AM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 12:11:16 AM - INFO - New connected socket [id: qO1smX-3pM2jQJcNAAAR]
+9/24/2022, 12:11:16 AM - INFO - Socket is now on board 632ba572da9074328d58a98c [id: qO1smX-3pM2jQJcNAAAR]
+9/24/2022, 12:11:17 AM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: qO1smX-3pM2jQJcNAAAR]
+9/24/2022, 12:16:10 AM - INFO - Broadcasting event: update-board
+9/24/2022, 12:16:10 AM - INFO - Broadcast to room 632ba572da9074328d58a98c excluding user: 6328c0c658bdeb6ae821db18
+9/24/2022, 12:16:18 AM - INFO - Broadcasting event: update-board
+9/24/2022, 12:16:18 AM - INFO - Broadcast to room 632ba572da9074328d58a98c excluding user: 6328c0c658bdeb6ae821db18
+9/24/2022, 12:17:23 AM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 12:17:25 AM - INFO - New connected socket [id: KaCaVgUowVYIYyXmAAAT]
+9/24/2022, 12:17:25 AM - INFO - Socket is now on board 632ba572da9074328d58a98c [id: KaCaVgUowVYIYyXmAAAT]
+9/24/2022, 12:17:25 AM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: KaCaVgUowVYIYyXmAAAT]
+9/24/2022, 12:17:33 AM - INFO - Broadcasting event: update-board
+9/24/2022, 12:17:33 AM - INFO - Broadcast to room 632ba572da9074328d58a98c excluding user: 6328c0c658bdeb6ae821db18
+9/24/2022, 12:17:36 AM - INFO - Broadcasting event: update-board
+9/24/2022, 12:17:36 AM - INFO - Broadcast to room 632ba572da9074328d58a98c excluding user: 6328c0c658bdeb6ae821db18
+9/24/2022, 12:20:02 AM - INFO - Broadcasting event: update-board
+9/24/2022, 12:20:02 AM - INFO - Broadcast to room 632ba572da9074328d58a98c excluding user: 6328c0c658bdeb6ae821db18
+9/24/2022, 12:20:03 AM - INFO - Broadcasting event: update-board
+9/24/2022, 12:20:03 AM - INFO - Broadcast to room 632ba572da9074328d58a98c excluding user: 6328c0c658bdeb6ae821db18
+9/24/2022, 12:27:19 AM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 12:27:21 AM - INFO - New connected socket [id: aNVswgEdsf99MOm2AAAV]
+9/24/2022, 12:27:21 AM - INFO - Socket is now on board 632ba572da9074328d58a98c [id: aNVswgEdsf99MOm2AAAV]
+9/24/2022, 12:27:21 AM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: aNVswgEdsf99MOm2AAAV]
+9/24/2022, 12:27:30 AM - INFO - Broadcasting event: update-board
+9/24/2022, 12:27:30 AM - INFO - Broadcast to room 632ba572da9074328d58a98c excluding user: 6328c0c658bdeb6ae821db18
+9/24/2022, 12:27:31 AM - INFO - Broadcasting event: update-board
+9/24/2022, 12:27:31 AM - INFO - Broadcast to room 632ba572da9074328d58a98c excluding user: 6328c0c658bdeb6ae821db18
+9/24/2022, 12:31:34 AM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 12:31:36 AM - INFO - New connected socket [id: rk72158wnxGB2yTMAAAX]
+9/24/2022, 12:31:36 AM - INFO - Socket is now on board 632ba572da9074328d58a98c [id: rk72158wnxGB2yTMAAAX]
+9/24/2022, 12:31:36 AM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: rk72158wnxGB2yTMAAAX]
+9/24/2022, 12:35:01 AM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 12:35:03 AM - INFO - New connected socket [id: 5y7kPoMb-ek0tuboAAAZ]
+9/24/2022, 12:35:03 AM - INFO - Socket is now on board 632ba572da9074328d58a98c [id: 5y7kPoMb-ek0tuboAAAZ]
+9/24/2022, 12:35:03 AM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: 5y7kPoMb-ek0tuboAAAZ]
+9/24/2022, 12:36:30 AM - INFO - Broadcasting event: update-board
+9/24/2022, 12:36:30 AM - INFO - Broadcast to room 632ba572da9074328d58a98c excluding user: 6328c0c658bdeb6ae821db18
+9/24/2022, 1:01:23 AM - INFO - Broadcasting event: update-board
+9/24/2022, 1:01:23 AM - INFO - Broadcast to room 632ba572da9074328d58a98c excluding user: 6328c0c658bdeb6ae821db18
+9/24/2022, 1:03:58 AM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 1:04:02 AM - INFO - New connected socket [id: hypYWQ6gPtIbfUkUAAAb]
+9/24/2022, 1:04:02 AM - INFO - Socket is now on board 632ba572da9074328d58a98c [id: hypYWQ6gPtIbfUkUAAAb]
+9/24/2022, 1:04:02 AM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: hypYWQ6gPtIbfUkUAAAb]
+9/24/2022, 1:04:59 AM - INFO - Broadcasting event: update-board
+9/24/2022, 1:04:59 AM - INFO - Broadcast to room 632ba572da9074328d58a98c excluding user: 6328c0c658bdeb6ae821db18
+9/24/2022, 1:05:36 AM - INFO - Broadcasting event: update-board
+9/24/2022, 1:05:36 AM - INFO - Broadcast to room 632ba572da9074328d58a98c excluding user: 6328c0c658bdeb6ae821db18
+9/24/2022, 1:06:03 AM - INFO - Broadcasting event: update-board
+9/24/2022, 1:06:03 AM - INFO - Broadcast to room 632ba572da9074328d58a98c excluding user: 6328c0c658bdeb6ae821db18
+9/24/2022, 1:10:42 AM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 1:10:44 AM - INFO - New connected socket [id: au-MgrisOzfOQMjHAAAd]
+9/24/2022, 1:10:44 AM - INFO - Socket is now on board 632ba572da9074328d58a98c [id: au-MgrisOzfOQMjHAAAd]
+9/24/2022, 1:10:44 AM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: au-MgrisOzfOQMjHAAAd]
+9/24/2022, 1:17:26 AM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 1:17:28 AM - INFO - New connected socket [id: D2QLlQTnUH-wBhVuAAAf]
+9/24/2022, 1:17:28 AM - INFO - Socket is now on board 632ba572da9074328d58a98c [id: D2QLlQTnUH-wBhVuAAAf]
+9/24/2022, 1:17:28 AM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: D2QLlQTnUH-wBhVuAAAf]
+9/24/2022, 1:17:58 AM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 1:18:00 AM - INFO - New connected socket [id: J6uVQSkLNa-3iMgIAAAh]
+9/24/2022, 1:18:00 AM - INFO - Socket is now on board 632ba572da9074328d58a98c [id: J6uVQSkLNa-3iMgIAAAh]
+9/24/2022, 1:18:00 AM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: J6uVQSkLNa-3iMgIAAAh]
+9/24/2022, 1:18:45 AM - DEBUG - Getting Boards
+9/24/2022, 1:18:45 AM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 1:18:47 AM - INFO - New connected socket [id: kt6kks0UC2_hSrhUAAAj]
+9/24/2022, 1:18:47 AM - DEBUG - Getting Boards
+9/24/2022, 1:18:47 AM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: kt6kks0UC2_hSrhUAAAj]
+9/24/2022, 1:18:49 AM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: kt6kks0UC2_hSrhUAAAj]
+9/24/2022, 1:18:57 AM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 1:19:00 AM - INFO - New connected socket [id: 9n5v3ewTl2385w2RAAAl]
+9/24/2022, 1:19:00 AM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: 9n5v3ewTl2385w2RAAAl]
+9/24/2022, 1:19:00 AM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: 9n5v3ewTl2385w2RAAAl]
+9/24/2022, 1:19:41 AM - INFO - Broadcasting event: update-board
+9/24/2022, 1:19:41 AM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/24/2022, 1:23:07 AM - INFO - Broadcasting event: update-board
+9/24/2022, 1:23:07 AM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/24/2022, 1:23:47 AM - INFO - Broadcasting event: update-board
+9/24/2022, 1:23:47 AM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/24/2022, 1:51:27 AM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 1:51:29 AM - INFO - New connected socket [id: 8tkFIAasWXIIaOOuAAAn]
+9/24/2022, 1:51:30 AM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: 8tkFIAasWXIIaOOuAAAn]
+9/24/2022, 1:51:30 AM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: 8tkFIAasWXIIaOOuAAAn]
+9/24/2022, 1:52:10 AM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 1:52:12 AM - INFO - New connected socket [id: VPBYz9I5V0LnqkrwAAAp]
+9/24/2022, 1:52:12 AM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: VPBYz9I5V0LnqkrwAAAp]
+9/24/2022, 1:52:12 AM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: VPBYz9I5V0LnqkrwAAAp]
+9/24/2022, 1:53:26 AM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 1:53:28 AM - INFO - New connected socket [id: IYgYcPU1Yb6diFFKAAAr]
+9/24/2022, 1:53:28 AM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: IYgYcPU1Yb6diFFKAAAr]
+9/24/2022, 1:53:28 AM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: IYgYcPU1Yb6diFFKAAAr]
+9/24/2022, 1:57:27 AM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 1:57:29 AM - INFO - New connected socket [id: Y-pHjCSFV8EIkS0RAAAt]
+9/24/2022, 1:57:29 AM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: Y-pHjCSFV8EIkS0RAAAt]
+9/24/2022, 1:57:29 AM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: Y-pHjCSFV8EIkS0RAAAt]
+9/24/2022, 1:57:51 AM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 1:57:53 AM - INFO - New connected socket [id: KNlbAnaxPhkyj9ZrAAAv]
+9/24/2022, 1:57:53 AM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: KNlbAnaxPhkyj9ZrAAAv]
+9/24/2022, 1:57:53 AM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: KNlbAnaxPhkyj9ZrAAAv]
+9/24/2022, 1:58:02 AM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 1:58:05 AM - INFO - New connected socket [id: wyKl_RX5QzwpyIHYAAAx]
+9/24/2022, 1:58:06 AM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: wyKl_RX5QzwpyIHYAAAx]
+9/24/2022, 1:58:06 AM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: wyKl_RX5QzwpyIHYAAAx]
+9/24/2022, 1:58:15 AM - DEBUG - Getting Users
+9/24/2022, 2:13:03 AM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 2:13:06 AM - INFO - New connected socket [id: 4CRL0TjagbbYWC4IAAAz]
+9/24/2022, 2:13:06 AM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: 4CRL0TjagbbYWC4IAAAz]
+9/24/2022, 2:13:06 AM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: 4CRL0TjagbbYWC4IAAAz]
+9/24/2022, 2:15:01 AM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 2:15:04 AM - INFO - New connected socket [id: 9dBiEM-qNFKucozSAAA1]
+9/24/2022, 2:15:04 AM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: 9dBiEM-qNFKucozSAAA1]
+9/24/2022, 2:15:04 AM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: 9dBiEM-qNFKucozSAAA1]
+9/24/2022, 2:18:40 AM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 2:18:42 AM - INFO - New connected socket [id: 9Ga5Z2so1rucpJLhAAA3]
+9/24/2022, 2:18:43 AM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: 9Ga5Z2so1rucpJLhAAA3]
+9/24/2022, 2:18:43 AM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: 9Ga5Z2so1rucpJLhAAA3]
+9/24/2022, 2:42:47 AM - DEBUG - Getting Boards
+9/24/2022, 2:43:03 AM - DEBUG - Getting Boards
+9/24/2022, 2:43:46 AM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 2:43:53 AM - INFO - New connected socket [id: 5zBO01mOmcPnb_ybAAA5]
+9/24/2022, 2:43:53 AM - DEBUG - Getting Boards
+9/24/2022, 2:43:53 AM - INFO - Setting socket.userId = GjEHof for socket [id: 5zBO01mOmcPnb_ybAAA5]
+9/24/2022, 2:43:56 AM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 2:44:00 AM - INFO - New connected socket [id: oJpcudwL6dh-_iGEAAA7]
+9/24/2022, 2:44:01 AM - DEBUG - Getting Boards
+9/24/2022, 2:44:01 AM - INFO - Setting socket.userId = zhlrOf for socket [id: oJpcudwL6dh-_iGEAAA7]
+9/24/2022, 2:44:16 AM - DEBUG - auth.service - login with username: LeeSharon
+9/24/2022, 2:44:17 AM - INFO - User login:  | {"_id":"6328c0c658bdeb6ae821db18","username":"LeeSharon","fullname":"Lee Sharon","imgUrl":"https://scontent.ftlv23-1.fna.fbcdn.net/v/t31.18172-8/20157447_10155321973701047_7503367269692251994_o.jpg?stp=dst-jpg_p960x960&_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_ohc=-Xl-yuhb17QAX9mVafE&_nc_oc=AQmk7_yu3aK9zXZJ1L2aG8YCukN9dwOc_yxOdHSAcS6HsFNwBF-RsmA8IpM3BEEjx0Y&tn=qaqignt_wEc5HEq3&_nc_ht=scontent.ftlv23-1.fna&oh=00_AT8CayO-5d2vib8idTkvG-05B_NHSmRMZxjPk3kEAubWCA&oe=634D2378"}
+9/24/2022, 2:44:17 AM - DEBUG - Getting Boards
+9/24/2022, 2:44:21 AM - DEBUG - Getting Boards
+9/24/2022, 2:44:26 AM - INFO - Socket is now on board 632ba572da9074328d58a98c [id: oJpcudwL6dh-_iGEAAA7]
+9/24/2022, 2:45:03 AM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 2:45:05 AM - INFO - New connected socket [id: imQFFvdNoe79285qAAA9]
+9/24/2022, 2:49:21 AM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 2:49:23 AM - INFO - New connected socket [id: XslpBnJB7LizzH3bAAA_]
+9/24/2022, 1:39:20 PM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 1:39:23 PM - INFO - New connected socket [id: LQ93K8BUWLMzVsA0AABB]
+9/24/2022, 1:39:23 PM - INFO - Setting socket.userId = AIXnHs for socket [id: LQ93K8BUWLMzVsA0AABB]
+9/24/2022, 1:39:23 PM - INFO - Socket is now on board 632ba572da9074328d58a98c [id: LQ93K8BUWLMzVsA0AABB]
+9/24/2022, 1:39:37 PM - DEBUG - auth.service - login with username: LeeSharon
+9/24/2022, 1:39:37 PM - INFO - User login:  | {"_id":"6328c0c658bdeb6ae821db18","username":"LeeSharon","fullname":"Lee Sharon","imgUrl":"https://scontent.ftlv23-1.fna.fbcdn.net/v/t31.18172-8/20157447_10155321973701047_7503367269692251994_o.jpg?stp=dst-jpg_p960x960&_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_ohc=-Xl-yuhb17QAX9mVafE&_nc_oc=AQmk7_yu3aK9zXZJ1L2aG8YCukN9dwOc_yxOdHSAcS6HsFNwBF-RsmA8IpM3BEEjx0Y&tn=qaqignt_wEc5HEq3&_nc_ht=scontent.ftlv23-1.fna&oh=00_AT8CayO-5d2vib8idTkvG-05B_NHSmRMZxjPk3kEAubWCA&oe=634D2378"}
+9/24/2022, 1:39:38 PM - DEBUG - Getting Boards
+9/24/2022, 1:39:54 PM - INFO - Socket is leaving board 632ba572da9074328d58a98c [id: LQ93K8BUWLMzVsA0AABB]
+9/24/2022, 1:39:54 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: LQ93K8BUWLMzVsA0AABB]
+9/24/2022, 1:49:47 PM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 1:49:50 PM - INFO - New connected socket [id: pR6ReYBWzat13LJuAABD]
+9/24/2022, 1:49:51 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: pR6ReYBWzat13LJuAABD]
+9/24/2022, 1:49:51 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: pR6ReYBWzat13LJuAABD]
+9/24/2022, 2:34:30 PM - INFO - Broadcasting event: update-board
+9/24/2022, 2:34:30 PM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/24/2022, 2:34:32 PM - INFO - Broadcasting event: update-board
+9/24/2022, 2:34:32 PM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/24/2022, 2:34:35 PM - INFO - Broadcasting event: update-board
+9/24/2022, 2:34:35 PM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/24/2022, 2:34:38 PM - INFO - Broadcasting event: update-board
+9/24/2022, 2:34:38 PM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/24/2022, 2:35:28 PM - INFO - Broadcasting event: update-board
+9/24/2022, 2:35:28 PM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/24/2022, 2:53:52 PM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 2:53:55 PM - INFO - New connected socket [id: oc0zzpa_txmBaraTAABF]
+9/24/2022, 2:53:55 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: oc0zzpa_txmBaraTAABF]
+9/24/2022, 2:55:29 PM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 2:55:32 PM - INFO - New connected socket [id: -EpyIplLMsigl3-rAABH]
+9/24/2022, 2:55:32 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: -EpyIplLMsigl3-rAABH]
+9/24/2022, 2:56:01 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: -EpyIplLMsigl3-rAABH]
+9/24/2022, 2:56:10 PM - DEBUG - Getting Boards
+9/24/2022, 2:56:25 PM - DEBUG - auth.service - login with username: LeeSharon
+9/24/2022, 2:56:26 PM - INFO - User login:  | {"_id":"6328c0c658bdeb6ae821db18","username":"LeeSharon","fullname":"Lee Sharon","imgUrl":"https://scontent.ftlv23-1.fna.fbcdn.net/v/t31.18172-8/20157447_10155321973701047_7503367269692251994_o.jpg?stp=dst-jpg_p960x960&_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_ohc=-Xl-yuhb17QAX9mVafE&_nc_oc=AQmk7_yu3aK9zXZJ1L2aG8YCukN9dwOc_yxOdHSAcS6HsFNwBF-RsmA8IpM3BEEjx0Y&tn=qaqignt_wEc5HEq3&_nc_ht=scontent.ftlv23-1.fna&oh=00_AT8CayO-5d2vib8idTkvG-05B_NHSmRMZxjPk3kEAubWCA&oe=634D2378"}
+9/24/2022, 2:56:26 PM - DEBUG - Getting Boards
+9/24/2022, 2:56:41 PM - INFO - Socket is leaving board 632b3c8ece43d75b60aaa4ab [id: -EpyIplLMsigl3-rAABH]
+9/24/2022, 2:56:41 PM - INFO - Socket is now on board 632ac23e4e2d9338caf7122a [id: -EpyIplLMsigl3-rAABH]
+9/24/2022, 2:57:16 PM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 2:57:19 PM - INFO - New connected socket [id: jevPI3EwKyWS2Pt5AABJ]
+9/24/2022, 2:57:19 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: jevPI3EwKyWS2Pt5AABJ]
+9/24/2022, 2:57:19 PM - INFO - Socket is now on board 632ac23e4e2d9338caf7122a [id: jevPI3EwKyWS2Pt5AABJ]
+9/24/2022, 3:15:10 PM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 3:15:12 PM - INFO - New connected socket [id: 3-MjkI0huRAsgHc-AABL]
+9/24/2022, 7:47:49 PM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 7:47:50 PM - INFO - New connected socket [id: Lwo_hGf-mcsI5_TOAABN]
+9/24/2022, 8:20:25 PM - DEBUG - auth.service - login with username: LeeSharon
+9/24/2022, 8:20:26 PM - INFO - User login:  | {"_id":"6328c0c658bdeb6ae821db18","username":"LeeSharon","fullname":"Lee Sharon","imgUrl":"https://scontent.ftlv23-1.fna.fbcdn.net/v/t31.18172-8/20157447_10155321973701047_7503367269692251994_o.jpg?stp=dst-jpg_p960x960&_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_ohc=-Xl-yuhb17QAX9mVafE&_nc_oc=AQmk7_yu3aK9zXZJ1L2aG8YCukN9dwOc_yxOdHSAcS6HsFNwBF-RsmA8IpM3BEEjx0Y&tn=qaqignt_wEc5HEq3&_nc_ht=scontent.ftlv23-1.fna&oh=00_AT8CayO-5d2vib8idTkvG-05B_NHSmRMZxjPk3kEAubWCA&oe=634D2378"}
+9/24/2022, 8:20:26 PM - DEBUG - Getting Boards
+9/24/2022, 8:20:29 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: Lwo_hGf-mcsI5_TOAABN]
+9/24/2022, 8:21:46 PM - INFO - Broadcasting event: update-board
+9/24/2022, 8:21:46 PM - INFO - Emit to room: 632b3c8ece43d75b60aaa4ab
+9/24/2022, 8:21:49 PM - INFO - Broadcasting event: update-board
+9/24/2022, 8:21:49 PM - INFO - Emit to room: 632b3c8ece43d75b60aaa4ab
+9/24/2022, 8:21:52 PM - DEBUG - Getting Users
+9/24/2022, 8:21:55 PM - INFO - Broadcasting event: update-board
+9/24/2022, 8:21:55 PM - INFO - Emit to room: 632b3c8ece43d75b60aaa4ab
+9/24/2022, 8:22:06 PM - INFO - Broadcasting event: update-board
+9/24/2022, 8:22:06 PM - INFO - Emit to room: 632b3c8ece43d75b60aaa4ab
+9/24/2022, 8:22:14 PM - INFO - Broadcasting event: update-board
+9/24/2022, 8:22:14 PM - INFO - Emit to room: 632b3c8ece43d75b60aaa4ab
+9/24/2022, 8:22:22 PM - INFO - Broadcasting event: update-board
+9/24/2022, 8:22:22 PM - INFO - Emit to room: 632b3c8ece43d75b60aaa4ab
+9/24/2022, 8:22:35 PM - INFO - Broadcasting event: update-board
+9/24/2022, 8:22:35 PM - INFO - Emit to room: 632b3c8ece43d75b60aaa4ab
+9/24/2022, 8:23:04 PM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 8:23:05 PM - INFO - New connected socket [id: Fn70TD2zWxC3qEaQAABP]
+9/24/2022, 9:04:43 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: Fn70TD2zWxC3qEaQAABP]
+9/24/2022, 9:07:08 PM - INFO - Broadcasting event: update-board
+9/24/2022, 9:07:08 PM - INFO - Emit to room: 632b3c8ece43d75b60aaa4ab
+9/24/2022, 9:15:22 PM - DEBUG - Getting Boards
+9/24/2022, 9:15:47 PM - DEBUG - Getting Boards
+9/24/2022, 9:24:12 PM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 9:24:14 PM - INFO - New connected socket [id: 8lsjDNS14p8qQMl9AABR]
+9/24/2022, 9:24:15 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: 8lsjDNS14p8qQMl9AABR]
+9/24/2022, 9:26:02 PM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 9:26:04 PM - INFO - New connected socket [id: PojQZJJjjnjx6BNeAABT]
+9/24/2022, 9:26:04 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: PojQZJJjjnjx6BNeAABT]
+9/24/2022, 9:29:40 PM - DEBUG - Getting Boards
+9/24/2022, 9:29:42 PM - INFO - Socket is now on board 632ac23e4e2d9338caf7122a [id: PojQZJJjjnjx6BNeAABT]
+9/24/2022, 9:36:17 PM - INFO - Broadcasting event: update-board
+9/24/2022, 9:36:17 PM - INFO - Broadcast to room 632ac23e4e2d9338caf7122a excluding user: 6328c0c658bdeb6ae821db18
+9/24/2022, 9:37:35 PM - DEBUG - Getting Boards
+9/24/2022, 9:37:38 PM - INFO - Socket is leaving board 632ac23e4e2d9338caf7122a [id: PojQZJJjjnjx6BNeAABT]
+9/24/2022, 9:37:38 PM - INFO - Socket is now on board 632ba572da9074328d58a98c [id: PojQZJJjjnjx6BNeAABT]
+9/24/2022, 9:38:54 PM - INFO - Broadcasting event: update-board
+9/24/2022, 9:38:54 PM - INFO - Broadcast to room 632ba572da9074328d58a98c excluding user: 6328c0c658bdeb6ae821db18
+9/24/2022, 9:46:13 PM - INFO - Broadcasting event: update-board
+9/24/2022, 9:46:13 PM - INFO - Broadcast to room 632ba572da9074328d58a98c excluding user: 6328c0c658bdeb6ae821db18
+9/24/2022, 9:46:26 PM - INFO - Broadcasting event: update-board
+9/24/2022, 9:46:26 PM - INFO - Broadcast to room 632ba572da9074328d58a98c excluding user: 6328c0c658bdeb6ae821db18
+9/24/2022, 9:46:35 PM - INFO - Broadcasting event: update-board
+9/24/2022, 9:46:35 PM - INFO - Broadcast to room 632ba572da9074328d58a98c excluding user: 6328c0c658bdeb6ae821db18
+9/24/2022, 9:46:37 PM - INFO - Broadcasting event: update-board
+9/24/2022, 9:46:37 PM - INFO - Broadcast to room 632ba572da9074328d58a98c excluding user: 6328c0c658bdeb6ae821db18
+9/24/2022, 9:59:36 PM - INFO - Broadcasting event: update-board
+9/24/2022, 9:59:36 PM - INFO - Broadcast to room 632ba572da9074328d58a98c excluding user: 6328c0c658bdeb6ae821db18
+9/24/2022, 9:59:55 PM - INFO - Broadcasting event: update-board
+9/24/2022, 9:59:55 PM - INFO - Broadcast to room 632ba572da9074328d58a98c excluding user: 6328c0c658bdeb6ae821db18
+9/24/2022, 10:00:19 PM - INFO - Broadcasting event: update-board
+9/24/2022, 10:00:19 PM - INFO - Broadcast to room 632ba572da9074328d58a98c excluding user: 6328c0c658bdeb6ae821db18
+9/24/2022, 10:00:20 PM - INFO - Broadcasting event: update-board
+9/24/2022, 10:00:20 PM - INFO - Broadcast to room 632ba572da9074328d58a98c excluding user: 6328c0c658bdeb6ae821db18
+9/24/2022, 10:32:10 PM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 10:32:13 PM - INFO - New connected socket [id: 1JQ3_m9I8bkI17BCAABV]
+9/24/2022, 10:32:14 PM - INFO - Socket is now on board 632ba572da9074328d58a98c [id: 1JQ3_m9I8bkI17BCAABV]
+9/24/2022, 10:32:14 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: 1JQ3_m9I8bkI17BCAABV]
+9/24/2022, 10:32:41 PM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 10:32:42 PM - INFO - New connected socket [id: fhR8agMyvq3RGvSQAABX]
+9/24/2022, 10:32:43 PM - INFO - Socket is now on board 632ba572da9074328d58a98c [id: fhR8agMyvq3RGvSQAABX]
+9/24/2022, 10:32:43 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: fhR8agMyvq3RGvSQAABX]
+9/24/2022, 10:34:57 PM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 10:34:59 PM - INFO - New connected socket [id: rxD9EriMCOcSWUNUAABZ]
+9/24/2022, 10:34:59 PM - INFO - Socket is now on board 632ba572da9074328d58a98c [id: rxD9EriMCOcSWUNUAABZ]
+9/24/2022, 10:34:59 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: rxD9EriMCOcSWUNUAABZ]
+9/24/2022, 10:35:21 PM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 10:35:23 PM - INFO - New connected socket [id: cGSlb7mUmw9gE8S1AABb]
+9/24/2022, 10:35:23 PM - INFO - Socket is now on board 632ba572da9074328d58a98c [id: cGSlb7mUmw9gE8S1AABb]
+9/24/2022, 10:35:23 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: cGSlb7mUmw9gE8S1AABb]
+9/24/2022, 10:38:27 PM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 10:38:29 PM - INFO - New connected socket [id: 9wkTBBiNP8sZTeu3AABd]
+9/24/2022, 10:38:29 PM - INFO - Socket is now on board 632ba572da9074328d58a98c [id: 9wkTBBiNP8sZTeu3AABd]
+9/24/2022, 10:38:29 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: 9wkTBBiNP8sZTeu3AABd]
+9/24/2022, 10:49:18 PM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 10:49:20 PM - INFO - New connected socket [id: dkq6oL9x_xa1wRM7AABf]
+9/24/2022, 10:49:20 PM - INFO - Socket is now on board 632ba572da9074328d58a98c [id: dkq6oL9x_xa1wRM7AABf]
+9/24/2022, 10:49:20 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: dkq6oL9x_xa1wRM7AABf]
+9/24/2022, 10:53:30 PM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 10:53:33 PM - INFO - New connected socket [id: 1qORX6QPGkex8djbAABh]
+9/24/2022, 10:53:33 PM - INFO - Socket is now on board 632ba572da9074328d58a98c [id: 1qORX6QPGkex8djbAABh]
+9/24/2022, 10:53:33 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: 1qORX6QPGkex8djbAABh]
+9/24/2022, 11:00:31 PM - DEBUG - Getting Boards
+9/24/2022, 11:00:33 PM - INFO - Socket is leaving board 632ba572da9074328d58a98c [id: 1qORX6QPGkex8djbAABh]
+9/24/2022, 11:00:33 PM - INFO - Socket is now on board 632ac23e4e2d9338caf7122a [id: 1qORX6QPGkex8djbAABh]
+9/24/2022, 11:04:19 PM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 11:04:21 PM - INFO - New connected socket [id: sI7rUYhOR9RJN6IkAABj]
+9/24/2022, 11:04:21 PM - INFO - Socket is now on board 632ac23e4e2d9338caf7122a [id: sI7rUYhOR9RJN6IkAABj]
+9/24/2022, 11:04:21 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: sI7rUYhOR9RJN6IkAABj]
+9/24/2022, 11:17:18 PM - INFO - Broadcasting event: update-board
+9/24/2022, 11:17:18 PM - INFO - Broadcast to room 632ac23e4e2d9338caf7122a excluding user: 6328c0c658bdeb6ae821db18
+9/24/2022, 11:17:23 PM - DEBUG - Getting Boards
+9/24/2022, 11:17:26 PM - INFO - Socket is leaving board 632ac23e4e2d9338caf7122a [id: sI7rUYhOR9RJN6IkAABj]
+9/24/2022, 11:17:26 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: sI7rUYhOR9RJN6IkAABj]
+9/24/2022, 11:17:33 PM - INFO - Broadcasting event: update-board
+9/24/2022, 11:17:33 PM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/24/2022, 11:24:02 PM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 11:24:04 PM - INFO - New connected socket [id: lJuWavEwenmtu2_EAABl]
+9/24/2022, 11:24:04 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: lJuWavEwenmtu2_EAABl]
+9/24/2022, 11:24:04 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: lJuWavEwenmtu2_EAABl]
+9/24/2022, 11:25:18 PM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 11:25:20 PM - INFO - New connected socket [id: s7ghUhXJde_eWw7hAABn]
+9/24/2022, 11:25:20 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: s7ghUhXJde_eWw7hAABn]
+9/24/2022, 11:25:20 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: s7ghUhXJde_eWw7hAABn]
+9/24/2022, 11:38:58 PM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 11:39:02 PM - INFO - New connected socket [id: Y1jtSqENpbBn1ckSAABp]
+9/24/2022, 11:39:02 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: Y1jtSqENpbBn1ckSAABp]
+9/24/2022, 11:39:02 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: Y1jtSqENpbBn1ckSAABp]
+9/24/2022, 11:41:16 PM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 11:41:19 PM - INFO - New connected socket [id: rUJCesi4qI8zAHQAAABr]
+9/24/2022, 11:41:19 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: rUJCesi4qI8zAHQAAABr]
+9/24/2022, 11:41:19 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: rUJCesi4qI8zAHQAAABr]
+9/24/2022, 11:44:04 PM - INFO - Socket disconnected [id: undefined]
+9/24/2022, 11:44:06 PM - INFO - New connected socket [id: 8Ul1lj-xexHifX1yAABt]
+9/25/2022, 10:48:03 AM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 10:48:06 AM - INFO - New connected socket [id: WGpWvLqMI0kxybv3AABv]
+9/25/2022, 10:48:06 AM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: WGpWvLqMI0kxybv3AABv]
+9/25/2022, 10:48:06 AM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: WGpWvLqMI0kxybv3AABv]
+9/25/2022, 10:50:34 AM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 10:50:38 AM - INFO - New connected socket [id: Y0woB7NPQRKEPLifAABx]
+9/25/2022, 10:50:38 AM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: Y0woB7NPQRKEPLifAABx]
+9/25/2022, 10:50:38 AM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: Y0woB7NPQRKEPLifAABx]
+9/25/2022, 10:51:06 AM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 10:51:08 AM - INFO - New connected socket [id: A6oG24f9iD0WtvreAABz]
+9/25/2022, 10:51:08 AM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: A6oG24f9iD0WtvreAABz]
+9/25/2022, 10:51:08 AM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: A6oG24f9iD0WtvreAABz]
+9/25/2022, 10:54:36 AM - INFO - Broadcasting event: update-board
+9/25/2022, 10:54:36 AM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/25/2022, 10:54:44 AM - INFO - Broadcasting event: update-board
+9/25/2022, 10:54:44 AM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18

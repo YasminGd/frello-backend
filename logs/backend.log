@@ -17083,3 +17083,362 @@
 >>>>>>> 06be3bf6369771ad74b46ee369679c510c517af1
 9/25/2022, 11:02:03 AM - INFO - Server is running on port: 3030
 9/25/2022, 11:02:05 AM - INFO - New connected socket [id: EkNCQWTNnJ4UQLWUAAAB]
+9/25/2022, 11:07:58 AM - INFO - Broadcasting event: update-board
+9/25/2022, 11:07:58 AM - INFO - Emit to room: 632b3c8ece43d75b60aaa4ab
+9/25/2022, 11:08:16 AM - INFO - Broadcasting event: update-board
+9/25/2022, 11:08:16 AM - INFO - Emit to room: 632b3c8ece43d75b60aaa4ab
+9/25/2022, 11:10:32 AM - INFO - Broadcasting event: update-board
+9/25/2022, 11:10:32 AM - INFO - Emit to room: 632b3c8ece43d75b60aaa4ab
+9/25/2022, 11:10:35 AM - INFO - Broadcasting event: update-board
+9/25/2022, 11:10:35 AM - INFO - Emit to room: 632b3c8ece43d75b60aaa4ab
+9/25/2022, 11:10:41 AM - INFO - Broadcasting event: update-board
+9/25/2022, 11:10:41 AM - INFO - Emit to room: 632b3c8ece43d75b60aaa4ab
+9/25/2022, 11:10:44 AM - INFO - Broadcasting event: update-board
+9/25/2022, 11:10:44 AM - INFO - Emit to room: 632b3c8ece43d75b60aaa4ab
+9/25/2022, 11:18:56 AM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 11:19:00 AM - INFO - New connected socket [id: k2r50Xtr_p3ZAZ9gAAAD]
+9/25/2022, 11:19:00 AM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: k2r50Xtr_p3ZAZ9gAAAD]
+9/25/2022, 11:19:00 AM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: k2r50Xtr_p3ZAZ9gAAAD]
+9/25/2022, 11:20:48 AM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 11:20:52 AM - INFO - New connected socket [id: 5jW9FiQfXTfasYRAAAAF]
+9/25/2022, 11:20:53 AM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: 5jW9FiQfXTfasYRAAAAF]
+9/25/2022, 11:20:53 AM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: 5jW9FiQfXTfasYRAAAAF]
+9/25/2022, 11:22:32 AM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 11:22:35 AM - INFO - New connected socket [id: _0GyjG1RAmqIgvaJAAAH]
+9/25/2022, 11:22:35 AM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: _0GyjG1RAmqIgvaJAAAH]
+9/25/2022, 11:22:36 AM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: _0GyjG1RAmqIgvaJAAAH]
+9/25/2022, 11:23:44 AM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 11:23:48 AM - INFO - New connected socket [id: g6mpUABG4ondzcePAAAJ]
+9/25/2022, 11:23:48 AM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: g6mpUABG4ondzcePAAAJ]
+9/25/2022, 11:23:48 AM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: g6mpUABG4ondzcePAAAJ]
+9/25/2022, 11:24:06 AM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 11:24:12 AM - INFO - New connected socket [id: _QzNm3E7nkEGx4m8AAAL]
+9/25/2022, 11:24:12 AM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: _QzNm3E7nkEGx4m8AAAL]
+9/25/2022, 11:24:12 AM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: _QzNm3E7nkEGx4m8AAAL]
+9/25/2022, 11:28:58 AM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 11:29:00 AM - INFO - New connected socket [id: g5xPp0w06zGPbR9RAAAN]
+9/25/2022, 11:29:01 AM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: g5xPp0w06zGPbR9RAAAN]
+9/25/2022, 11:29:01 AM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: g5xPp0w06zGPbR9RAAAN]
+9/25/2022, 11:29:42 AM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 11:29:45 AM - INFO - New connected socket [id: s4CvOAYLhgRivXLsAAAP]
+9/25/2022, 11:29:45 AM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: s4CvOAYLhgRivXLsAAAP]
+9/25/2022, 11:29:45 AM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: s4CvOAYLhgRivXLsAAAP]
+9/25/2022, 11:29:53 AM - INFO - Broadcasting event: update-board
+9/25/2022, 11:29:53 AM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/25/2022, 11:30:39 AM - INFO - Broadcasting event: update-board
+9/25/2022, 11:30:39 AM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/25/2022, 11:30:41 AM - INFO - Broadcasting event: update-board
+9/25/2022, 11:30:41 AM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/25/2022, 11:31:08 AM - INFO - Broadcasting event: update-board
+9/25/2022, 11:31:08 AM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/25/2022, 11:31:15 AM - INFO - Broadcasting event: update-board
+9/25/2022, 11:31:15 AM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/25/2022, 11:31:16 AM - INFO - Broadcasting event: update-board
+9/25/2022, 11:31:16 AM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/25/2022, 11:31:18 AM - INFO - Broadcasting event: update-board
+9/25/2022, 11:31:18 AM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/25/2022, 11:31:20 AM - INFO - Broadcasting event: update-board
+9/25/2022, 11:31:20 AM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/25/2022, 11:34:32 AM - INFO - Broadcasting event: update-board
+9/25/2022, 11:34:32 AM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/25/2022, 11:34:37 AM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 11:34:40 AM - INFO - New connected socket [id: RJuX5XV18nMhZSLAAAAR]
+9/25/2022, 11:34:40 AM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: RJuX5XV18nMhZSLAAAAR]
+9/25/2022, 11:34:40 AM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: RJuX5XV18nMhZSLAAAAR]
+9/25/2022, 11:35:46 AM - INFO - Broadcasting event: update-board
+9/25/2022, 11:35:46 AM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/25/2022, 11:36:02 AM - INFO - Broadcasting event: update-board
+9/25/2022, 11:36:02 AM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/25/2022, 11:37:28 AM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 11:37:31 AM - INFO - New connected socket [id: KirHP-lSZzh_IHzWAAAT]
+9/25/2022, 11:37:31 AM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: KirHP-lSZzh_IHzWAAAT]
+9/25/2022, 11:37:31 AM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: KirHP-lSZzh_IHzWAAAT]
+9/25/2022, 11:38:15 AM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 11:38:18 AM - INFO - New connected socket [id: A0c3PXRwbuUVkcOtAAAV]
+9/25/2022, 11:38:18 AM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: A0c3PXRwbuUVkcOtAAAV]
+9/25/2022, 11:38:18 AM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: A0c3PXRwbuUVkcOtAAAV]
+9/25/2022, 11:39:26 AM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 11:39:29 AM - INFO - New connected socket [id: sB9VXftJbl10mhFYAAAX]
+9/25/2022, 11:39:29 AM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: sB9VXftJbl10mhFYAAAX]
+9/25/2022, 11:39:29 AM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: sB9VXftJbl10mhFYAAAX]
+9/25/2022, 11:50:56 AM - INFO - Broadcasting event: update-board
+9/25/2022, 11:50:56 AM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/25/2022, 11:51:04 AM - INFO - Broadcasting event: update-board
+9/25/2022, 11:51:04 AM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/25/2022, 11:52:04 AM - INFO - Broadcasting event: update-board
+9/25/2022, 11:52:04 AM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/25/2022, 12:23:11 PM - INFO - Broadcasting event: update-board
+9/25/2022, 12:23:11 PM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/25/2022, 12:26:17 PM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 12:26:20 PM - INFO - New connected socket [id: 1Le84SDssTADBZDXAAAZ]
+9/25/2022, 12:26:20 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: 1Le84SDssTADBZDXAAAZ]
+9/25/2022, 12:26:20 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: 1Le84SDssTADBZDXAAAZ]
+9/25/2022, 12:26:32 PM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 12:26:35 PM - INFO - New connected socket [id: QXTS73UyjdW3o715AAAb]
+9/25/2022, 12:26:35 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: QXTS73UyjdW3o715AAAb]
+9/25/2022, 12:26:35 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: QXTS73UyjdW3o715AAAb]
+9/25/2022, 12:30:35 PM - INFO - Broadcasting event: update-board
+9/25/2022, 12:30:35 PM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/25/2022, 12:31:11 PM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 12:31:14 PM - INFO - New connected socket [id: aJ3ZgBpLUCN3e4kWAAAd]
+9/25/2022, 12:31:14 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: aJ3ZgBpLUCN3e4kWAAAd]
+9/25/2022, 12:31:15 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: aJ3ZgBpLUCN3e4kWAAAd]
+9/25/2022, 12:31:53 PM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 12:31:56 PM - INFO - New connected socket [id: oskFrPJDmWfP1lUYAAAf]
+9/25/2022, 12:31:56 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: oskFrPJDmWfP1lUYAAAf]
+9/25/2022, 12:31:56 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: oskFrPJDmWfP1lUYAAAf]
+9/25/2022, 12:35:52 PM - DEBUG - Getting Boards
+9/25/2022, 12:37:13 PM - INFO - Socket is leaving board 632b3c8ece43d75b60aaa4ab [id: oskFrPJDmWfP1lUYAAAf]
+9/25/2022, 12:37:13 PM - INFO - Socket is now on board 632ac23e4e2d9338caf7122a [id: oskFrPJDmWfP1lUYAAAf]
+9/25/2022, 12:37:20 PM - INFO - Broadcasting event: update-board
+9/25/2022, 12:37:20 PM - INFO - Broadcast to room 632ac23e4e2d9338caf7122a excluding user: 6328c0c658bdeb6ae821db18
+9/25/2022, 12:37:20 PM - DEBUG - Getting Boards
+9/25/2022, 12:37:21 PM - INFO - Socket is leaving board 632ac23e4e2d9338caf7122a [id: oskFrPJDmWfP1lUYAAAf]
+9/25/2022, 12:37:21 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: oskFrPJDmWfP1lUYAAAf]
+9/25/2022, 12:38:33 PM - INFO - Broadcasting event: update-board
+9/25/2022, 12:38:33 PM - INFO - Broadcast to room 632b3c8ece43d75b60aaa4ab excluding user: 6328c0c658bdeb6ae821db18
+9/25/2022, 2:23:25 PM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 2:37:38 PM - INFO - New connected socket [id: ea3z7mfPhF6qKsDEAAAh]
+9/25/2022, 2:37:38 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: ea3z7mfPhF6qKsDEAAAh]
+9/25/2022, 2:37:38 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: ea3z7mfPhF6qKsDEAAAh]
+9/25/2022, 4:22:20 PM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 4:22:22 PM - INFO - New connected socket [id: QMbapBc020rm2jCfAAAj]
+9/25/2022, 4:22:22 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: QMbapBc020rm2jCfAAAj]
+9/25/2022, 4:23:05 PM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 4:23:24 PM - INFO - New connected socket [id: sm9aMmfwtYYnUO9_AAAl]
+9/25/2022, 4:23:26 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: sm9aMmfwtYYnUO9_AAAl]
+9/25/2022, 4:27:50 PM - INFO - Server is running on port: 3030
+9/25/2022, 4:27:55 PM - INFO - New connected socket [id: Ix78sBAzwuA0bjN3AAAB]
+9/25/2022, 4:28:39 PM - INFO - Server is running on port: 3030
+9/25/2022, 4:28:40 PM - INFO - New connected socket [id: -u7rKYceAqIfpmZvAAAB]
+9/25/2022, 4:28:50 PM - INFO - Server is running on port: 3030
+9/25/2022, 4:28:51 PM - INFO - New connected socket [id: 46OzYGkSgKkJl4XkAAAB]
+9/25/2022, 4:31:33 PM - INFO - Server is running on port: 3030
+9/25/2022, 4:31:35 PM - INFO - New connected socket [id: o0K-_PxWUagraUc5AAAB]
+9/25/2022, 4:31:35 PM - INFO - Server is running on port: 3030
+9/25/2022, 4:31:37 PM - INFO - New connected socket [id: LpqJYomH5ag03gm4AAAB]
+9/25/2022, 4:32:28 PM - INFO - Server is running on port: 3030
+9/25/2022, 4:32:29 PM - INFO - New connected socket [id: -j2oNnSelLQBCwFMAAAB]
+9/25/2022, 4:33:12 PM - INFO - Server is running on port: 3030
+9/25/2022, 4:33:13 PM - INFO - New connected socket [id: MkySGKVx19yGjf27AAAB]
+9/25/2022, 4:38:36 PM - INFO - Server is running on port: 3030
+9/25/2022, 4:38:41 PM - INFO - New connected socket [id: YkhWGtHomot4So-gAAAB]
+9/25/2022, 4:39:29 PM - INFO - Server is running on port: 3030
+9/25/2022, 4:39:30 PM - INFO - New connected socket [id: L8mRUoP2Sfg-K5jKAAAB]
+9/25/2022, 4:39:43 PM - INFO - Server is running on port: 3030
+9/25/2022, 4:39:44 PM - INFO - New connected socket [id: QStuTZIUo-gnkPDeAAAB]
+9/25/2022, 4:39:58 PM - INFO - Server is running on port: 3030
+9/25/2022, 4:39:59 PM - INFO - New connected socket [id: 0dAlRx85_-UJhqKwAAAB]
+9/25/2022, 4:40:11 PM - INFO - Server is running on port: 3030
+9/25/2022, 4:40:12 PM - INFO - New connected socket [id: 35sA-38Q2bRWU-cRAAAB]
+9/25/2022, 4:41:18 PM - INFO - Server is running on port: 3030
+9/25/2022, 4:41:19 PM - INFO - New connected socket [id: mNtCuPU8RowpfEL3AAAB]
+9/25/2022, 4:42:04 PM - INFO - Server is running on port: 3030
+9/25/2022, 4:42:05 PM - INFO - New connected socket [id: TZvOGWe5DKf95ETLAAAB]
+9/25/2022, 4:42:14 PM - INFO - Server is running on port: 3030
+9/25/2022, 4:42:15 PM - INFO - New connected socket [id: l1vbHusJwMPR8qWeAAAB]
+9/25/2022, 4:42:41 PM - INFO - Server is running on port: 3030
+9/25/2022, 4:42:43 PM - INFO - New connected socket [id: hurgu-RCAiSQGwkBAAAB]
+9/25/2022, 4:44:23 PM - INFO - Server is running on port: 3030
+9/25/2022, 4:44:24 PM - INFO - New connected socket [id: 1cdFy1l8Yf2AWC5qAAAB]
+9/25/2022, 4:44:39 PM - INFO - Server is running on port: 3030
+9/25/2022, 4:44:41 PM - INFO - New connected socket [id: Lj3DX8aVN2JscsP7AAAB]
+9/25/2022, 4:45:12 PM - INFO - Server is running on port: 3030
+9/25/2022, 4:45:14 PM - INFO - New connected socket [id: O4_WW2fMfIcTdlgeAAAB]
+9/25/2022, 4:45:20 PM - INFO - Server is running on port: 3030
+9/25/2022, 4:45:22 PM - INFO - New connected socket [id: 2dTUVGNoKiLQAZBpAAAB]
+9/25/2022, 5:02:12 PM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 5:02:15 PM - INFO - New connected socket [id: dxU_aOdzMK5WAOj-AAAD]
+9/25/2022, 5:02:15 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: dxU_aOdzMK5WAOj-AAAD]
+9/25/2022, 5:03:31 PM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 5:03:34 PM - INFO - New connected socket [id: jsxe4iCmPJVqFA5FAAAF]
+9/25/2022, 5:03:34 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: jsxe4iCmPJVqFA5FAAAF]
+9/25/2022, 5:03:55 PM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 5:03:58 PM - INFO - New connected socket [id: _690OC-jRYppoiIrAAAH]
+9/25/2022, 5:03:58 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: _690OC-jRYppoiIrAAAH]
+9/25/2022, 5:04:11 PM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 5:04:14 PM - INFO - New connected socket [id: _UxWrWx8VuyWOUfkAAAJ]
+9/25/2022, 5:04:14 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: _UxWrWx8VuyWOUfkAAAJ]
+9/25/2022, 5:04:22 PM - DEBUG - auth.service - signup with username: LeeSharon, fullname: 
+9/25/2022, 5:04:22 PM - ERROR - Failed to signup fullname, username and password are required!
+9/25/2022, 5:04:22 PM - DEBUG - Getting Boards
+9/25/2022, 5:04:32 PM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 5:04:35 PM - INFO - New connected socket [id: iPHWhC8ojvID2KR_AAAL]
+9/25/2022, 5:04:35 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: iPHWhC8ojvID2KR_AAAL]
+9/25/2022, 5:04:47 PM - DEBUG - Lee Sharon, leesharooon@gmail.com
+9/25/2022, 5:04:47 PM - DEBUG - auth.service - signup with username: leesharooon@gmail.com, fullname: Lee Sharon
+9/25/2022, 5:04:47 PM - DEBUG - auth.route - new account created: {"username":"leesharooon@gmail.com","fullname":"Lee Sharon","imgUrl":"https://lh3.googleusercontent.com/a/ALm5wu1JbzSAN2M4N0bIBRmRxzS6tiKMZeeOsUbvuClG=s96-c","_id":"63305fff528979919ab64f50"}
+9/25/2022, 5:04:47 PM - DEBUG - auth.service - login with username: leesharooon@gmail.com
+9/25/2022, 5:04:47 PM - ERROR - Failed to signup ReferenceError: cryptr is not defined
+9/25/2022, 5:04:47 PM - DEBUG - Getting Boards
+9/25/2022, 5:07:57 PM - INFO - Server is running on port: 3030
+9/25/2022, 5:07:59 PM - INFO - New connected socket [id: R3wgQQWmqAlI2Xr_AAAB]
+9/25/2022, 5:08:22 PM - INFO - Server is running on port: 3030
+9/25/2022, 5:08:23 PM - INFO - New connected socket [id: TPll_-6YVZsJPhuhAAAB]
+9/25/2022, 5:08:57 PM - INFO - Server is running on port: 3030
+9/25/2022, 5:09:01 PM - INFO - New connected socket [id: F_VDnQUA0WaHLgPbAAAB]
+9/25/2022, 5:09:04 PM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 5:09:07 PM - INFO - New connected socket [id: qVlfz-I4J1nLTkg3AAAD]
+9/25/2022, 5:09:08 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: qVlfz-I4J1nLTkg3AAAD]
+9/25/2022, 5:09:09 PM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 5:09:12 PM - INFO - New connected socket [id: tNRiTk04z2Wy-8vGAAAF]
+9/25/2022, 5:09:12 PM - INFO - Setting socket.userId = 6328c0c658bdeb6ae821db18 for socket [id: tNRiTk04z2Wy-8vGAAAF]
+9/25/2022, 5:09:18 PM - DEBUG - Lee Sharon, leesharooon@gmail.com
+9/25/2022, 5:09:18 PM - DEBUG - auth.service - signup with username: leesharooon@gmail.com, fullname: Lee Sharon
+9/25/2022, 5:09:19 PM - ERROR - Failed to signup Username already taken
+9/25/2022, 5:09:19 PM - DEBUG - Getting Boards
+9/25/2022, 5:09:57 PM - DEBUG - auth.service - signup with username: LeeSharon, fullname: 
+9/25/2022, 5:09:57 PM - ERROR - Failed to signup fullname, username and password are required!
+9/25/2022, 5:09:57 PM - DEBUG - Getting Boards
+9/25/2022, 5:10:05 PM - DEBUG - Lee Sharon, leesharooon@gmail.com
+9/25/2022, 5:10:05 PM - DEBUG - auth.service - signup with username: leesharooon@gmail.com, fullname: Lee Sharon
+9/25/2022, 5:10:05 PM - DEBUG - auth.route - new account created: {"username":"leesharooon@gmail.com","fullname":"Lee Sharon","imgUrl":"https://lh3.googleusercontent.com/a/ALm5wu1JbzSAN2M4N0bIBRmRxzS6tiKMZeeOsUbvuClG=s96-c","_id":"6330613d9a7b5293711ab454"}
+9/25/2022, 5:10:05 PM - DEBUG - google-auth.service - login with username: leesharooon@gmail.com
+9/25/2022, 5:10:05 PM - INFO - User login:  | {"_id":"6330613d9a7b5293711ab454","username":"leesharooon@gmail.com","password":null,"fullname":"Lee Sharon","imgUrl":"https://lh3.googleusercontent.com/a/ALm5wu1JbzSAN2M4N0bIBRmRxzS6tiKMZeeOsUbvuClG=s96-c"}
+9/25/2022, 5:10:05 PM - DEBUG - auth.service - login with username: leesharooon@gmail.com
+9/25/2022, 5:10:05 PM - ERROR - Failed to Login Error: data and hash arguments required
+9/25/2022, 5:10:05 PM - DEBUG - Getting Boards
+9/25/2022, 5:13:37 PM - INFO - Server is running on port: 3030
+9/25/2022, 5:13:38 PM - INFO - New connected socket [id: XhiTXLr4GLKwVkrBAAAB]
+9/25/2022, 5:14:10 PM - DEBUG - auth.service - signup with username: LeeSharon, fullname: 
+9/25/2022, 5:14:10 PM - ERROR - Failed to signup fullname, username and password are required!
+9/25/2022, 5:14:10 PM - DEBUG - Getting Boards
+9/25/2022, 5:14:17 PM - DEBUG - Lee Sharon, leesharooon@gmail.com
+9/25/2022, 5:14:17 PM - DEBUG - auth.service - signup with username: leesharooon@gmail.com, fullname: Lee Sharon
+9/25/2022, 5:14:17 PM - DEBUG - auth.route - new account created: {"username":"leesharooon@gmail.com","fullname":"Lee Sharon","imgUrl":"https://lh3.googleusercontent.com/a/ALm5wu1JbzSAN2M4N0bIBRmRxzS6tiKMZeeOsUbvuClG=s96-c","_id":"6330623931525793e9a2f966"}
+9/25/2022, 5:14:17 PM - DEBUG - google-auth.service - login with username: leesharooon@gmail.com
+9/25/2022, 5:14:17 PM - INFO - User login:  | {"_id":"6330623931525793e9a2f966","username":"leesharooon@gmail.com","password":null,"fullname":"Lee Sharon","imgUrl":"https://lh3.googleusercontent.com/a/ALm5wu1JbzSAN2M4N0bIBRmRxzS6tiKMZeeOsUbvuClG=s96-c"}
+9/25/2022, 5:14:18 PM - DEBUG - auth.service - login with username: leesharooon@gmail.com
+9/25/2022, 5:14:18 PM - ERROR - Failed to Login Error: data and hash arguments required
+9/25/2022, 5:14:18 PM - DEBUG - Getting Boards
+9/25/2022, 5:14:36 PM - INFO - Server is running on port: 3030
+9/25/2022, 5:14:37 PM - INFO - New connected socket [id: 4_vamuGSAUgBwWDSAAAB]
+9/25/2022, 5:14:56 PM - INFO - Server is running on port: 3030
+9/25/2022, 5:14:56 PM - INFO - New connected socket [id: zv4C9dhNcFopmV7hAAAB]
+9/25/2022, 5:15:31 PM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 5:15:33 PM - INFO - New connected socket [id: YYCLjpwWfYE6gEg0AAAD]
+9/25/2022, 5:15:34 PM - INFO - Setting socket.userId = SQY98J for socket [id: YYCLjpwWfYE6gEg0AAAD]
+9/25/2022, 5:15:41 PM - DEBUG - Lee Sharon, leesharooon@gmail.com
+9/25/2022, 5:15:41 PM - DEBUG - auth.service - signup with username: leesharooon@gmail.com, fullname: Lee Sharon
+9/25/2022, 5:15:44 PM - DEBUG - auth.route - new account created: {"username":"leesharooon@gmail.com","fullname":"Lee Sharon","imgUrl":"https://lh3.googleusercontent.com/a/ALm5wu1JbzSAN2M4N0bIBRmRxzS6tiKMZeeOsUbvuClG=s96-c","_id":"6330629076c71b944b77f675"}
+9/25/2022, 5:15:44 PM - DEBUG - google-auth.service - login with username: leesharooon@gmail.com
+9/25/2022, 5:15:44 PM - INFO - User login:  | {"_id":"6330629076c71b944b77f675","username":"leesharooon@gmail.com","password":null,"fullname":"Lee Sharon","imgUrl":"https://lh3.googleusercontent.com/a/ALm5wu1JbzSAN2M4N0bIBRmRxzS6tiKMZeeOsUbvuClG=s96-c"}
+9/25/2022, 5:15:44 PM - DEBUG - auth.service - login with username: leesharooon@gmail.com
+9/25/2022, 5:15:44 PM - ERROR - Failed to Login Error: data and hash arguments required
+9/25/2022, 5:15:44 PM - DEBUG - Getting Boards
+9/25/2022, 5:20:11 PM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 5:20:14 PM - INFO - New connected socket [id: ZUcR8pZAIXugGst5AAAF]
+9/25/2022, 5:20:14 PM - DEBUG - Getting Boards
+9/25/2022, 5:20:14 PM - INFO - Setting socket.userId = qs3G5F for socket [id: ZUcR8pZAIXugGst5AAAF]
+9/25/2022, 5:20:55 PM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 5:20:58 PM - INFO - New connected socket [id: IIz5wJamcuEXVO0zAAAH]
+9/25/2022, 5:20:58 PM - DEBUG - Getting Boards
+9/25/2022, 5:20:58 PM - INFO - Setting socket.userId = WHaiFj for socket [id: IIz5wJamcuEXVO0zAAAH]
+9/25/2022, 5:21:00 PM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 5:21:03 PM - INFO - New connected socket [id: DvgSDPY97FbXChPNAAAJ]
+9/25/2022, 5:21:03 PM - DEBUG - Getting Boards
+9/25/2022, 5:21:03 PM - INFO - Setting socket.userId = VpnRMI for socket [id: DvgSDPY97FbXChPNAAAJ]
+9/25/2022, 5:21:36 PM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 5:21:38 PM - INFO - New connected socket [id: 00_wV8kcSFjoF3SOAAAL]
+9/25/2022, 5:21:39 PM - INFO - Setting socket.userId = xGyM44 for socket [id: 00_wV8kcSFjoF3SOAAAL]
+9/25/2022, 5:21:44 PM - DEBUG - Lee Sharon, leesharooon@gmail.com
+9/25/2022, 5:21:44 PM - DEBUG - auth.service - signup with username: leesharooon@gmail.com, fullname: Lee Sharon
+9/25/2022, 5:21:45 PM - DEBUG - auth.route - new account created: {"username":"leesharooon@gmail.com","fullname":"Lee Sharon","imgUrl":"https://lh3.googleusercontent.com/a/ALm5wu1JbzSAN2M4N0bIBRmRxzS6tiKMZeeOsUbvuClG=s96-c","_id":"633063f876c71b944b77f676"}
+9/25/2022, 5:21:45 PM - DEBUG - google-auth.service - login with username: leesharooon@gmail.com
+9/25/2022, 5:21:45 PM - INFO - User login:  | {"_id":"633063f876c71b944b77f676","username":"leesharooon@gmail.com","password":null,"fullname":"Lee Sharon","imgUrl":"https://lh3.googleusercontent.com/a/ALm5wu1JbzSAN2M4N0bIBRmRxzS6tiKMZeeOsUbvuClG=s96-c"}
+9/25/2022, 5:21:45 PM - DEBUG - Getting Boards
+9/25/2022, 5:23:40 PM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 5:23:43 PM - INFO - New connected socket [id: nZ2ahZhU80qqJUWJAAAN]
+9/25/2022, 5:24:02 PM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 5:24:06 PM - INFO - New connected socket [id: _frmfVs31BaMTMUFAAAP]
+9/25/2022, 5:24:09 PM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 5:24:11 PM - INFO - New connected socket [id: y6k_qG_dQM7FDaYVAAAR]
+9/25/2022, 5:25:17 PM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 5:25:20 PM - INFO - New connected socket [id: 6vw2kiL0WcZoDl8vAAAT]
+9/25/2022, 5:25:34 PM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 5:25:36 PM - INFO - New connected socket [id: ak4OXnJy9nmpsrEpAAAV]
+9/25/2022, 5:25:51 PM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 5:25:53 PM - INFO - New connected socket [id: Wn0PrQlo0kqjVL6YAAAX]
+9/25/2022, 5:25:53 PM - INFO - Setting socket.userId = 41WfDZ for socket [id: Wn0PrQlo0kqjVL6YAAAX]
+9/25/2022, 5:25:59 PM - DEBUG - Lee Sharon, leesharooon@gmail.com
+9/25/2022, 5:25:59 PM - DEBUG - auth.service - signup with username: leesharooon@gmail.com, fullname: Lee Sharon
+9/25/2022, 5:25:59 PM - DEBUG - auth.route - new account created: {"username":"leesharooon@gmail.com","fullname":"Lee Sharon","imgUrl":"https://lh3.googleusercontent.com/a/ALm5wu1JbzSAN2M4N0bIBRmRxzS6tiKMZeeOsUbvuClG=s96-c","_id":"633064f776c71b944b77f677"}
+9/25/2022, 5:25:59 PM - DEBUG - google-auth.service - login with username: leesharooon@gmail.com
+9/25/2022, 5:25:59 PM - INFO - User login:  | {"_id":"633064f776c71b944b77f677","username":"leesharooon@gmail.com","password":null,"fullname":"Lee Sharon","imgUrl":"https://lh3.googleusercontent.com/a/ALm5wu1JbzSAN2M4N0bIBRmRxzS6tiKMZeeOsUbvuClG=s96-c"}
+9/25/2022, 5:25:59 PM - DEBUG - Getting Boards
+9/25/2022, 5:27:22 PM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 5:27:24 PM - INFO - New connected socket [id: pmc1npYrws_kt6_KAAAZ]
+9/25/2022, 5:27:24 PM - DEBUG - Getting Boards
+9/25/2022, 5:27:25 PM - INFO - Setting socket.userId = null for socket [id: pmc1npYrws_kt6_KAAAZ]
+9/25/2022, 5:31:08 PM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 5:31:10 PM - INFO - New connected socket [id: FZfsAEvxO_2UGAJpAAAb]
+9/25/2022, 5:31:11 PM - INFO - Setting socket.userId = null for socket [id: FZfsAEvxO_2UGAJpAAAb]
+9/25/2022, 5:32:03 PM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 5:32:06 PM - INFO - New connected socket [id: z6yOyy-_vncssVzbAAAd]
+9/25/2022, 5:32:06 PM - INFO - Setting socket.userId = 7WafCO for socket [id: z6yOyy-_vncssVzbAAAd]
+9/25/2022, 5:33:46 PM - DEBUG - Lee Sharon, leesharooon@gmail.com
+9/25/2022, 5:33:46 PM - DEBUG - auth.service - signup with username: leesharooon@gmail.com, fullname: Lee Sharon
+9/25/2022, 5:33:46 PM - DEBUG - auth.route - new account created: {"username":"leesharooon@gmail.com","fullname":"Lee Sharon","imgUrl":"https://lh3.googleusercontent.com/a/ALm5wu1JbzSAN2M4N0bIBRmRxzS6tiKMZeeOsUbvuClG=s96-c","_id":"633066ca76c71b944b77f678"}
+9/25/2022, 5:33:46 PM - DEBUG - google-auth.service - login with username: leesharooon@gmail.com
+9/25/2022, 5:33:47 PM - INFO - User login:  | {"_id":"633066ca76c71b944b77f678","username":"leesharooon@gmail.com","password":null,"fullname":"Lee Sharon","imgUrl":"https://lh3.googleusercontent.com/a/ALm5wu1JbzSAN2M4N0bIBRmRxzS6tiKMZeeOsUbvuClG=s96-c"}
+9/25/2022, 5:33:47 PM - DEBUG - Getting Boards
+9/25/2022, 5:38:43 PM - INFO - Socket is now on board 632ac23e4e2d9338caf7122a [id: z6yOyy-_vncssVzbAAAd]
+9/25/2022, 5:38:46 PM - DEBUG - Getting Boards
+9/25/2022, 5:38:47 PM - INFO - Socket is leaving board 632ac23e4e2d9338caf7122a [id: z6yOyy-_vncssVzbAAAd]
+9/25/2022, 5:38:47 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: z6yOyy-_vncssVzbAAAd]
+9/25/2022, 5:38:57 PM - DEBUG - Getting Users
+9/25/2022, 5:39:01 PM - INFO - Broadcasting event: update-board
+9/25/2022, 5:39:01 PM - INFO - Emit to room: 632b3c8ece43d75b60aaa4ab
+9/25/2022, 5:40:06 PM - DEBUG - Getting Users
+9/25/2022, 5:40:37 PM - INFO - Broadcasting event: update-board
+9/25/2022, 5:40:37 PM - INFO - Emit to room: 632b3c8ece43d75b60aaa4ab
+9/25/2022, 5:40:46 PM - INFO - Broadcasting event: update-board
+9/25/2022, 5:40:46 PM - INFO - Emit to room: 632b3c8ece43d75b60aaa4ab
+9/25/2022, 5:45:03 PM - INFO - Broadcasting event: update-board
+9/25/2022, 5:45:03 PM - INFO - Emit to room: 632b3c8ece43d75b60aaa4ab
+9/25/2022, 5:45:19 PM - INFO - Broadcasting event: update-board
+9/25/2022, 5:45:19 PM - INFO - Emit to room: 632b3c8ece43d75b60aaa4ab
+9/25/2022, 5:45:21 PM - INFO - Broadcasting event: update-board
+9/25/2022, 5:45:21 PM - INFO - Emit to room: 632b3c8ece43d75b60aaa4ab
+9/25/2022, 5:45:23 PM - INFO - Broadcasting event: update-board
+9/25/2022, 5:45:23 PM - INFO - Emit to room: 632b3c8ece43d75b60aaa4ab
+9/25/2022, 5:45:45 PM - DEBUG - Getting Boards
+9/25/2022, 5:46:25 PM - DEBUG - Lee Sharon, leesharooon@gmail.com
+9/25/2022, 5:46:25 PM - DEBUG - auth.service - signup with username: leesharooon@gmail.com, fullname: Lee Sharon
+9/25/2022, 5:46:26 PM - ERROR - Failed to signup Username already taken
+9/25/2022, 5:46:26 PM - DEBUG - Getting Boards
+9/25/2022, 5:48:39 PM - INFO - Socket disconnected [id: undefined]
+9/25/2022, 5:48:41 PM - INFO - New connected socket [id: 3tF9x4wbo0KfmYR6AAAf]
+9/25/2022, 5:48:42 PM - INFO - Setting socket.userId = YpvLhv for socket [id: 3tF9x4wbo0KfmYR6AAAf]
+9/25/2022, 5:49:44 PM - DEBUG - Lee Sharon, leesharooon@gmail.com
+9/25/2022, 5:49:44 PM - DEBUG - auth.service - signup with username: leesharooon@gmail.com, fullname: Lee Sharon
+9/25/2022, 5:49:44 PM - DEBUG - auth.route - new account created: {"username":"leesharooon@gmail.com","fullname":"Lee Sharon","imgUrl":"https://lh3.googleusercontent.com/a/ALm5wu1JbzSAN2M4N0bIBRmRxzS6tiKMZeeOsUbvuClG=s96-c","_id":"63306a8876c71b944b77f679"}
+9/25/2022, 5:49:44 PM - DEBUG - google-auth.service - login with username: leesharooon@gmail.com
+9/25/2022, 5:49:44 PM - INFO - User login:  | {"_id":"63306a8876c71b944b77f679","username":"leesharooon@gmail.com","password":null,"fullname":"Lee Sharon","imgUrl":"https://lh3.googleusercontent.com/a/ALm5wu1JbzSAN2M4N0bIBRmRxzS6tiKMZeeOsUbvuClG=s96-c"}
+9/25/2022, 5:49:44 PM - DEBUG - Getting Boards
+9/25/2022, 5:53:14 PM - DEBUG - Lee Sharon, leesharooon@gmail.com
+9/25/2022, 5:53:14 PM - DEBUG - auth.service - signup with username: leesharooon@gmail.com, fullname: Lee Sharon
+9/25/2022, 5:53:14 PM - DEBUG - auth.route - new account created: {"username":"leesharooon@gmail.com","fullname":"Lee Sharon","imgUrl":"https://lh3.googleusercontent.com/a/ALm5wu1JbzSAN2M4N0bIBRmRxzS6tiKMZeeOsUbvuClG=s96-c","_id":"63306b5a76c71b944b77f67a"}
+9/25/2022, 5:53:14 PM - DEBUG - google-auth.service - login with username: leesharooon@gmail.com
+9/25/2022, 5:53:14 PM - INFO - User login:  | {"_id":"63306b5a76c71b944b77f67a","username":"leesharooon@gmail.com","password":null,"fullname":"Lee Sharon","imgUrl":"https://lh3.googleusercontent.com/a/ALm5wu1JbzSAN2M4N0bIBRmRxzS6tiKMZeeOsUbvuClG=s96-c"}
+9/25/2022, 5:53:15 PM - DEBUG - Getting Boards
+9/25/2022, 5:53:38 PM - INFO - Socket is now on board 63306b6d76c71b944b77f67b [id: 3tF9x4wbo0KfmYR6AAAf]
+9/25/2022, 6:05:13 PM - INFO - Broadcasting event: update-board
+9/25/2022, 6:05:13 PM - INFO - Emit to room: 63306b6d76c71b944b77f67b
+9/25/2022, 6:05:14 PM - DEBUG - Getting Boards
+9/25/2022, 6:05:15 PM - INFO - Socket is leaving board 63306b6d76c71b944b77f67b [id: 3tF9x4wbo0KfmYR6AAAf]
+9/25/2022, 6:05:15 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: 3tF9x4wbo0KfmYR6AAAf]
+9/25/2022, 6:07:25 PM - INFO - Broadcasting event: update-board
+9/25/2022, 6:07:25 PM - INFO - Emit to room: 632b3c8ece43d75b60aaa4ab
+9/25/2022, 6:08:09 PM - INFO - Broadcasting event: update-board
+9/25/2022, 6:08:09 PM - INFO - Emit to room: 632b3c8ece43d75b60aaa4ab
+9/25/2022, 6:08:12 PM - INFO - Broadcasting event: update-board
+9/25/2022, 6:08:12 PM - INFO - Emit to room: 632b3c8ece43d75b60aaa4ab
+9/25/2022, 6:08:15 PM - INFO - Broadcasting event: update-board
+9/25/2022, 6:08:15 PM - INFO - Emit to room: 632b3c8ece43d75b60aaa4ab
+9/25/2022, 6:08:17 PM - INFO - Broadcasting event: update-board
+9/25/2022, 6:08:17 PM - INFO - Emit to room: 632b3c8ece43d75b60aaa4ab
+9/25/2022, 6:08:31 PM - INFO - Broadcasting event: update-board
+9/25/2022, 6:08:31 PM - INFO - Emit to room: 632b3c8ece43d75b60aaa4ab
+9/25/2022, 6:08:32 PM - INFO - Broadcasting event: update-board
+9/25/2022, 6:08:32 PM - INFO - Emit to room: 632b3c8ece43d75b60aaa4ab

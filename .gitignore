@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 .vscode
+logs/backend.log
 
 # testing
 /coverage

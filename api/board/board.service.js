@@ -52,37 +52,37 @@ async function add(board) {
         id: makeId(8),
         title: '',
         color: 'green',
-        class: 'green-hoverable',
+        class: 'green-opacity',
       },
       {
         id: makeId(8),
         title: '',
         color: 'yellow',
-        class: 'yellow-hoverable',
+        class: 'yellow-opacity',
       },
       {
         id: makeId(8),
         title: '',
         color: 'orange',
-        class: 'orange-hoverable',
+        class: 'orange-opacity',
       },
       {
         id: makeId(8),
         title: '',
         color: 'red',
-        class: 'red-hoverable',
+        class: 'red-opacity',
       },
       {
         id: makeId(8),
         title: '',
         color: 'purple',
-        class: 'purple-hoverable',
+        class: 'purple-opacity',
       },
       {
         id: makeId(8),
         title: '',
         color: 'blue',
-        class: 'blue-hoverable',
+        class: 'blue-opacity',
       },
     ]
     if (!loggedinUser) board.members = []

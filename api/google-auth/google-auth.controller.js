@@ -2,9 +2,9 @@ const googleAuthService = require('./google-auth.service')
 const logger = require('../../services/logger.service')
 
 async function login(req, res) {
-  const { username, password } = req.body
+  const { username } = req.body
   try {
-    const user = await googleAuthService.login(username, password)
+    const user = await googleAuthService.login(username)
     const loginToken = googleAuthService.getLoginToken(user)
     logger.info('User login: ', user)
     res.cookie('loginToken', loginToken)
@@ -35,17 +35,7 @@ async function signup(req, res) {
   }
 }
 
-async function logout(req, res) {
-  try {
-    res.clearCookie('loginToken')
-    res.send({ msg: 'Logged out successfully' })
-  } catch (err) {
-    res.status(500).send({ err: 'Failed to logout' })
-  }
-}
-
 module.exports = {
   login,
   signup,
-  logout,
 }

@@ -1,0 +1,105 @@
+{
+    "_id" : ObjectId("6328c0b758bdeb6ae821db16"),
+    "username" : "YasminGudha",
+    "password" : "$2b$10$W3Hz.W2466llZ7K4vdyr0O13G60/VswCKjH5vYJQGByHxt.oX72s2",
+    "fullname" : "Yasmin Gudha",
+    "imgUrl" : "https://res.cloudinary.com/frello/image/upload/v1663581895/hx94mf1jqzol7neds3yj.jpg"
+}
+{
+    "_id" : ObjectId("6328c0be58bdeb6ae821db17"),
+    "username" : "BarOhayon",
+    "password" : "$2b$10$gqR2zGEmoa0yH2.1fEi3/.CrRKtIzYz7.rkJCq00yjTrl5U2wMecO",
+    "fullname" : "Bar Ohayon",
+    "imgUrl" : "https://scontent.ftlv5-1.fna.fbcdn.net/v/t1.6435-9/42763932_10212194299428669_1889538263073423360_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=2dDzoFKxPc8AX_yKobY&_nc_ht=scontent.ftlv5-1.fna&oh=00_AT9asrzvxAlB9bFB3_A8dtuDp_c_JepsgXU3YVfnrFwc0g&oe=634CA39C"
+}
+{
+    "_id" : ObjectId("6328c0c658bdeb6ae821db18"),
+    "username" : "LeeSharon",
+    "password" : "$2b$10$1tY6oguWiNSh1Zc6ZwENiu9dZB4BritF.ynRNkx4PQEgGFtmRJBsa",
+    "fullname" : "Lee Sharon",
+    "imgUrl" : "https://res.cloudinary.com/frello/image/upload/v1664357841/c7ypsayxu4ybh0shf9br.jpg"
+}
+{
+    "_id" : ObjectId("632a0df8ad0bbd0634217eef"),
+    "username" : "Yonatan Ben Zeev",
+    "password" : "$2b$10$oipqHexxCy1T5n7TBhrD2OOne/XfQIKyGhMnuGfrKzgy0JQz9zTM2",
+    "fullname" : "Yonatan Ben Zeev",
+    "imgUrl" : "https://ca.slack-edge.com/T03E3RZ2KHV-U03MCKE1VEG-cf43280f7c40-512"
+}
+{
+    "_id" : ObjectId("632a336b8b579c11de17cc91"),
+    "username" : "Tommy Irmia",
+    "password" : "$2b$10$GUA8iv8tbb4qdxV6PH4.te9kURBxqdu0lE6/8M7MFgs9/btERaYJu",
+    "fullname" : "Tommy Irmia",
+    "imgUrl" : "https://ca.slack-edge.com/T03E3RZ2KHV-U03JYAMU4MR-9ca48df5fcba-512"
+}
+{
+    "_id" : ObjectId("632a33c78b579c11de17cc92"),
+    "username" : "Vicky Polatov",
+    "password" : "$2b$10$Z27UGXLRJkZJpenVdif2R.ktC5hqWBtjgDE7PJ5DFzrX7zS75mgM.",
+    "fullname" : "Vicky Polatov",
+    "imgUrl" : "https://ca.slack-edge.com/T03E3RZ2KHV-U03M2Q9S60M-4c913bd30643-512"
+}
+{
+    "_id" : ObjectId("632a34198b579c11de17cc93"),
+    "username" : "Barak Treves",
+    "password" : "$2b$10$VBnMKQD8xWD/6WFPTXUTkedWLngnbbpIA4d9Xh5aD7J9NbZ.fS1rG",
+    "fullname" : "Barak Treves",
+    "imgUrl" : "https://ca.slack-edge.com/T03E3RZ2KHV-U03M84KEW04-2b7a4cf96553-512"
+}
+{
+    "_id" : ObjectId("632a34a08b579c11de17cc94"),
+    "username" : "Ori Ben Amram",
+    "password" : "$2b$10$1Bx0MOn4gJMzsSNRqhq9TOerSj6LUXZXK7v5qLU98LNvAkag3akgy",
+    "fullname" : "Ori Ben Amram",
+    "imgUrl" : "https://ca.slack-edge.com/T03E3RZ2KHV-U03KA7R10H0-e3c51ee4a5e6-512"
+}
+{
+    "_id" : ObjectId("632a34d08b579c11de17cc95"),
+    "username" : "Roi Yotvat",
+    "password" : "$2b$10$cVb08p.u5xr0KEMX9AzvueWe4TGt11bhsVu3njsU4kiz5ICCOvrnK",
+    "fullname" : "Roi Yotvat",
+    "imgUrl" : "https://ca.slack-edge.com/T03E3RZ2KHV-U03HE9ZJTA6-79c26a7781c8-512"
+}
+{
+    "_id" : ObjectId("632a4f9d5ab0321a1c08675b"),
+    "username" : "Anna Haskelsky",
+    "password" : "$2b$10$fU9rsPMoEBeBDHo6OSk7GOpiXzvR7qptXvCCKsersP3/e5/QKJDIi",
+    "fullname" : "Anna Haskelsky",
+    "imgUrl" : "https://ca.slack-edge.com/T03E3RZ2KHV-U03PDC81XK6-a0621bf72f74-512"
+}
+{
+    "_id" : ObjectId("632a50055ab0321a1c08675c"),
+    "username" : "Elon Barzani",
+    "password" : "$2b$10$Ux1Xh32WuitaH5pbKyOIr.TzfrXufkhv.skIns9TCQnUNDziNjg62",
+    "fullname" : "Elon Barzani",
+    "imgUrl" : "https://ca.slack-edge.com/T03E3RZ2KHV-U03M2Q9P2AH-e3749e4ebe43-512"
+}
+{
+    "_id" : ObjectId("63341d67ff1d4a0016b2b945"),
+    "username" : "ohayonzzb@gmail.com",
+    "password" : null,
+    "fullname" : "Bar Ohayon",
+    "imgUrl" : "https://lh3.googleusercontent.com/a-/ACNPEu9OGABXSCocxYTT3hWFY_DNF7c96EVd0ZfTh8eYmg=s96-c"
+}
+{
+    "_id" : ObjectId("6334202cff1d4a0016b2b946"),
+    "username" : "yonatanbz6@gmail.com",
+    "password" : null,
+    "fullname" : "Jonathan Ben Zeev",
+    "imgUrl" : "https://lh3.googleusercontent.com/a/ALm5wu0H30xRuuiX_X_Y3wodPKVZSrgs9O75yAsh2LNl=s96-c"
+}
+{
+    "_id" : ObjectId("63342063ff1d4a0016b2b947"),
+    "username" : "neilo36@gmail.com",
+    "password" : null,
+    "fullname" : "ניל אוחיון",
+    "imgUrl" : "https://lh3.googleusercontent.com/a/ALm5wu3eZxm45Du4BKTH0i1ClzgR3SAXF3qqMegqI0gn=s96-c"
+}
+{
+    "_id" : ObjectId("63345fb2077ddc00163c33e7"),
+    "username" : "leesharooon@gmail.com",
+    "password" : null,
+    "fullname" : "Lee Sharon",
+    "imgUrl" : "https://lh3.googleusercontent.com/a-/ACNPEu-iYoe0heDsPeWKgF-oui2cF0jZrI_1og7eGvMRKSI=s96-c"
+}

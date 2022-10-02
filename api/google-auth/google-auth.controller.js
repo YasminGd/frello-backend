@@ -28,6 +28,7 @@ async function signup(req, res) {
 
     logger.info('User login: ', user)
     res.cookie('loginToken', loginToken)
+    delete user.password
     res.json(user)
   } catch (err) {
     logger.error('Failed to signup ' + err)

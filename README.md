@@ -1,6 +1,6 @@
-# Frello - pixel perfect, E2E clone of Trello (React + Node.js). 
+# Frello - Task management board app inspired by trello.com
 
-Task management board app inspired by trello.com, [Here is my project link](https://frello-urbc.onrender.com/ "Frello link").
+[Here's a link to my project](https://frello-urbc.onrender.com/ "Frello link").
 
 ![Main board image](src/assets/img/read-me/main-board.png "Board-main-page")
 
@@ -19,11 +19,11 @@ Users can work together and watch live changes.
 There are many other features in Trello, such as labels, due date for tasks, members and more. 
 
 ## Application Features
-- Create ***Boards*** and manage projects: Using ***D&D***, create, remove, and update lists and tasks.
-- Create, edit and delete ***Tasks*** to the deepest level: Labels, Due date, Members, Cover images, Checklists, Locations, Attachments, Activity log, Comments, Move and Delete.
-- ***filtering*** - Filter tasks based on title, members assigned to the task and labels.
-- ***Side Menu:*** - Change the background of the board with the ***Unsplash Photo API*** and a full board ***Activity*** Log!
-- Google Login, along with regular authentication which is encrypted and safe.
+- ***Boards*** - Create and manage projects: Using ***D&D***, create, remove, and update lists and tasks.
+- ***Tasks*** - Create, edit and delete to the deepest level: labels, due date, members, cover images, checklists, locations, attachments, activity log, comments, move and delete.
+- ***Filtering*** - Filter tasks based on title, members assigned to the task and labels.
+- ***Side Menu*** - Change the background of the board with the ***Unsplash Photo API*** and a full board ***Activity Log***!
+- ***Google Login*** - along with regular authentication which is encrypted and safe.
  
 We spent a lot of effort on making sure that the app is as close as possible to the original trello both in design and in functionality.
 
@@ -75,7 +75,7 @@ The landing page in which the user can sign up / login, or press the call to act
 ![Homepage image](src/assets/img/read-me/home-page.png "Home-page")
 
 ### Workspace
-All of the user's boards. Here the user can create new boards and visit already existing ones.
+All of the user's boards. Here the user can create new boards and visit existing ones.
 
 ![Workspace image](src/assets/img/read-me/boards.png "Workspace-page")
 
@@ -90,13 +90,13 @@ We created a sign up system that uses ***Google Login***.
 ![Login image](src/assets/img/read-me/sign-up.png "sign-up-page")
 
 ### Task details
-Here the user can edit their tasks and watch it happens live, on this page and behind it, on the board. Every button on the right menu opens a dynamic modal which fits the content accordingly to the pressed button.
+Here the user can edit his tasks and watch it happens live, on this page and behind it, on the board. Every button on the right menu opens a dynamic modal which fits his position accordingly to the pressed button.
 
 ![Task details image](src/assets/img/read-me/task-details.png "task-details")
 
 
 ### Side menu
-The menu on the right which is opened by the pressing the "Show menu" button enables the user to change the board's background with unsplash Images and watch the activities of the board (who did what and when).
+The menu on the right which is opened by pressing the "Show menu" button enables the user to change the board's background with unsplash Images and watch the activities of the board.
 
 <p align="center">
   <img src="src/assets/img/read-me/side-menu-activities.png" width="45%">
@@ -107,7 +107,7 @@ The menu on the right which is opened by the pressing the "Show menu" button ena
 <!-- <img src="src/assets/img/read-me/side-menu-activities.png" width="40%" style="float: left"/><img src="src/assets/img/read-me/side-menu-photos.png" width="40%" style="float: right;"/> -->
 
 ### Some mobile!
-Just a taste of the mobile experience. We used different **mixins**, **conditional rendering**, and the **"mobile first"** approach. 
+Just a taste of the mobile experience. We used different **mixins**, **conditional rendering** and the **"mobile first"** approach. 
 
 <p align="center">
 <img src="src/assets/img/read-me/mobile-home-page.png" width="24%" /><img src="src/assets/img/read-me/mobile-boards.png" width="24%" />

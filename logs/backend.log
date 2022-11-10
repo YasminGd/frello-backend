@@ -22428,3 +22428,2069 @@
 10/4/2022, 5:18:11 PM - INFO - Socket disconnected [id: undefined]
 10/4/2022, 5:18:12 PM - INFO - New connected socket [id: n9tFAmv0trvL7rdtAABR]
 10/4/2022, 8:20:58 PM - DEBUG - Getting Boards
+11/3/2022, 12:47:00 PM - INFO - Server is running on port: 3030
+11/3/2022, 12:47:05 PM - INFO - New connected socket [id: iM7fH6wziY9qUOj3AAAB]
+11/3/2022, 12:47:05 PM - INFO - Setting socket.userId = h7Vgpk for socket [id: iM7fH6wziY9qUOj3AAAB]
+11/3/2022, 12:49:36 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 12:49:38 PM - INFO - New connected socket [id: I66duFj56-n75ekFAAAD]
+11/3/2022, 12:49:38 PM - INFO - Setting socket.userId = kkRE9t for socket [id: I66duFj56-n75ekFAAAD]
+11/3/2022, 12:51:07 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 12:51:07 PM - INFO - New connected socket [id: jNeVBOr93ZVRuDP0AAAF]
+11/3/2022, 12:51:08 PM - INFO - Setting socket.userId = RSfH2k for socket [id: jNeVBOr93ZVRuDP0AAAF]
+11/3/2022, 12:51:08 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 12:51:09 PM - INFO - New connected socket [id: 9uWFC9PWZDnQ22qvAAAH]
+11/3/2022, 12:51:09 PM - INFO - Setting socket.userId = lqq4Ju for socket [id: 9uWFC9PWZDnQ22qvAAAH]
+11/3/2022, 12:51:09 PM - DEBUG - Getting Boards
+11/3/2022, 12:51:15 PM - INFO - Socket is now on board 632c6c20b942a527c9dd3fc9 [id: 9uWFC9PWZDnQ22qvAAAH]
+11/3/2022, 12:52:22 PM - DEBUG - Getting Boards
+11/3/2022, 12:54:57 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 12:54:59 PM - INFO - New connected socket [id: gOlalamgCJ_c5Wl8AAAJ]
+11/3/2022, 12:55:00 PM - INFO - Setting socket.userId = ohVY0g for socket [id: gOlalamgCJ_c5Wl8AAAJ]
+11/3/2022, 12:56:47 PM - DEBUG - Getting Boards
+11/3/2022, 1:03:28 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 1:13:42 PM - INFO - New connected socket [id: F2qGkJBDH0Jwg3WSAAAL]
+11/3/2022, 1:13:42 PM - DEBUG - Getting Boards
+11/3/2022, 1:13:42 PM - INFO - Setting socket.userId = IVNngd for socket [id: F2qGkJBDH0Jwg3WSAAAL]
+11/3/2022, 1:13:44 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 1:13:44 PM - INFO - New connected socket [id: XoSouTH-69trkESFAAAN]
+11/3/2022, 1:13:44 PM - DEBUG - Getting Boards
+11/3/2022, 1:13:44 PM - INFO - Setting socket.userId = jmKafQ for socket [id: XoSouTH-69trkESFAAAN]
+11/3/2022, 1:13:46 PM - INFO - Socket is now on board 632c6c20b942a527c9dd3fc9 [id: XoSouTH-69trkESFAAAN]
+11/3/2022, 1:13:51 PM - INFO - Broadcasting event: update-board
+11/3/2022, 1:13:51 PM - INFO - Emit to room: 632c6c20b942a527c9dd3fc9
+11/3/2022, 1:16:22 PM - INFO - Broadcasting event: update-board
+11/3/2022, 1:16:22 PM - INFO - Emit to room: 632c6c20b942a527c9dd3fc9
+11/3/2022, 1:17:11 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 1:17:11 PM - INFO - New connected socket [id: u0v9WLbNfwbgO-A3AAAP]
+11/3/2022, 1:17:11 PM - INFO - Socket is now on board 632c6c20b942a527c9dd3fc9 [id: u0v9WLbNfwbgO-A3AAAP]
+11/3/2022, 1:17:12 PM - INFO - Setting socket.userId = XJMVss for socket [id: u0v9WLbNfwbgO-A3AAAP]
+11/3/2022, 1:17:17 PM - INFO - Broadcasting event: update-board
+11/3/2022, 1:17:17 PM - INFO - Emit to room: 632c6c20b942a527c9dd3fc9
+11/3/2022, 1:17:19 PM - DEBUG - Getting Boards
+11/3/2022, 1:17:21 PM - INFO - Socket is leaving board 632c6c20b942a527c9dd3fc9 [id: u0v9WLbNfwbgO-A3AAAP]
+11/3/2022, 1:17:21 PM - INFO - Socket is now on board 632ac23e4e2d9338caf7122a [id: u0v9WLbNfwbgO-A3AAAP]
+11/3/2022, 1:17:27 PM - INFO - Broadcasting event: update-board
+11/3/2022, 1:17:27 PM - INFO - Emit to room: 632ac23e4e2d9338caf7122a
+11/3/2022, 1:18:13 PM - INFO - Broadcasting event: update-board
+11/3/2022, 1:18:13 PM - INFO - Emit to room: 632ac23e4e2d9338caf7122a
+11/3/2022, 1:19:03 PM - INFO - Broadcasting event: update-board
+11/3/2022, 1:19:03 PM - INFO - Emit to room: 632ac23e4e2d9338caf7122a
+11/3/2022, 1:20:04 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 1:20:06 PM - INFO - New connected socket [id: 56_32qClZy6r7ht6AAAR]
+11/3/2022, 1:20:06 PM - INFO - Socket is now on board 632ac23e4e2d9338caf7122a [id: 56_32qClZy6r7ht6AAAR]
+11/3/2022, 1:20:06 PM - INFO - Setting socket.userId = n7garW for socket [id: 56_32qClZy6r7ht6AAAR]
+11/3/2022, 1:25:23 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 1:25:25 PM - INFO - New connected socket [id: rcnllAgE0gexKtMQAAAT]
+11/3/2022, 1:25:25 PM - INFO - Socket is now on board 632ac23e4e2d9338caf7122a [id: rcnllAgE0gexKtMQAAAT]
+11/3/2022, 1:25:25 PM - INFO - Setting socket.userId = qFg5Hj for socket [id: rcnllAgE0gexKtMQAAAT]
+11/3/2022, 1:40:35 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 1:43:56 PM - INFO - Server is running on port: 3030
+11/3/2022, 1:44:00 PM - INFO - New connected socket [id: LGJ6CuapgA0vGkP7AAAB]
+11/3/2022, 1:44:00 PM - INFO - Socket is now on board 632ac23e4e2d9338caf7122a [id: LGJ6CuapgA0vGkP7AAAB]
+11/3/2022, 1:44:00 PM - INFO - Setting socket.userId = r3kKIO for socket [id: LGJ6CuapgA0vGkP7AAAB]
+11/3/2022, 1:44:01 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 1:44:03 PM - INFO - New connected socket [id: 9O3k6VPd-k1208TiAAAD]
+11/3/2022, 1:44:03 PM - INFO - Socket is now on board 632ac23e4e2d9338caf7122a [id: 9O3k6VPd-k1208TiAAAD]
+11/3/2022, 1:44:03 PM - INFO - Setting socket.userId = CTaowN for socket [id: 9O3k6VPd-k1208TiAAAD]
+11/3/2022, 1:47:09 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 1:47:11 PM - INFO - New connected socket [id: vBkffS_MFKJh7Ut1AAAF]
+11/3/2022, 1:47:11 PM - INFO - Socket is now on board 632ac23e4e2d9338caf7122a [id: vBkffS_MFKJh7Ut1AAAF]
+11/3/2022, 1:47:12 PM - INFO - Setting socket.userId = ORgMxH for socket [id: vBkffS_MFKJh7Ut1AAAF]
+11/3/2022, 1:48:10 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 1:48:11 PM - INFO - New connected socket [id: RBQA1VGlICDb-SY1AAAH]
+11/3/2022, 1:48:12 PM - INFO - Setting socket.userId = c1p8jB for socket [id: RBQA1VGlICDb-SY1AAAH]
+11/3/2022, 1:48:31 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 1:48:32 PM - INFO - New connected socket [id: Lg7vdKf2HDIwqZ86AAAJ]
+11/3/2022, 1:48:33 PM - INFO - Setting socket.userId = BpENUG for socket [id: Lg7vdKf2HDIwqZ86AAAJ]
+11/3/2022, 1:48:53 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 1:48:55 PM - INFO - New connected socket [id: zR9CXvHRO8GiDL4RAAAL]
+11/3/2022, 1:48:56 PM - INFO - Setting socket.userId = lOnWWp for socket [id: zR9CXvHRO8GiDL4RAAAL]
+11/3/2022, 1:49:33 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 1:49:35 PM - INFO - New connected socket [id: uR3D7DPyS5tAdKR3AAAN]
+11/3/2022, 1:49:35 PM - INFO - Socket is now on board 632ac23e4e2d9338caf7122a [id: uR3D7DPyS5tAdKR3AAAN]
+11/3/2022, 1:49:36 PM - INFO - Setting socket.userId = PnJS2s for socket [id: uR3D7DPyS5tAdKR3AAAN]
+11/3/2022, 1:54:41 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 1:56:07 PM - INFO - New connected socket [id: LVG38wiyhpwbzhY1AAAP]
+11/3/2022, 1:56:07 PM - INFO - Socket is now on board 632ac23e4e2d9338caf7122a [id: LVG38wiyhpwbzhY1AAAP]
+11/3/2022, 1:56:08 PM - INFO - Setting socket.userId = nkK4wB for socket [id: LVG38wiyhpwbzhY1AAAP]
+11/3/2022, 2:13:32 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 2:13:34 PM - INFO - New connected socket [id: MFLv7vyXLOEfQOp5AAAR]
+11/3/2022, 2:13:34 PM - INFO - Socket is now on board 632ac23e4e2d9338caf7122a [id: MFLv7vyXLOEfQOp5AAAR]
+11/3/2022, 2:13:34 PM - INFO - Setting socket.userId = Ip1rx7 for socket [id: MFLv7vyXLOEfQOp5AAAR]
+11/3/2022, 2:14:18 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 2:14:20 PM - INFO - New connected socket [id: 4jEaKzX7jgmvpuigAAAT]
+11/3/2022, 2:14:20 PM - INFO - Socket is now on board 632ac23e4e2d9338caf7122a [id: 4jEaKzX7jgmvpuigAAAT]
+11/3/2022, 2:14:20 PM - INFO - Setting socket.userId = wbutI1 for socket [id: 4jEaKzX7jgmvpuigAAAT]
+11/3/2022, 2:14:30 PM - DEBUG - Getting Users
+11/3/2022, 2:14:38 PM - DEBUG - Getting Users
+11/3/2022, 2:14:40 PM - INFO - Broadcasting event: update-board
+11/3/2022, 2:14:40 PM - INFO - Emit to room: 632ac23e4e2d9338caf7122a
+11/3/2022, 2:18:36 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 2:18:38 PM - INFO - New connected socket [id: dFk62rp90WmQE2OEAAAV]
+11/3/2022, 2:18:38 PM - INFO - Socket is now on board 632ac23e4e2d9338caf7122a [id: dFk62rp90WmQE2OEAAAV]
+11/3/2022, 2:18:38 PM - INFO - Setting socket.userId = RuO3Rd for socket [id: dFk62rp90WmQE2OEAAAV]
+11/3/2022, 4:39:44 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 4:39:52 PM - INFO - New connected socket [id: t4N2wIq_v5hMDHaLAAAX]
+11/3/2022, 4:39:52 PM - INFO - Socket is now on board 632ac23e4e2d9338caf7122a [id: t4N2wIq_v5hMDHaLAAAX]
+11/3/2022, 4:39:53 PM - INFO - Setting socket.userId = p2IxaU for socket [id: t4N2wIq_v5hMDHaLAAAX]
+11/3/2022, 4:47:08 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 4:47:14 PM - INFO - New connected socket [id: 8c9jTkERjwWbRYszAAAZ]
+11/3/2022, 4:47:14 PM - INFO - Socket is now on board 632ac23e4e2d9338caf7122a [id: 8c9jTkERjwWbRYszAAAZ]
+11/3/2022, 4:47:15 PM - INFO - Setting socket.userId = XFXGpp for socket [id: 8c9jTkERjwWbRYszAAAZ]
+11/3/2022, 5:56:03 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 5:56:05 PM - INFO - New connected socket [id: 4MxQnT2ibS8cpmp_AAAb]
+11/3/2022, 5:57:00 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 5:57:01 PM - INFO - New connected socket [id: pI8mUf2mEb7TMMQgAAAd]
+11/3/2022, 5:58:18 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 5:58:20 PM - INFO - New connected socket [id: PE5SEH1OSR6AWyngAAAf]
+11/3/2022, 6:00:53 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 6:00:54 PM - INFO - New connected socket [id: FLye7oLZv16q2ulJAAAh]
+11/3/2022, 6:02:11 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 6:02:13 PM - INFO - New connected socket [id: 05PCkHQm9KPI1eiEAAAj]
+11/3/2022, 6:03:29 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 6:03:31 PM - INFO - New connected socket [id: NLEngtJeDGPM3FNOAAAl]
+11/3/2022, 6:04:30 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 6:04:32 PM - INFO - New connected socket [id: WVS1umIxUC9NGDLhAAAn]
+11/3/2022, 6:05:47 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 6:05:49 PM - INFO - New connected socket [id: Lu_ZfMTFtJKQ2WUhAAAp]
+11/3/2022, 6:09:06 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 6:09:07 PM - INFO - New connected socket [id: 7AP2md-rnBpMkcxKAAAr]
+11/3/2022, 6:10:40 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 6:10:42 PM - INFO - New connected socket [id: Gg2PBlTmu7FOR0qiAAAt]
+11/3/2022, 6:11:37 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 6:11:38 PM - INFO - New connected socket [id: ziTv51jUF0lkE7BTAAAv]
+11/3/2022, 6:12:54 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 6:12:56 PM - INFO - New connected socket [id: Juv239_0CZj2WZoLAAAx]
+11/3/2022, 6:13:49 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 6:13:50 PM - INFO - New connected socket [id: 4pzBXybyQhVKtlJZAAAz]
+11/3/2022, 6:15:20 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 6:15:21 PM - INFO - New connected socket [id: rb-h8obze2EY55aUAAA1]
+11/3/2022, 6:16:15 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 6:16:16 PM - INFO - New connected socket [id: 6g--k7P85I1qb5ItAAA3]
+11/3/2022, 6:17:21 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 6:17:22 PM - INFO - New connected socket [id: IJSjesIMJxDvRluVAAA5]
+11/3/2022, 6:18:21 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 6:18:22 PM - INFO - New connected socket [id: 6HlFNp5Wp49xzw6fAAA7]
+11/3/2022, 6:23:22 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 6:23:24 PM - INFO - New connected socket [id: MBDARDGmIwpY2NgxAAA9]
+11/3/2022, 6:26:42 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 6:26:43 PM - INFO - New connected socket [id: fjn5zUxXMohn9y46AAA_]
+11/3/2022, 6:27:51 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 6:27:53 PM - INFO - New connected socket [id: LTS-d1miN28tNeSvAABB]
+11/3/2022, 6:30:03 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 6:30:04 PM - INFO - New connected socket [id: vok4zeIfCZf1tkh8AABD]
+11/3/2022, 6:32:49 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 6:32:50 PM - INFO - New connected socket [id: TGEyPpfYxH6NDlzJAABF]
+11/3/2022, 6:34:02 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 6:34:05 PM - INFO - New connected socket [id: T95REk7CxSPSI3OZAABH]
+11/3/2022, 6:35:21 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 6:35:22 PM - INFO - New connected socket [id: w9HLQ4ocq64pVpzEAABJ]
+11/3/2022, 6:38:52 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 6:38:54 PM - INFO - New connected socket [id: 1rRPm1taLc4A9ioFAABL]
+11/3/2022, 6:41:05 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 6:41:07 PM - INFO - New connected socket [id: GySAy_1jEeEVdgSrAABN]
+11/3/2022, 6:42:26 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 6:42:27 PM - INFO - New connected socket [id: ux1fHRrcCL2gGQZTAABP]
+11/3/2022, 6:43:38 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 6:43:39 PM - INFO - New connected socket [id: a0_hsorNU2_cKGeSAABR]
+11/3/2022, 6:45:40 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 6:45:42 PM - INFO - New connected socket [id: jQYP8AxMOmHCrgZOAABT]
+11/3/2022, 6:46:45 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 6:46:46 PM - INFO - New connected socket [id: jligS_87d3ZETQHWAABV]
+11/3/2022, 6:47:59 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 6:48:01 PM - INFO - New connected socket [id: mWZc3KN8MMhb2pq1AABX]
+11/3/2022, 6:50:25 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 6:50:28 PM - INFO - New connected socket [id: RFcZt9nVmLauguDXAABZ]
+11/3/2022, 6:51:33 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 6:51:35 PM - INFO - New connected socket [id: F6ssWx1yhjAEWGxyAABb]
+11/3/2022, 6:53:19 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 6:53:20 PM - INFO - New connected socket [id: ScWnzB5zXBJ2M6LoAABd]
+11/3/2022, 6:56:51 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 6:56:52 PM - INFO - New connected socket [id: U-kPsbUS-sJNQmIcAABf]
+11/3/2022, 6:58:09 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 6:58:11 PM - INFO - New connected socket [id: qXqYAcZ7zZO4OrquAABh]
+11/3/2022, 6:59:14 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 6:59:15 PM - INFO - New connected socket [id: zKJ5kvwSssbHpcKEAABj]
+11/3/2022, 7:03:01 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 7:03:03 PM - INFO - New connected socket [id: MkV8CiO5jgSY9-7UAABl]
+11/3/2022, 7:03:56 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 7:03:58 PM - INFO - New connected socket [id: CSDNP9ZBffz9UW43AABn]
+11/3/2022, 7:04:53 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 7:04:55 PM - INFO - New connected socket [id: G6jaEpWA_qHhlOZZAABp]
+11/3/2022, 7:07:25 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 7:07:27 PM - INFO - New connected socket [id: 0O3Afec7E_hRD7JSAABr]
+11/3/2022, 7:08:26 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 7:08:28 PM - INFO - New connected socket [id: ulyMletJrsZgVXO0AABt]
+11/3/2022, 7:09:44 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 7:09:46 PM - INFO - New connected socket [id: -5Mlx3PZYLn-pRijAABv]
+11/3/2022, 7:10:39 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 7:10:41 PM - INFO - New connected socket [id: IeSoMCgVXGW4RxJgAABx]
+11/3/2022, 7:41:27 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 7:41:29 PM - INFO - New connected socket [id: qPqXHmg6BPR0xNzkAABz]
+11/3/2022, 10:45:52 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 10:45:54 PM - INFO - New connected socket [id: 9wW_wAAxHCV1Eo2MAAB1]
+11/3/2022, 10:49:30 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 10:49:32 PM - INFO - New connected socket [id: fc7qe6wA14uqC7NnAAB3]
+11/3/2022, 11:20:19 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 11:20:21 PM - INFO - New connected socket [id: qA8t363GRNnGiqY6AAB5]
+11/3/2022, 11:51:06 PM - INFO - Socket disconnected [id: undefined]
+11/3/2022, 11:51:07 PM - INFO - New connected socket [id: IwtRqNcdL6a0pXcaAAB7]
+11/4/2022, 12:21:55 AM - INFO - Socket disconnected [id: undefined]
+11/4/2022, 12:21:55 AM - INFO - New connected socket [id: BbezqR1ZVo16G5LjAAB9]
+11/6/2022, 10:39:07 AM - INFO - Server is running on port: 3030
+11/6/2022, 10:39:18 AM - INFO - New connected socket [id: Icvwbs_KW5YgnXGHAAAB]
+11/6/2022, 10:39:19 AM - INFO - Setting socket.userId = 9I9fO2 for socket [id: Icvwbs_KW5YgnXGHAAAB]
+11/6/2022, 10:39:20 AM - DEBUG - Getting Boards
+11/6/2022, 10:39:23 AM - INFO - Socket is now on board 632ac23e4e2d9338caf71229 [id: Icvwbs_KW5YgnXGHAAAB]
+11/6/2022, 10:50:02 AM - INFO - Broadcasting event: update-board
+11/6/2022, 10:50:02 AM - INFO - Emit to room: 632ac23e4e2d9338caf71229
+11/6/2022, 10:51:09 AM - INFO - Broadcasting event: update-board
+11/6/2022, 10:51:09 AM - INFO - Emit to room: 632ac23e4e2d9338caf71229
+11/6/2022, 10:51:24 AM - INFO - Broadcasting event: update-board
+11/6/2022, 10:51:24 AM - INFO - Emit to room: 632ac23e4e2d9338caf71229
+11/6/2022, 10:51:44 AM - INFO - Broadcasting event: update-board
+11/6/2022, 10:51:44 AM - INFO - Emit to room: 632ac23e4e2d9338caf71229
+11/6/2022, 10:52:40 AM - INFO - Broadcasting event: update-board
+11/6/2022, 10:52:40 AM - INFO - Emit to room: 632ac23e4e2d9338caf71229
+11/6/2022, 10:53:03 AM - INFO - Broadcasting event: update-board
+11/6/2022, 10:53:03 AM - INFO - Emit to room: 632ac23e4e2d9338caf71229
+11/6/2022, 10:53:35 AM - INFO - Socket disconnected [id: undefined]
+11/6/2022, 10:53:37 AM - INFO - New connected socket [id: 2p_BuB47a0J1JiTzAAAD]
+11/6/2022, 10:53:37 AM - INFO - Socket is now on board 632ac23e4e2d9338caf71229 [id: 2p_BuB47a0J1JiTzAAAD]
+11/6/2022, 10:53:38 AM - INFO - Setting socket.userId = lyDbqm for socket [id: 2p_BuB47a0J1JiTzAAAD]
+11/6/2022, 10:56:13 AM - INFO - Broadcasting event: update-board
+11/6/2022, 10:56:13 AM - INFO - Emit to room: 632ac23e4e2d9338caf71229
+11/6/2022, 10:56:19 AM - INFO - Socket disconnected [id: undefined]
+11/6/2022, 10:56:21 AM - INFO - New connected socket [id: XYhl0AS0X3yyJwf7AAAF]
+11/6/2022, 10:56:21 AM - INFO - Socket is now on board 632ac23e4e2d9338caf71229 [id: XYhl0AS0X3yyJwf7AAAF]
+11/6/2022, 10:56:22 AM - INFO - Setting socket.userId = FKBFsb for socket [id: XYhl0AS0X3yyJwf7AAAF]
+11/6/2022, 10:56:47 AM - INFO - Broadcasting event: update-board
+11/6/2022, 10:56:47 AM - INFO - Emit to room: 632ac23e4e2d9338caf71229
+11/6/2022, 10:56:51 AM - INFO - Broadcasting event: update-board
+11/6/2022, 10:56:51 AM - INFO - Emit to room: 632ac23e4e2d9338caf71229
+11/6/2022, 10:56:54 AM - INFO - Broadcasting event: update-board
+11/6/2022, 10:56:54 AM - INFO - Emit to room: 632ac23e4e2d9338caf71229
+11/6/2022, 10:58:55 AM - INFO - Broadcasting event: update-board
+11/6/2022, 10:58:55 AM - INFO - Emit to room: 632ac23e4e2d9338caf71229
+11/6/2022, 10:59:22 AM - INFO - Broadcasting event: update-board
+11/6/2022, 10:59:22 AM - INFO - Emit to room: 632ac23e4e2d9338caf71229
+11/6/2022, 10:59:42 AM - INFO - Socket disconnected [id: undefined]
+11/6/2022, 10:59:44 AM - INFO - New connected socket [id: bNYMPv0IYyeupFrJAAAH]
+11/6/2022, 10:59:44 AM - INFO - Socket is now on board 632ac23e4e2d9338caf71229 [id: bNYMPv0IYyeupFrJAAAH]
+11/6/2022, 10:59:44 AM - INFO - Setting socket.userId = i9XWTU for socket [id: bNYMPv0IYyeupFrJAAAH]
+11/6/2022, 10:59:51 AM - INFO - Broadcasting event: update-board
+11/6/2022, 10:59:51 AM - INFO - Emit to room: 632ac23e4e2d9338caf71229
+11/6/2022, 10:59:54 AM - INFO - Socket disconnected [id: undefined]
+11/6/2022, 10:59:56 AM - INFO - New connected socket [id: amrh4Yh6T8KTYTIxAAAJ]
+11/6/2022, 10:59:56 AM - INFO - Socket is now on board 632ac23e4e2d9338caf71229 [id: amrh4Yh6T8KTYTIxAAAJ]
+11/6/2022, 10:59:57 AM - INFO - Setting socket.userId = Le2dVA for socket [id: amrh4Yh6T8KTYTIxAAAJ]
+11/6/2022, 11:00:10 AM - INFO - Broadcasting event: update-board
+11/6/2022, 11:00:10 AM - INFO - Emit to room: 632ac23e4e2d9338caf71229
+11/6/2022, 11:00:22 AM - INFO - Broadcasting event: update-board
+11/6/2022, 11:00:22 AM - INFO - Emit to room: 632ac23e4e2d9338caf71229
+11/6/2022, 11:00:33 AM - INFO - Broadcasting event: update-board
+11/6/2022, 11:00:33 AM - INFO - Emit to room: 632ac23e4e2d9338caf71229
+11/6/2022, 11:00:39 AM - INFO - Broadcasting event: update-board
+11/6/2022, 11:00:39 AM - INFO - Emit to room: 632ac23e4e2d9338caf71229
+11/6/2022, 11:05:42 AM - INFO - Socket disconnected [id: undefined]
+11/6/2022, 11:05:44 AM - INFO - New connected socket [id: wwN8hNhkopsQmBSMAAAL]
+11/6/2022, 11:05:45 AM - INFO - Socket is now on board 632ac23e4e2d9338caf71229 [id: wwN8hNhkopsQmBSMAAAL]
+11/6/2022, 11:05:45 AM - INFO - Setting socket.userId = SMvi2N for socket [id: wwN8hNhkopsQmBSMAAAL]
+11/6/2022, 11:07:00 AM - INFO - Socket disconnected [id: undefined]
+11/6/2022, 11:07:02 AM - INFO - New connected socket [id: -eRjyD1KeiIy24oOAAAN]
+11/6/2022, 11:07:02 AM - INFO - Socket is now on board 632ac23e4e2d9338caf71229 [id: -eRjyD1KeiIy24oOAAAN]
+11/6/2022, 11:07:03 AM - INFO - Setting socket.userId = jTxwI6 for socket [id: -eRjyD1KeiIy24oOAAAN]
+11/6/2022, 11:09:01 AM - INFO - Socket disconnected [id: undefined]
+11/6/2022, 11:09:03 AM - INFO - New connected socket [id: 9LvmPYz3rcHWeSlMAAAP]
+11/6/2022, 11:09:03 AM - INFO - Socket is now on board 632ac23e4e2d9338caf71229 [id: 9LvmPYz3rcHWeSlMAAAP]
+11/6/2022, 11:09:04 AM - INFO - Setting socket.userId = 0rwZB9 for socket [id: 9LvmPYz3rcHWeSlMAAAP]
+11/6/2022, 11:09:14 AM - INFO - Socket disconnected [id: undefined]
+11/6/2022, 11:09:16 AM - INFO - New connected socket [id: NbjJAsUK1vrrcQRVAAAR]
+11/6/2022, 11:09:16 AM - INFO - Socket is now on board 632ac23e4e2d9338caf71229 [id: NbjJAsUK1vrrcQRVAAAR]
+11/6/2022, 11:09:16 AM - INFO - Setting socket.userId = Gv13Mu for socket [id: NbjJAsUK1vrrcQRVAAAR]
+11/6/2022, 11:10:46 AM - INFO - Socket disconnected [id: undefined]
+11/6/2022, 11:10:48 AM - INFO - New connected socket [id: CC6PLVj_bYn8zCWwAAAT]
+11/6/2022, 11:10:48 AM - INFO - Socket is now on board 632ac23e4e2d9338caf71229 [id: CC6PLVj_bYn8zCWwAAAT]
+11/6/2022, 11:10:49 AM - INFO - Setting socket.userId = Wt5S8a for socket [id: CC6PLVj_bYn8zCWwAAAT]
+11/6/2022, 11:12:30 AM - INFO - Socket disconnected [id: undefined]
+11/6/2022, 11:12:33 AM - INFO - New connected socket [id: h1-eBs0vVke0IiN3AAAV]
+11/6/2022, 11:12:33 AM - INFO - Socket is now on board 632ac23e4e2d9338caf71229 [id: h1-eBs0vVke0IiN3AAAV]
+11/6/2022, 11:12:33 AM - INFO - Setting socket.userId = CJ8Eok for socket [id: h1-eBs0vVke0IiN3AAAV]
+11/6/2022, 11:12:34 AM - INFO - Socket disconnected [id: undefined]
+11/6/2022, 11:12:36 AM - INFO - New connected socket [id: NrAGUgeO23hSP3B_AAAX]
+11/6/2022, 11:12:36 AM - INFO - Socket is now on board 632ac23e4e2d9338caf71229 [id: NrAGUgeO23hSP3B_AAAX]
+11/6/2022, 11:12:36 AM - INFO - Setting socket.userId = iLetFf for socket [id: NrAGUgeO23hSP3B_AAAX]
+11/6/2022, 11:16:35 AM - INFO - Socket disconnected [id: undefined]
+11/6/2022, 11:16:46 AM - INFO - New connected socket [id: eyRjtcJyD6WJx7NBAAAZ]
+11/6/2022, 11:16:46 AM - INFO - Socket is now on board 632ac23e4e2d9338caf71229 [id: eyRjtcJyD6WJx7NBAAAZ]
+11/6/2022, 11:16:47 AM - INFO - Setting socket.userId = XyNq31 for socket [id: eyRjtcJyD6WJx7NBAAAZ]
+11/6/2022, 11:17:03 AM - INFO - Socket disconnected [id: undefined]
+11/6/2022, 11:17:04 AM - INFO - New connected socket [id: T0QQAwjl4Djen_QrAAAb]
+11/6/2022, 11:17:05 AM - INFO - Socket is now on board 632ac23e4e2d9338caf71229 [id: T0QQAwjl4Djen_QrAAAb]
+11/6/2022, 11:17:05 AM - INFO - Setting socket.userId = ca8ZsJ for socket [id: T0QQAwjl4Djen_QrAAAb]
+11/6/2022, 11:18:40 AM - INFO - Socket disconnected [id: undefined]
+11/6/2022, 11:18:42 AM - INFO - New connected socket [id: NmShOvPx-V4W2FzrAAAd]
+11/6/2022, 11:18:42 AM - INFO - Socket is now on board 632ac23e4e2d9338caf71229 [id: NmShOvPx-V4W2FzrAAAd]
+11/6/2022, 11:18:43 AM - INFO - Setting socket.userId = EA1zSA for socket [id: NmShOvPx-V4W2FzrAAAd]
+11/6/2022, 11:18:59 AM - INFO - Socket disconnected [id: undefined]
+11/6/2022, 11:19:03 AM - INFO - New connected socket [id: eePNyXhdNDwdS0raAAAf]
+11/6/2022, 11:19:03 AM - INFO - Socket is now on board 632ac23e4e2d9338caf71229 [id: eePNyXhdNDwdS0raAAAf]
+11/6/2022, 11:19:04 AM - INFO - Setting socket.userId = Tc01UK for socket [id: eePNyXhdNDwdS0raAAAf]
+11/6/2022, 11:20:47 AM - INFO - Socket disconnected [id: undefined]
+11/6/2022, 11:20:49 AM - INFO - New connected socket [id: AYY-lFwnZG8yP7IMAAAh]
+11/6/2022, 11:20:49 AM - INFO - Socket is now on board 632ac23e4e2d9338caf71229 [id: AYY-lFwnZG8yP7IMAAAh]
+11/6/2022, 11:20:49 AM - INFO - Setting socket.userId = 0O8yRC for socket [id: AYY-lFwnZG8yP7IMAAAh]
+11/7/2022, 2:13:49 PM - INFO - Server is running on port: 3030
+11/7/2022, 2:13:50 PM - INFO - New connected socket [id: 1vgsThQBTHrAWfINAAAB]
+11/7/2022, 2:13:50 PM - INFO - Setting socket.userId = PY0avQ for socket [id: 1vgsThQBTHrAWfINAAAB]
+11/7/2022, 2:13:55 PM - INFO - New connected socket [id: _FiilrEFwuqS7YpMAAAD]
+11/7/2022, 2:13:55 PM - INFO - Setting socket.userId = Q6ZNTN for socket [id: _FiilrEFwuqS7YpMAAAD]
+11/7/2022, 2:14:46 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 2:14:49 PM - INFO - New connected socket [id: tUPteoo4k2eXZdIpAAAF]
+11/7/2022, 2:14:49 PM - DEBUG - Getting Boards
+11/7/2022, 2:14:49 PM - INFO - Setting socket.userId = bE4llm for socket [id: tUPteoo4k2eXZdIpAAAF]
+11/7/2022, 2:15:16 PM - INFO - Socket is now on board 632ac23e4e2d9338caf71228 [id: tUPteoo4k2eXZdIpAAAF]
+11/7/2022, 2:15:34 PM - INFO - Broadcasting event: update-board
+11/7/2022, 2:15:34 PM - INFO - Emit to room: 632ac23e4e2d9338caf71228
+11/7/2022, 4:49:32 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 5:17:03 PM - INFO - New connected socket [id: DtC43XZdkMeab8ogAAAH]
+11/7/2022, 5:17:03 PM - INFO - Setting socket.userId = QWOywW for socket [id: DtC43XZdkMeab8ogAAAH]
+11/7/2022, 5:17:07 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 8:15:04 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 8:15:07 PM - INFO - New connected socket [id: S02vLLV9jFNuAL8vAAAJ]
+11/7/2022, 8:15:49 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 8:15:50 PM - INFO - New connected socket [id: aJWPMMDCZ6k-IxOpAAAL]
+11/7/2022, 8:17:09 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 8:17:10 PM - INFO - New connected socket [id: VQeck2hYFPnMvrAiAAAN]
+11/7/2022, 8:18:17 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 8:18:19 PM - INFO - New connected socket [id: muFFUzXztAE2BDpKAAAP]
+11/7/2022, 8:19:27 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 8:19:28 PM - INFO - New connected socket [id: ZSdN4-2yVJ1J4MtIAAAR]
+11/7/2022, 8:20:24 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 8:20:26 PM - INFO - New connected socket [id: _BFUx3y4p144r207AAAT]
+11/7/2022, 8:21:50 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 8:21:51 PM - INFO - New connected socket [id: DIuWqyf-d7Xic5ICAAAV]
+11/7/2022, 8:23:21 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 8:23:23 PM - INFO - New connected socket [id: 4d-ty8nnhWqFSTjMAAAX]
+11/7/2022, 8:25:11 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 8:25:13 PM - INFO - New connected socket [id: lnxw1r8xMBTutmzfAAAZ]
+11/7/2022, 8:26:17 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 8:26:19 PM - INFO - New connected socket [id: 9GmI-RNYWx8MutzRAAAb]
+11/7/2022, 8:27:33 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 8:27:35 PM - INFO - New connected socket [id: SDuHs0HOWatda4y6AAAd]
+11/7/2022, 8:30:00 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 8:30:01 PM - INFO - New connected socket [id: COVw4HX9VgBeUa_MAAAf]
+11/7/2022, 8:32:10 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 8:32:12 PM - INFO - New connected socket [id: usUlytTcTMHzkYc_AAAh]
+11/7/2022, 8:33:06 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 8:33:08 PM - INFO - New connected socket [id: lU1vtMstmk1uyZN8AAAj]
+11/7/2022, 8:34:20 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 8:34:21 PM - INFO - New connected socket [id: HZfTNRUmXkCLldIuAAAl]
+11/7/2022, 8:35:52 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 8:35:54 PM - INFO - New connected socket [id: Ksh_rxi8lXD3S9QqAAAn]
+11/7/2022, 8:37:30 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 8:37:32 PM - INFO - New connected socket [id: lfrpFFiMEhGXuVAVAAAp]
+11/7/2022, 8:38:33 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 8:38:35 PM - INFO - New connected socket [id: jiyzFTbGb8OJ9a1rAAAr]
+11/7/2022, 8:41:13 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 8:41:15 PM - INFO - New connected socket [id: q1dJYIkXljkBcWGDAAAt]
+11/7/2022, 8:45:36 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 8:45:38 PM - INFO - New connected socket [id: i_9h7hYIZBgUWq2UAAAv]
+11/7/2022, 8:49:39 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 8:49:40 PM - INFO - New connected socket [id: kSwuILTByemwBMU8AAAx]
+11/7/2022, 8:50:59 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 8:51:00 PM - INFO - New connected socket [id: 0tQJzbgbA-JLuS-sAAAz]
+11/7/2022, 8:53:41 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 8:53:43 PM - INFO - New connected socket [id: OOB_DcGtc1T7D7MaAAA1]
+11/7/2022, 8:56:10 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 8:56:12 PM - INFO - New connected socket [id: 9XBzs7pFspv0kHtLAAA3]
+11/7/2022, 8:58:56 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 8:58:58 PM - INFO - New connected socket [id: hs3LOCOFgaVekxzbAAA5]
+11/7/2022, 9:00:02 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 9:00:04 PM - INFO - New connected socket [id: 7CevXNflEWUyY96UAAA7]
+11/7/2022, 9:01:14 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 9:01:15 PM - INFO - New connected socket [id: E7aH7mbpbK1u6yaWAAA9]
+11/7/2022, 9:02:14 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 9:02:17 PM - INFO - New connected socket [id: LQzrx8kxtxrmkYxKAAA_]
+11/7/2022, 9:04:04 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 9:04:06 PM - INFO - New connected socket [id: G2oCIYRRBX2wITBjAABB]
+11/7/2022, 9:05:30 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 9:05:32 PM - INFO - New connected socket [id: lN8rcM5IN0T-tMn0AABD]
+11/7/2022, 9:06:34 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 9:06:35 PM - INFO - New connected socket [id: YbhwCY-kR6-oGxODAABF]
+11/7/2022, 9:10:45 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 9:10:47 PM - INFO - New connected socket [id: X7l1POzKLrVYFKnzAABH]
+11/7/2022, 9:12:39 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 9:12:40 PM - INFO - New connected socket [id: uv3pcltHETt5VleQAABJ]
+11/7/2022, 9:14:44 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 9:14:45 PM - INFO - New connected socket [id: FyuI0o4bXTGg1M16AABL]
+11/7/2022, 9:15:54 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 9:15:55 PM - INFO - New connected socket [id: cQtDKnab8W8ofChLAABN]
+11/7/2022, 9:18:57 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 9:18:59 PM - INFO - New connected socket [id: i8f9NXHwDQWhKsX4AABP]
+11/7/2022, 9:19:57 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 9:19:58 PM - INFO - New connected socket [id: 95PSQs-HalIhnwQdAABR]
+11/7/2022, 9:21:15 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 9:21:17 PM - INFO - New connected socket [id: ltey6MVSEwQkt2LlAABT]
+11/7/2022, 9:22:32 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 9:22:34 PM - INFO - New connected socket [id: RP5NmVvESyljSwfwAABV]
+11/7/2022, 9:23:50 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 9:23:51 PM - INFO - New connected socket [id: v-ik5Ho0Ay8HGTb2AABX]
+11/7/2022, 10:54:08 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 10:54:11 PM - INFO - New connected socket [id: Fhtez8k8xYD7k_hpAABZ]
+11/7/2022, 10:55:07 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 10:55:07 PM - INFO - New connected socket [id: N3abPXo7-3UgWrpvAABb]
+11/7/2022, 10:56:23 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 10:56:26 PM - INFO - New connected socket [id: sYBysRTs21ON4EGXAABd]
+11/7/2022, 10:57:45 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 10:57:48 PM - INFO - New connected socket [id: mYpXNoLg8lJS9aPuAABf]
+11/7/2022, 10:59:21 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 10:59:22 PM - INFO - New connected socket [id: B1WIvDXovC1kC6U1AABh]
+11/7/2022, 11:00:31 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:00:33 PM - INFO - New connected socket [id: 1ZSW2T7QphWhzRoEAABj]
+11/7/2022, 11:02:52 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:02:54 PM - INFO - New connected socket [id: hHVsRM0bMvZx9ZCYAABl]
+11/7/2022, 11:04:03 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:04:04 PM - INFO - New connected socket [id: 20u0NrYs8gOFRQO-AABn]
+11/7/2022, 11:05:21 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:05:22 PM - INFO - New connected socket [id: Cx6j2MKe6niNTM0IAABp]
+11/7/2022, 11:06:39 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:06:42 PM - INFO - New connected socket [id: j_Krg5FPSTNw1LP3AABr]
+11/7/2022, 11:07:56 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:07:58 PM - INFO - New connected socket [id: if6BKVzoREzAquT-AABt]
+11/7/2022, 11:09:14 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:09:15 PM - INFO - New connected socket [id: HCCJiRmY0-81xHBWAABv]
+11/7/2022, 11:10:37 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:10:39 PM - INFO - New connected socket [id: dHhG7Da--GotjIf1AABx]
+11/7/2022, 11:11:54 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:11:56 PM - INFO - New connected socket [id: GBXpXlURAOKmKzB0AABz]
+11/7/2022, 11:13:12 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:13:15 PM - INFO - New connected socket [id: cH8mWMDc3CRaKvxyAAB1]
+11/7/2022, 11:14:30 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:14:32 PM - INFO - New connected socket [id: v7bN2KZjMjzgKoO3AAB3]
+11/7/2022, 11:15:52 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:15:53 PM - INFO - New connected socket [id: uaIVdAXWOD4zt3GHAAB5]
+11/7/2022, 11:17:15 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:17:16 PM - INFO - New connected socket [id: Kz7S0DKb7FcsjCYmAAB7]
+11/7/2022, 11:18:10 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:18:11 PM - INFO - New connected socket [id: D2BAJn1dStcO2cvGAAB9]
+11/7/2022, 11:19:32 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:19:34 PM - INFO - New connected socket [id: uCXZvaFQLHQy1Ow8AAB_]
+11/7/2022, 11:20:50 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:20:52 PM - INFO - New connected socket [id: q7OusOJaUbgCBMb_AACB]
+11/7/2022, 11:21:46 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:21:48 PM - INFO - New connected socket [id: W5ikOJ22fsYmJEpGAACD]
+11/7/2022, 11:23:03 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:23:05 PM - INFO - New connected socket [id: -1mDWddk7NtaYSiWAACF]
+11/7/2022, 11:24:21 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:24:22 PM - INFO - New connected socket [id: bBnW-nN3_3EjELmJAACH]
+11/7/2022, 11:25:45 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:25:47 PM - INFO - New connected socket [id: KrGw2g_k1B0u0AsDAACJ]
+11/7/2022, 11:27:02 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:27:03 PM - INFO - New connected socket [id: zcwTJLpVv1yvCwsEAACL]
+11/7/2022, 11:28:20 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:28:22 PM - INFO - New connected socket [id: pJjKGUuwV6rbl-Y9AACN]
+11/7/2022, 11:29:37 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:29:39 PM - INFO - New connected socket [id: DNoIfOLPfRu9w3o4AACP]
+11/7/2022, 11:30:56 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:30:57 PM - INFO - New connected socket [id: YOdOYepBp4AMitx3AACR]
+11/7/2022, 11:32:14 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:32:15 PM - INFO - New connected socket [id: Ye45ZLFBhm_cknINAACT]
+11/7/2022, 11:33:31 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:33:32 PM - INFO - New connected socket [id: yew2fT_kv5QelJsQAACV]
+11/7/2022, 11:34:49 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:34:51 PM - INFO - New connected socket [id: JNzNL-HtTcgWWo0lAACX]
+11/7/2022, 11:35:45 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:35:47 PM - INFO - New connected socket [id: e4THHGGEPIiQlJsPAACZ]
+11/7/2022, 11:40:13 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:40:14 PM - INFO - New connected socket [id: 3uBefLBkNvYlVWW-AACb]
+11/7/2022, 11:42:50 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:42:52 PM - INFO - New connected socket [id: YGTEQEEUNEIG7s42AACd]
+11/7/2022, 11:44:54 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:44:56 PM - INFO - New connected socket [id: nX7XzqBV5xuJp8ejAACf]
+11/7/2022, 11:46:54 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:46:55 PM - INFO - New connected socket [id: wj4_ehwD2gi7y2mrAACh]
+11/7/2022, 11:48:54 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:48:55 PM - INFO - New connected socket [id: VoavGqVeljrVFMIWAACj]
+11/7/2022, 11:51:37 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:51:39 PM - INFO - New connected socket [id: D6aDa6AHmwag1K1CAACl]
+11/7/2022, 11:53:58 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:53:59 PM - INFO - New connected socket [id: PbwAzybHMLXu08oEAACn]
+11/7/2022, 11:55:00 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:55:03 PM - INFO - New connected socket [id: e2-IcxhANCBXgJFcAACp]
+11/7/2022, 11:56:01 PM - INFO - Socket disconnected [id: undefined]
+11/7/2022, 11:56:03 PM - INFO - New connected socket [id: sVYNdsDzxXRxYQiDAACr]
+11/8/2022, 12:00:06 AM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 12:00:07 AM - INFO - New connected socket [id: kh05s7esZ03HOJMsAACt]
+11/8/2022, 12:01:01 AM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 12:01:03 AM - INFO - New connected socket [id: J-d8-oiwHJl_2JCmAACv]
+11/8/2022, 12:02:04 AM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 12:02:06 AM - INFO - New connected socket [id: EInxOUf0IZ9Qg4o4AACx]
+11/8/2022, 12:05:25 AM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 12:05:27 AM - INFO - New connected socket [id: LsOyDQhL1XCWI_1WAACz]
+11/8/2022, 12:11:33 AM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 12:11:35 AM - INFO - New connected socket [id: xE858lT--IKYusBqAAC1]
+11/8/2022, 12:15:05 AM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 12:15:06 AM - INFO - New connected socket [id: -AkS1QQY2eAhCCMOAAC3]
+11/8/2022, 12:17:05 AM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 12:17:06 AM - INFO - New connected socket [id: cftXA6aPIXePkzhnAAC5]
+11/8/2022, 12:20:50 AM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 12:20:51 AM - INFO - New connected socket [id: 6dwmq9_po2l7p7v0AAC7]
+11/8/2022, 12:25:52 AM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 12:25:55 AM - INFO - New connected socket [id: tQ7FVJlUDgJU148EAAC9]
+11/8/2022, 12:32:12 AM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 12:32:13 AM - INFO - New connected socket [id: QfIJUBCYPC4YLSijAAC_]
+11/8/2022, 12:33:14 AM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 12:33:16 AM - INFO - New connected socket [id: -8j2if0If1A87LIJAADB]
+11/8/2022, 12:36:04 AM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 12:36:07 AM - INFO - New connected socket [id: fO3ctqkqaGgGonbXAADD]
+11/8/2022, 12:37:01 AM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 12:37:03 AM - INFO - New connected socket [id: L7p9JEij21nRpHTkAADF]
+11/8/2022, 12:41:30 AM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 12:41:32 AM - INFO - New connected socket [id: HwvA0jbwtO2QjKHoAADH]
+11/8/2022, 12:43:08 AM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 12:43:08 AM - INFO - New connected socket [id: 5wDmZ2jxaOHauejXAADJ]
+11/8/2022, 12:44:05 AM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 12:44:07 AM - INFO - New connected socket [id: uT2Mr8axDD-cS7W8AADL]
+11/8/2022, 12:47:20 AM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 12:47:21 AM - INFO - New connected socket [id: X_OSpBBliSGM0wFqAADN]
+11/8/2022, 12:49:20 AM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 12:49:22 AM - INFO - New connected socket [id: sPFpUHiKWI4_qlJSAADP]
+11/8/2022, 12:51:20 AM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 12:51:21 AM - INFO - New connected socket [id: DH2erZIoRgQ0JaCmAADR]
+11/8/2022, 12:52:22 AM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 12:52:24 AM - INFO - New connected socket [id: I5wckIe6eiIZsqZfAADT]
+11/8/2022, 12:54:45 AM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 12:54:47 AM - INFO - New connected socket [id: 3-BSRBYjy9ONknYMAADV]
+11/8/2022, 12:55:53 AM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 12:55:54 AM - INFO - New connected socket [id: GosU01iD8QlXp95AAADX]
+11/8/2022, 12:56:49 AM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 12:56:51 AM - INFO - New connected socket [id: qztiwnrXWxNCR39WAADZ]
+11/8/2022, 12:57:57 AM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 12:57:59 AM - INFO - New connected socket [id: I28TJUFNOBx6J8xNAADb]
+11/8/2022, 1:00:22 AM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 1:00:24 AM - INFO - New connected socket [id: TxZC4dL8KSnCX11RAADd]
+11/8/2022, 1:05:16 AM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 1:05:18 AM - INFO - New connected socket [id: 4vggNqv8kreI0PbqAADf]
+11/8/2022, 1:11:27 AM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 1:11:29 AM - INFO - New connected socket [id: gKemB7sTwRYAAeH4AADh]
+11/8/2022, 1:15:50 AM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 1:15:53 AM - INFO - New connected socket [id: G-2GoGer5Y2hWJyiAADj]
+11/8/2022, 1:20:31 AM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 1:20:33 AM - INFO - New connected socket [id: YvIiNWmdQsJSXbTeAADl]
+11/8/2022, 1:21:31 AM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 1:21:33 AM - INFO - New connected socket [id: c8r2uJQLl3D4HjATAADn]
+11/8/2022, 1:25:24 AM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 1:25:25 AM - INFO - New connected socket [id: a4aY_BmxeBJ5T-6wAADp]
+11/8/2022, 1:27:21 AM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 1:27:22 AM - INFO - New connected socket [id: kdFUA-n3EfMKpc2hAADr]
+11/8/2022, 9:17:39 AM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 9:17:41 AM - INFO - New connected socket [id: -3ubcw777FLuEEtqAADt]
+11/8/2022, 9:20:46 AM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 9:20:47 AM - INFO - New connected socket [id: SRkcc69BOvVqzwCsAADv]
+11/8/2022, 9:25:10 AM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 9:25:13 AM - INFO - New connected socket [id: Zx7Gd14GDcBlHW4FAADx]
+11/8/2022, 11:48:37 AM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 11:48:40 AM - INFO - New connected socket [id: WdepLFQaD30UHJ-QAADz]
+11/8/2022, 11:48:40 AM - INFO - Socket is now on board 632ac23e4e2d9338caf71228 [id: WdepLFQaD30UHJ-QAADz]
+11/8/2022, 11:48:41 AM - INFO - Setting socket.userId = A6qGSc for socket [id: WdepLFQaD30UHJ-QAADz]
+11/8/2022, 12:26:22 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 12:26:25 PM - INFO - New connected socket [id: qfA7qCmwGbTVS4x9AAD1]
+11/8/2022, 12:26:25 PM - INFO - Socket is now on board 632ac23e4e2d9338caf71228 [id: qfA7qCmwGbTVS4x9AAD1]
+11/8/2022, 12:26:25 PM - INFO - Setting socket.userId = fehPtM for socket [id: qfA7qCmwGbTVS4x9AAD1]
+11/8/2022, 12:26:30 PM - DEBUG - Getting Boards
+11/8/2022, 2:03:37 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 2:03:40 PM - INFO - New connected socket [id: b3d4IoP0p4Pic2JnAAD3]
+11/8/2022, 2:03:40 PM - DEBUG - Getting Boards
+11/8/2022, 2:03:40 PM - INFO - Setting socket.userId = YYEDSZ for socket [id: b3d4IoP0p4Pic2JnAAD3]
+11/8/2022, 2:18:22 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 2:18:23 PM - INFO - New connected socket [id: D3os0LT_mFZ9PaG-AAD5]
+11/8/2022, 2:19:06 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 2:19:08 PM - INFO - New connected socket [id: bShhy_QZyWXoqwpZAAD7]
+11/8/2022, 2:20:25 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 2:20:27 PM - INFO - New connected socket [id: 8vI_JvB_KNboeVhmAAD9]
+11/8/2022, 2:21:44 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 2:21:45 PM - INFO - New connected socket [id: HVg186i6P-QD8PSzAAD_]
+11/8/2022, 2:23:01 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 2:23:03 PM - INFO - New connected socket [id: mBize7MeNh7aSZPSAAEB]
+11/8/2022, 2:24:20 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 2:24:23 PM - INFO - New connected socket [id: I9N7rM2xYo-2EpRYAAED]
+11/8/2022, 2:25:38 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 2:25:40 PM - INFO - New connected socket [id: tUUdzDcdHKf2PqO2AAEF]
+11/8/2022, 2:27:17 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 2:27:19 PM - INFO - New connected socket [id: _gY5b6F3txGYxsLXAAEH]
+11/8/2022, 2:28:36 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 2:28:39 PM - INFO - New connected socket [id: fpNSzfAWPoVf8340AAEJ]
+11/8/2022, 2:29:54 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 2:29:56 PM - INFO - New connected socket [id: jfK4XjpmEBY9Of7GAAEL]
+11/8/2022, 2:31:12 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 2:31:15 PM - INFO - New connected socket [id: gLwDLWFWa2RDnpmNAAEN]
+11/8/2022, 2:32:30 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 2:32:33 PM - INFO - New connected socket [id: bxShxDW0FwUjqbpmAAEP]
+11/8/2022, 2:33:48 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 2:33:49 PM - INFO - New connected socket [id: qFoPPjWleWKGC109AAER]
+11/8/2022, 2:34:43 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 2:34:45 PM - INFO - New connected socket [id: SPY691iHIbcGEQ5mAAET]
+11/8/2022, 2:36:01 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 2:36:04 PM - INFO - New connected socket [id: BkEt03r_vzZsIrBrAAEV]
+11/8/2022, 2:37:12 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 2:37:15 PM - INFO - New connected socket [id: u3FH3fRRt1Syz5wNAAEX]
+11/8/2022, 2:38:19 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 2:38:22 PM - INFO - New connected socket [id: n6GVYITOI47PyF84AAEZ]
+11/8/2022, 2:40:57 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 2:40:59 PM - INFO - New connected socket [id: Whv5DQ4TdnTA4lZJAAEb]
+11/8/2022, 2:43:41 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 2:43:42 PM - INFO - New connected socket [id: Z9blfdct4-Jw7OuQAAEd]
+11/8/2022, 2:45:22 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 2:45:24 PM - INFO - New connected socket [id: eUKTaPJzDFlUW0l3AAEf]
+11/8/2022, 3:16:10 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 3:16:13 PM - INFO - New connected socket [id: X4dLWrZOpgDiHXscAAEh]
+11/8/2022, 3:46:58 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 3:47:00 PM - INFO - New connected socket [id: 1AJcjFluCkDzDUd7AAEj]
+11/8/2022, 4:17:45 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 4:17:47 PM - INFO - New connected socket [id: 0liDbcu_BQrOLHZaAAEl]
+11/8/2022, 7:12:06 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 7:12:08 PM - INFO - New connected socket [id: wGDhhf4xjvgyMr4lAAEn]
+11/8/2022, 7:12:08 PM - DEBUG - Getting Boards
+11/8/2022, 7:12:08 PM - INFO - Setting socket.userId = 9iknSX for socket [id: wGDhhf4xjvgyMr4lAAEn]
+11/8/2022, 7:12:40 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 7:14:51 PM - INFO - New connected socket [id: dlomCO1VhJJqJrtqAAEp]
+11/8/2022, 7:14:51 PM - DEBUG - Getting Boards
+11/8/2022, 7:14:51 PM - INFO - Setting socket.userId = wjHaUd for socket [id: dlomCO1VhJJqJrtqAAEp]
+11/8/2022, 7:15:06 PM - INFO - Socket is now on board 634030fefa114c001675a20f [id: dlomCO1VhJJqJrtqAAEp]
+11/8/2022, 7:26:52 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 7:26:54 PM - INFO - New connected socket [id: jdZ_-7Zbb5Foq_-lAAEr]
+11/8/2022, 7:26:54 PM - INFO - Socket is now on board 634030fefa114c001675a20f [id: jdZ_-7Zbb5Foq_-lAAEr]
+11/8/2022, 7:26:54 PM - INFO - Setting socket.userId = lERPPk for socket [id: jdZ_-7Zbb5Foq_-lAAEr]
+11/8/2022, 7:27:03 PM - DEBUG - Getting Boards
+11/8/2022, 7:27:09 PM - INFO - Socket is leaving board 634030fefa114c001675a20f [id: jdZ_-7Zbb5Foq_-lAAEr]
+11/8/2022, 7:27:09 PM - INFO - Socket is now on board 6335e0e667a1e721c8ab59ce [id: jdZ_-7Zbb5Foq_-lAAEr]
+11/8/2022, 7:27:13 PM - INFO - Socket is leaving board 6335e0e667a1e721c8ab59ce [id: jdZ_-7Zbb5Foq_-lAAEr]
+11/8/2022, 7:27:13 PM - INFO - Socket is now on board 632c6baeb942a527c9dd3fc7 [id: jdZ_-7Zbb5Foq_-lAAEr]
+11/8/2022, 7:27:19 PM - INFO - Socket is leaving board 632c6baeb942a527c9dd3fc7 [id: jdZ_-7Zbb5Foq_-lAAEr]
+11/8/2022, 7:27:19 PM - INFO - Socket is now on board 632c6802b942a527c9dd3fc1 [id: jdZ_-7Zbb5Foq_-lAAEr]
+11/8/2022, 7:27:24 PM - INFO - Socket is leaving board 632c6802b942a527c9dd3fc1 [id: jdZ_-7Zbb5Foq_-lAAEr]
+11/8/2022, 7:27:24 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: jdZ_-7Zbb5Foq_-lAAEr]
+11/8/2022, 7:27:44 PM - INFO - Broadcasting event: update-board
+11/8/2022, 7:27:44 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 7:28:22 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 7:28:24 PM - INFO - New connected socket [id: b-17wGA60gZiQAdzAAEt]
+11/8/2022, 7:28:24 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: b-17wGA60gZiQAdzAAEt]
+11/8/2022, 7:28:24 PM - INFO - Setting socket.userId = SJoYGu for socket [id: b-17wGA60gZiQAdzAAEt]
+11/8/2022, 7:28:42 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 7:28:44 PM - INFO - New connected socket [id: L69sKf8-6jShEptfAAEv]
+11/8/2022, 7:28:44 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: L69sKf8-6jShEptfAAEv]
+11/8/2022, 7:28:45 PM - INFO - Setting socket.userId = i0uyVP for socket [id: L69sKf8-6jShEptfAAEv]
+11/8/2022, 7:28:55 PM - INFO - Broadcasting event: update-board
+11/8/2022, 7:28:55 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 7:29:20 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 7:29:28 PM - INFO - New connected socket [id: g8XvP2w2lJrWZQWgAAEx]
+11/8/2022, 7:29:28 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: g8XvP2w2lJrWZQWgAAEx]
+11/8/2022, 7:29:29 PM - INFO - Setting socket.userId = o49tDF for socket [id: g8XvP2w2lJrWZQWgAAEx]
+11/8/2022, 7:29:33 PM - INFO - Broadcasting event: update-board
+11/8/2022, 7:29:33 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 7:29:38 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 7:29:39 PM - INFO - New connected socket [id: GM65Bns3xi_CHNNDAAEz]
+11/8/2022, 7:29:40 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: GM65Bns3xi_CHNNDAAEz]
+11/8/2022, 7:29:40 PM - INFO - Setting socket.userId = mdqJsp for socket [id: GM65Bns3xi_CHNNDAAEz]
+11/8/2022, 7:29:45 PM - INFO - Broadcasting event: update-board
+11/8/2022, 7:29:45 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 7:31:37 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 7:31:38 PM - INFO - New connected socket [id: Lj6xrHx-VZQhaGEQAAE1]
+11/8/2022, 7:31:39 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: Lj6xrHx-VZQhaGEQAAE1]
+11/8/2022, 7:31:39 PM - INFO - Setting socket.userId = ntRqjm for socket [id: Lj6xrHx-VZQhaGEQAAE1]
+11/8/2022, 7:32:18 PM - INFO - Broadcasting event: update-board
+11/8/2022, 7:32:18 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 7:32:19 PM - INFO - Broadcasting event: update-board
+11/8/2022, 7:32:19 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 7:32:20 PM - INFO - Broadcasting event: update-board
+11/8/2022, 7:32:20 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 7:32:56 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 7:32:58 PM - INFO - New connected socket [id: U-1VMYs9AerxAA-4AAE3]
+11/8/2022, 7:32:58 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: U-1VMYs9AerxAA-4AAE3]
+11/8/2022, 7:32:59 PM - INFO - Setting socket.userId = WQCyUx for socket [id: U-1VMYs9AerxAA-4AAE3]
+11/8/2022, 7:33:02 PM - INFO - Broadcasting event: update-board
+11/8/2022, 7:33:02 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 7:33:21 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 7:33:23 PM - INFO - New connected socket [id: y1eBMAyLRvCXQEELAAE5]
+11/8/2022, 7:33:23 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: y1eBMAyLRvCXQEELAAE5]
+11/8/2022, 7:33:23 PM - INFO - Setting socket.userId = tkkn1Z for socket [id: y1eBMAyLRvCXQEELAAE5]
+11/8/2022, 7:33:51 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 7:33:53 PM - INFO - New connected socket [id: DNTkvVPXepp6e09GAAE7]
+11/8/2022, 7:33:53 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: DNTkvVPXepp6e09GAAE7]
+11/8/2022, 7:33:53 PM - INFO - Setting socket.userId = M0WPYL for socket [id: DNTkvVPXepp6e09GAAE7]
+11/8/2022, 7:35:15 PM - INFO - Broadcasting event: update-board
+11/8/2022, 7:35:15 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 7:35:35 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 7:35:38 PM - INFO - New connected socket [id: 0qkTseGPPoDW4YMTAAE9]
+11/8/2022, 7:35:38 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: 0qkTseGPPoDW4YMTAAE9]
+11/8/2022, 7:35:38 PM - INFO - Setting socket.userId = AqrCqz for socket [id: 0qkTseGPPoDW4YMTAAE9]
+11/8/2022, 7:36:06 PM - INFO - Broadcasting event: update-board
+11/8/2022, 7:36:06 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 7:37:58 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 7:38:00 PM - INFO - New connected socket [id: z7OOA71KRMNg0jpHAAE_]
+11/8/2022, 7:38:00 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: z7OOA71KRMNg0jpHAAE_]
+11/8/2022, 7:38:01 PM - INFO - Setting socket.userId = EP8IPA for socket [id: z7OOA71KRMNg0jpHAAE_]
+11/8/2022, 7:38:18 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 7:38:19 PM - INFO - New connected socket [id: daNDbqVnGVDNZD3JAAFB]
+11/8/2022, 7:38:19 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: daNDbqVnGVDNZD3JAAFB]
+11/8/2022, 7:38:20 PM - INFO - Setting socket.userId = lU8HaG for socket [id: daNDbqVnGVDNZD3JAAFB]
+11/8/2022, 7:41:49 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 7:41:51 PM - INFO - New connected socket [id: xKCLHX0Mbfc1WzMmAAFD]
+11/8/2022, 7:41:51 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: xKCLHX0Mbfc1WzMmAAFD]
+11/8/2022, 7:41:51 PM - INFO - Setting socket.userId = arlypX for socket [id: xKCLHX0Mbfc1WzMmAAFD]
+11/8/2022, 7:45:00 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 7:45:02 PM - INFO - New connected socket [id: L3rc0yfM24YFgVNAAAFF]
+11/8/2022, 7:45:03 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: L3rc0yfM24YFgVNAAAFF]
+11/8/2022, 7:45:03 PM - INFO - Setting socket.userId = 5RaSAc for socket [id: L3rc0yfM24YFgVNAAAFF]
+11/8/2022, 7:46:10 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 7:46:55 PM - INFO - New connected socket [id: 5AOgzjV5m3ZzpR9TAAFH]
+11/8/2022, 7:46:55 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: 5AOgzjV5m3ZzpR9TAAFH]
+11/8/2022, 7:46:56 PM - INFO - Setting socket.userId = uznRyG for socket [id: 5AOgzjV5m3ZzpR9TAAFH]
+11/8/2022, 7:47:12 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 7:47:14 PM - INFO - New connected socket [id: jm2DaPQyYnjPEKxzAAFJ]
+11/8/2022, 7:47:14 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: jm2DaPQyYnjPEKxzAAFJ]
+11/8/2022, 7:47:14 PM - INFO - Setting socket.userId = UcnOkG for socket [id: jm2DaPQyYnjPEKxzAAFJ]
+11/8/2022, 7:50:21 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 7:50:23 PM - INFO - New connected socket [id: w0mSnO4TFluY4QQ-AAFL]
+11/8/2022, 7:50:23 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: w0mSnO4TFluY4QQ-AAFL]
+11/8/2022, 7:50:24 PM - INFO - Setting socket.userId = PtJspP for socket [id: w0mSnO4TFluY4QQ-AAFL]
+11/8/2022, 7:52:16 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 7:52:19 PM - INFO - New connected socket [id: dl5_7HeTCVivJCAhAAFN]
+11/8/2022, 7:52:19 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: dl5_7HeTCVivJCAhAAFN]
+11/8/2022, 7:52:19 PM - INFO - Setting socket.userId = fBhzW0 for socket [id: dl5_7HeTCVivJCAhAAFN]
+11/8/2022, 7:53:15 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 7:53:17 PM - INFO - New connected socket [id: JvwfqB4xDxqn0oRQAAFP]
+11/8/2022, 7:53:17 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: JvwfqB4xDxqn0oRQAAFP]
+11/8/2022, 7:53:17 PM - INFO - Setting socket.userId = 5EIZti for socket [id: JvwfqB4xDxqn0oRQAAFP]
+11/8/2022, 7:54:56 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 7:54:58 PM - INFO - New connected socket [id: A1ENwQCWK2lEh4IDAAFR]
+11/8/2022, 7:54:58 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: A1ENwQCWK2lEh4IDAAFR]
+11/8/2022, 7:54:58 PM - INFO - Setting socket.userId = xYq4Vj for socket [id: A1ENwQCWK2lEh4IDAAFR]
+11/8/2022, 7:59:11 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 7:59:13 PM - INFO - New connected socket [id: ogcg42i41nNglNOzAAFT]
+11/8/2022, 7:59:13 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: ogcg42i41nNglNOzAAFT]
+11/8/2022, 7:59:13 PM - INFO - Setting socket.userId = 9DZe8P for socket [id: ogcg42i41nNglNOzAAFT]
+11/8/2022, 8:02:58 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 8:03:01 PM - INFO - New connected socket [id: mCMskWdjGUyW9RQmAAFV]
+11/8/2022, 8:03:02 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: mCMskWdjGUyW9RQmAAFV]
+11/8/2022, 8:03:02 PM - INFO - Setting socket.userId = ncLJT3 for socket [id: mCMskWdjGUyW9RQmAAFV]
+11/8/2022, 8:08:08 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 8:08:10 PM - INFO - New connected socket [id: Q05OkFWhbBwxHf8TAAFX]
+11/8/2022, 8:08:10 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: Q05OkFWhbBwxHf8TAAFX]
+11/8/2022, 8:08:10 PM - INFO - Setting socket.userId = 00mOc6 for socket [id: Q05OkFWhbBwxHf8TAAFX]
+11/8/2022, 8:08:29 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 8:08:31 PM - INFO - New connected socket [id: Ily7iwkXGJt2Sht5AAFZ]
+11/8/2022, 8:08:31 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: Ily7iwkXGJt2Sht5AAFZ]
+11/8/2022, 8:08:32 PM - INFO - Setting socket.userId = DH03Xs for socket [id: Ily7iwkXGJt2Sht5AAFZ]
+11/8/2022, 8:14:17 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 8:14:19 PM - INFO - New connected socket [id: qxHEZVMFyrxmEXFaAAFb]
+11/8/2022, 8:14:19 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: qxHEZVMFyrxmEXFaAAFb]
+11/8/2022, 8:14:19 PM - INFO - Setting socket.userId = TaK2ot for socket [id: qxHEZVMFyrxmEXFaAAFb]
+11/8/2022, 8:16:38 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 8:16:40 PM - INFO - New connected socket [id: 9TASbiG76phJeJy9AAFd]
+11/8/2022, 8:16:40 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: 9TASbiG76phJeJy9AAFd]
+11/8/2022, 8:16:40 PM - INFO - Setting socket.userId = qbVAk9 for socket [id: 9TASbiG76phJeJy9AAFd]
+11/8/2022, 8:17:43 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 8:17:45 PM - INFO - New connected socket [id: T6xzsZvadqD3rdTJAAFf]
+11/8/2022, 8:17:46 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: T6xzsZvadqD3rdTJAAFf]
+11/8/2022, 8:17:46 PM - INFO - Setting socket.userId = dcK95R for socket [id: T6xzsZvadqD3rdTJAAFf]
+11/8/2022, 8:23:21 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 8:23:23 PM - INFO - New connected socket [id: Iheppb3Dw4dBceeVAAFh]
+11/8/2022, 8:23:23 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: Iheppb3Dw4dBceeVAAFh]
+11/8/2022, 8:23:23 PM - INFO - Setting socket.userId = lBkzj1 for socket [id: Iheppb3Dw4dBceeVAAFh]
+11/8/2022, 8:35:26 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 8:35:28 PM - INFO - New connected socket [id: AELYfjKhcB6lv6N_AAFj]
+11/8/2022, 8:35:28 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: AELYfjKhcB6lv6N_AAFj]
+11/8/2022, 8:35:28 PM - INFO - Setting socket.userId = 3KmJBK for socket [id: AELYfjKhcB6lv6N_AAFj]
+11/8/2022, 8:35:32 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 8:35:34 PM - INFO - New connected socket [id: 3UoThoXUjvBdTEQ5AAFl]
+11/8/2022, 8:35:34 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: 3UoThoXUjvBdTEQ5AAFl]
+11/8/2022, 8:35:34 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 8:35:40 PM - INFO - New connected socket [id: i5hmRvs8WXMNP_oyAAFn]
+11/8/2022, 8:35:40 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: i5hmRvs8WXMNP_oyAAFn]
+11/8/2022, 8:35:40 PM - INFO - Setting socket.userId = zFeTD9 for socket [id: i5hmRvs8WXMNP_oyAAFn]
+11/8/2022, 8:36:01 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 8:36:04 PM - INFO - New connected socket [id: npKGsVHtXOTtSRsbAAFp]
+11/8/2022, 8:36:04 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: npKGsVHtXOTtSRsbAAFp]
+11/8/2022, 8:36:04 PM - INFO - Setting socket.userId = a0l4M9 for socket [id: npKGsVHtXOTtSRsbAAFp]
+11/8/2022, 8:37:06 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 8:37:08 PM - INFO - New connected socket [id: KyLwHysYSVYG-D-QAAFr]
+11/8/2022, 8:37:08 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: KyLwHysYSVYG-D-QAAFr]
+11/8/2022, 8:37:08 PM - INFO - Setting socket.userId = WJXQk9 for socket [id: KyLwHysYSVYG-D-QAAFr]
+11/8/2022, 8:38:54 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 8:38:56 PM - INFO - New connected socket [id: YQ5JArNU1YY9nUoIAAFt]
+11/8/2022, 8:38:56 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: YQ5JArNU1YY9nUoIAAFt]
+11/8/2022, 8:38:56 PM - INFO - Setting socket.userId = QN42gB for socket [id: YQ5JArNU1YY9nUoIAAFt]
+11/8/2022, 8:39:07 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 8:39:09 PM - INFO - New connected socket [id: rgbDK3BL3heWVXljAAFv]
+11/8/2022, 8:39:09 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: rgbDK3BL3heWVXljAAFv]
+11/8/2022, 8:39:09 PM - INFO - Setting socket.userId = wPhrTQ for socket [id: rgbDK3BL3heWVXljAAFv]
+11/8/2022, 8:39:57 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 8:40:00 PM - INFO - New connected socket [id: dhIuEWScN4CxvC3yAAFx]
+11/8/2022, 8:40:00 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: dhIuEWScN4CxvC3yAAFx]
+11/8/2022, 8:40:00 PM - INFO - Setting socket.userId = PfKFFN for socket [id: dhIuEWScN4CxvC3yAAFx]
+11/8/2022, 8:42:31 PM - INFO - Broadcasting event: update-board
+11/8/2022, 8:42:31 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 8:42:54 PM - INFO - Broadcasting event: update-board
+11/8/2022, 8:42:54 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 8:42:54 PM - INFO - Broadcasting event: update-board
+11/8/2022, 8:42:54 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 8:42:55 PM - INFO - Broadcasting event: update-board
+11/8/2022, 8:42:55 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 8:43:16 PM - INFO - Broadcasting event: update-board
+11/8/2022, 8:43:16 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 8:43:17 PM - INFO - Broadcasting event: update-board
+11/8/2022, 8:43:17 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 8:43:18 PM - INFO - Broadcasting event: update-board
+11/8/2022, 8:43:18 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 8:43:19 PM - INFO - Broadcasting event: update-board
+11/8/2022, 8:43:19 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 8:43:53 PM - INFO - Broadcasting event: update-board
+11/8/2022, 8:43:53 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 8:43:54 PM - INFO - Broadcasting event: update-board
+11/8/2022, 8:43:54 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 8:43:55 PM - INFO - Broadcasting event: update-board
+11/8/2022, 8:43:55 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 8:43:56 PM - INFO - Broadcasting event: update-board
+11/8/2022, 8:43:56 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 8:45:37 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 8:45:39 PM - INFO - New connected socket [id: 3klFSgSq6iAAIWOwAAFz]
+11/8/2022, 8:45:39 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: 3klFSgSq6iAAIWOwAAFz]
+11/8/2022, 8:45:40 PM - INFO - Setting socket.userId = r2gnKk for socket [id: 3klFSgSq6iAAIWOwAAFz]
+11/8/2022, 8:46:03 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 8:46:05 PM - INFO - New connected socket [id: wiPOp1cfvVnannRGAAF1]
+11/8/2022, 8:46:05 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: wiPOp1cfvVnannRGAAF1]
+11/8/2022, 8:46:06 PM - INFO - Setting socket.userId = F01cBI for socket [id: wiPOp1cfvVnannRGAAF1]
+11/8/2022, 8:47:50 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 8:47:52 PM - INFO - New connected socket [id: BrYWqEGZPCr0vN72AAF3]
+11/8/2022, 8:47:52 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: BrYWqEGZPCr0vN72AAF3]
+11/8/2022, 8:47:53 PM - INFO - Setting socket.userId = iCVtsO for socket [id: BrYWqEGZPCr0vN72AAF3]
+11/8/2022, 8:48:12 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 8:48:14 PM - INFO - New connected socket [id: s2Eb4qzfpy8plu4-AAF5]
+11/8/2022, 8:48:14 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: s2Eb4qzfpy8plu4-AAF5]
+11/8/2022, 8:48:14 PM - INFO - Setting socket.userId = ydtXbE for socket [id: s2Eb4qzfpy8plu4-AAF5]
+11/8/2022, 8:48:50 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 8:48:53 PM - INFO - New connected socket [id: fBmtlfmmxPtmolelAAF7]
+11/8/2022, 8:48:53 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: fBmtlfmmxPtmolelAAF7]
+11/8/2022, 8:48:53 PM - INFO - Setting socket.userId = mq12C7 for socket [id: fBmtlfmmxPtmolelAAF7]
+11/8/2022, 8:49:12 PM - INFO - Broadcasting event: update-board
+11/8/2022, 8:49:12 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 8:49:13 PM - INFO - Broadcasting event: update-board
+11/8/2022, 8:49:13 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 8:49:14 PM - INFO - Broadcasting event: update-board
+11/8/2022, 8:49:14 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 8:49:15 PM - INFO - Broadcasting event: update-board
+11/8/2022, 8:49:15 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 8:49:18 PM - INFO - Broadcasting event: update-board
+11/8/2022, 8:49:18 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 8:49:18 PM - INFO - Broadcasting event: update-board
+11/8/2022, 8:49:18 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 8:49:42 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 8:49:44 PM - INFO - New connected socket [id: rH6RsLzCJ0_BL6jAAAF9]
+11/8/2022, 8:49:44 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: rH6RsLzCJ0_BL6jAAAF9]
+11/8/2022, 8:49:44 PM - INFO - Setting socket.userId = RPamMP for socket [id: rH6RsLzCJ0_BL6jAAAF9]
+11/8/2022, 8:49:54 PM - INFO - Broadcasting event: update-board
+11/8/2022, 8:49:54 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 8:50:27 PM - INFO - Broadcasting event: update-board
+11/8/2022, 8:50:27 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 8:51:48 PM - INFO - Broadcasting event: update-board
+11/8/2022, 8:51:48 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 8:52:04 PM - INFO - Broadcasting event: update-board
+11/8/2022, 8:52:04 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 8:52:30 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 8:52:32 PM - INFO - New connected socket [id: 8lr21sXW7PNX1O3JAAF_]
+11/8/2022, 8:52:32 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: 8lr21sXW7PNX1O3JAAF_]
+11/8/2022, 8:52:33 PM - INFO - Setting socket.userId = O8zMLt for socket [id: 8lr21sXW7PNX1O3JAAF_]
+11/8/2022, 8:52:37 PM - INFO - Broadcasting event: update-board
+11/8/2022, 8:52:37 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 8:54:11 PM - INFO - Broadcasting event: update-board
+11/8/2022, 8:54:11 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 8:54:13 PM - INFO - Broadcasting event: update-board
+11/8/2022, 8:54:13 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 8:54:23 PM - INFO - Broadcasting event: update-board
+11/8/2022, 8:54:23 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 8:54:31 PM - INFO - Broadcasting event: update-board
+11/8/2022, 8:54:31 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 8:54:32 PM - INFO - Broadcasting event: update-board
+11/8/2022, 8:54:32 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 8:54:33 PM - INFO - Broadcasting event: update-board
+11/8/2022, 8:54:33 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 8:54:34 PM - INFO - Broadcasting event: update-board
+11/8/2022, 8:54:34 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 9:03:23 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 9:03:25 PM - INFO - New connected socket [id: 8hP2VqA3OactSq3DAAGB]
+11/8/2022, 9:03:25 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: 8hP2VqA3OactSq3DAAGB]
+11/8/2022, 9:03:26 PM - INFO - Setting socket.userId = 65AchT for socket [id: 8hP2VqA3OactSq3DAAGB]
+11/8/2022, 9:04:14 PM - INFO - Broadcasting event: update-board
+11/8/2022, 9:04:14 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 9:04:16 PM - INFO - Broadcasting event: update-board
+11/8/2022, 9:04:16 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 9:04:22 PM - INFO - Broadcasting event: update-board
+11/8/2022, 9:04:22 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 9:04:23 PM - INFO - Broadcasting event: update-board
+11/8/2022, 9:04:23 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 9:04:59 PM - INFO - Broadcasting event: update-board
+11/8/2022, 9:04:59 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 9:04:59 PM - INFO - Broadcasting event: update-board
+11/8/2022, 9:04:59 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 9:05:59 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 9:06:01 PM - INFO - New connected socket [id: LYA9bBeMP8wkfbWbAAGD]
+11/8/2022, 9:06:01 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: LYA9bBeMP8wkfbWbAAGD]
+11/8/2022, 9:06:01 PM - INFO - Setting socket.userId = hpeQxM for socket [id: LYA9bBeMP8wkfbWbAAGD]
+11/8/2022, 9:06:07 PM - INFO - Broadcasting event: update-board
+11/8/2022, 9:06:07 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 9:06:17 PM - INFO - Broadcasting event: update-board
+11/8/2022, 9:06:17 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 9:06:20 PM - INFO - Broadcasting event: update-board
+11/8/2022, 9:06:20 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 9:06:21 PM - INFO - Broadcasting event: update-board
+11/8/2022, 9:06:21 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 9:06:23 PM - INFO - Broadcasting event: update-board
+11/8/2022, 9:06:23 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 9:06:24 PM - INFO - Broadcasting event: update-board
+11/8/2022, 9:06:24 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 9:06:26 PM - INFO - Broadcasting event: update-board
+11/8/2022, 9:06:26 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 9:06:27 PM - INFO - Broadcasting event: update-board
+11/8/2022, 9:06:27 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 9:06:28 PM - INFO - Broadcasting event: update-board
+11/8/2022, 9:06:28 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 9:06:29 PM - INFO - Broadcasting event: update-board
+11/8/2022, 9:06:29 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 9:06:30 PM - INFO - Broadcasting event: update-board
+11/8/2022, 9:06:30 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 9:06:46 PM - INFO - Broadcasting event: update-board
+11/8/2022, 9:06:46 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 9:06:51 PM - INFO - Broadcasting event: update-board
+11/8/2022, 9:06:51 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 9:06:53 PM - INFO - Broadcasting event: update-board
+11/8/2022, 9:06:53 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 9:06:53 PM - INFO - Broadcasting event: update-board
+11/8/2022, 9:06:53 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 9:06:55 PM - INFO - Broadcasting event: update-board
+11/8/2022, 9:06:55 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 9:07:03 PM - INFO - Broadcasting event: update-board
+11/8/2022, 9:07:03 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 9:07:04 PM - INFO - Broadcasting event: update-board
+11/8/2022, 9:07:04 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 9:07:06 PM - INFO - Broadcasting event: update-board
+11/8/2022, 9:07:06 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 9:07:07 PM - INFO - Broadcasting event: update-board
+11/8/2022, 9:07:07 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 9:07:20 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 9:07:22 PM - INFO - New connected socket [id: OeIkn6nWcQa39gbTAAGF]
+11/8/2022, 9:07:22 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: OeIkn6nWcQa39gbTAAGF]
+11/8/2022, 9:07:23 PM - INFO - Setting socket.userId = krpYDn for socket [id: OeIkn6nWcQa39gbTAAGF]
+11/8/2022, 9:08:08 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 9:08:10 PM - INFO - New connected socket [id: Ov_1wCNJDSWmGyejAAGH]
+11/8/2022, 9:08:10 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: Ov_1wCNJDSWmGyejAAGH]
+11/8/2022, 9:08:11 PM - INFO - Setting socket.userId = lQDcs1 for socket [id: Ov_1wCNJDSWmGyejAAGH]
+11/8/2022, 9:08:15 PM - INFO - Broadcasting event: update-board
+11/8/2022, 9:08:15 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 9:08:17 PM - INFO - Broadcasting event: update-board
+11/8/2022, 9:08:17 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 9:08:19 PM - INFO - Broadcasting event: update-board
+11/8/2022, 9:08:19 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 9:08:20 PM - INFO - Broadcasting event: update-board
+11/8/2022, 9:08:20 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 9:09:30 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 9:09:32 PM - INFO - New connected socket [id: PdilJuamonmdojtbAAGJ]
+11/8/2022, 9:09:32 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: PdilJuamonmdojtbAAGJ]
+11/8/2022, 9:09:32 PM - INFO - Setting socket.userId = x0iRXP for socket [id: PdilJuamonmdojtbAAGJ]
+11/8/2022, 9:09:41 PM - INFO - Broadcasting event: update-board
+11/8/2022, 9:09:41 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/8/2022, 9:34:04 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 9:34:06 PM - INFO - New connected socket [id: aNBldhLmQROCic5YAAGL]
+11/8/2022, 9:34:06 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: aNBldhLmQROCic5YAAGL]
+11/8/2022, 9:34:07 PM - INFO - Setting socket.userId = 5gUsWg for socket [id: aNBldhLmQROCic5YAAGL]
+11/8/2022, 9:37:36 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 9:37:38 PM - INFO - New connected socket [id: s4BZftfkhZs7ju7gAAGN]
+11/8/2022, 9:37:38 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: s4BZftfkhZs7ju7gAAGN]
+11/8/2022, 9:37:39 PM - INFO - Setting socket.userId = J13bjf for socket [id: s4BZftfkhZs7ju7gAAGN]
+11/8/2022, 9:40:04 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 9:40:06 PM - INFO - New connected socket [id: APs-USpB1VjY5tInAAGP]
+11/8/2022, 9:40:06 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: APs-USpB1VjY5tInAAGP]
+11/8/2022, 9:40:07 PM - INFO - Setting socket.userId = H2KI0Z for socket [id: APs-USpB1VjY5tInAAGP]
+11/8/2022, 10:44:23 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 10:44:25 PM - INFO - New connected socket [id: -jD-M57GFLPT299hAAGR]
+11/8/2022, 10:45:08 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 10:45:10 PM - INFO - New connected socket [id: qzMR3M296RNXY6qJAAGT]
+11/8/2022, 10:46:26 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 10:46:28 PM - INFO - New connected socket [id: c6DIyy5-zw9wMRhnAAGV]
+11/8/2022, 10:47:41 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 10:47:42 PM - INFO - New connected socket [id: RGcHl56RFO9_YHB1AAGX]
+11/8/2022, 10:48:58 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 10:49:00 PM - INFO - New connected socket [id: jQBm68GBa8Ntz9hWAAGZ]
+11/8/2022, 10:50:16 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 10:50:18 PM - INFO - New connected socket [id: L5Xd3eb3Wc8_OYNmAAGb]
+11/8/2022, 10:51:34 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 10:51:35 PM - INFO - New connected socket [id: BcfnAM9pxX7S8iISAAGd]
+11/8/2022, 10:52:51 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 10:52:53 PM - INFO - New connected socket [id: 7LneMIpBr1tvOs1qAAGf]
+11/8/2022, 10:54:10 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 10:54:11 PM - INFO - New connected socket [id: BMed3-tOedj6IJ8uAAGh]
+11/8/2022, 10:55:28 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 10:55:30 PM - INFO - New connected socket [id: zm1k0JnimXZisywbAAGj]
+11/8/2022, 10:56:45 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 10:56:47 PM - INFO - New connected socket [id: TmuS-kxfb9mMLhyBAAGl]
+11/8/2022, 10:58:03 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 10:58:06 PM - INFO - New connected socket [id: WFOCoEChEov3uEmIAAGn]
+11/8/2022, 10:59:21 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 10:59:22 PM - INFO - New connected socket [id: Pk9EvFvJh9h7ftBaAAGp]
+11/8/2022, 11:00:39 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 11:00:40 PM - INFO - New connected socket [id: pq8wA9nV36_M3iMUAAGr]
+11/8/2022, 11:01:57 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 11:01:58 PM - INFO - New connected socket [id: tPP2tgbWWWt8IZEgAAGt]
+11/8/2022, 11:03:15 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 11:03:17 PM - INFO - New connected socket [id: 5YvRNpNzV8EYaN35AAGv]
+11/8/2022, 11:04:32 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 11:04:33 PM - INFO - New connected socket [id: v6NUXW6VmRDMk0JFAAGx]
+11/8/2022, 11:05:50 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 11:05:53 PM - INFO - New connected socket [id: IwIcR_1Msi5RlR0zAAGz]
+11/8/2022, 11:07:08 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 11:07:10 PM - INFO - New connected socket [id: NxeywOeNiD60p-r1AAG1]
+11/8/2022, 11:08:26 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 11:08:27 PM - INFO - New connected socket [id: 5HIUe5roEiNdJcFaAAG3]
+11/8/2022, 11:09:44 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 11:09:46 PM - INFO - New connected socket [id: Csnq_TTNN2ZCjbgoAAG5]
+11/8/2022, 11:11:02 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 11:11:03 PM - INFO - New connected socket [id: eEZ20MxnBwE8Xf97AAG7]
+11/8/2022, 11:12:19 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 11:12:21 PM - INFO - New connected socket [id: xPOryeFABMT60nj1AAG9]
+11/8/2022, 11:13:37 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 11:13:38 PM - INFO - New connected socket [id: hyDsv0ttEMxcfUOzAAG_]
+11/8/2022, 11:14:55 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 11:14:57 PM - INFO - New connected socket [id: IghBT2zXFuZn4hrmAAHB]
+11/8/2022, 11:16:13 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 11:16:15 PM - INFO - New connected socket [id: i29E-Ay4a1zcAqo9AAHD]
+11/8/2022, 11:17:31 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 11:17:32 PM - INFO - New connected socket [id: OP-7-QLOkma0Yw0XAAHF]
+11/8/2022, 11:18:48 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 11:18:50 PM - INFO - New connected socket [id: ISei-c9IF-3zjoC5AAHH]
+11/8/2022, 11:20:06 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 11:20:08 PM - INFO - New connected socket [id: VaUSXaYx404LhLMsAAHJ]
+11/8/2022, 11:21:25 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 11:21:27 PM - INFO - New connected socket [id: 4hZ7Cftj5iXl3T5lAAHL]
+11/8/2022, 11:22:42 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 11:22:43 PM - INFO - New connected socket [id: dgSGub2wZH4HruN7AAHN]
+11/8/2022, 11:24:00 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 11:24:01 PM - INFO - New connected socket [id: JQWS7Rl6QQTBKh1HAAHP]
+11/8/2022, 11:25:18 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 11:25:19 PM - INFO - New connected socket [id: dIYVjJvMLjIky_wJAAHR]
+11/8/2022, 11:26:35 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 11:26:37 PM - INFO - New connected socket [id: 6Nrtw7H_sl4KRUzGAAHT]
+11/8/2022, 11:27:53 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 11:27:55 PM - INFO - New connected socket [id: -k-iD70iNmZCRQTnAAHV]
+11/8/2022, 11:29:04 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 11:29:05 PM - INFO - New connected socket [id: zjZPZHcO1BXIqpvpAAHX]
+11/8/2022, 11:30:01 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 11:30:03 PM - INFO - New connected socket [id: xMzpnaTVX8LMyzsVAAHZ]
+11/8/2022, 11:33:44 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 11:33:45 PM - INFO - New connected socket [id: OeuuoAiHrtVOUiXTAAHb]
+11/8/2022, 11:39:31 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 11:39:32 PM - INFO - New connected socket [id: j_EejymdnO8wfEWsAAHd]
+11/8/2022, 11:43:47 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 11:43:49 PM - INFO - New connected socket [id: 6oAdTG9f6H0rlQH8AAHf]
+11/8/2022, 11:44:44 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 11:44:46 PM - INFO - New connected socket [id: 6l9OzEqytZpjXKMIAAHh]
+11/8/2022, 11:48:59 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 11:49:00 PM - INFO - New connected socket [id: AJcKetvFsPmlpzTjAAHj]
+11/8/2022, 11:52:17 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 11:52:19 PM - INFO - New connected socket [id: Z8NnBbindNowJZiyAAHl]
+11/8/2022, 11:55:23 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 11:55:25 PM - INFO - New connected socket [id: 8B_2CMjB30mQCkNyAAHn]
+11/8/2022, 11:59:16 PM - INFO - Socket disconnected [id: undefined]
+11/8/2022, 11:59:19 PM - INFO - New connected socket [id: OpK6-q0dZhdNY71SAAHp]
+11/9/2022, 12:00:18 AM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:00:20 AM - INFO - New connected socket [id: 6VuP-P1jeE7NqXs0AAHr]
+11/9/2022, 12:04:14 AM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:04:17 AM - INFO - New connected socket [id: H9K0Eynqrbbb9TCHAAHt]
+11/9/2022, 12:05:33 AM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:05:36 AM - INFO - New connected socket [id: YzDUgqWTbIAfYU4YAAHv]
+11/9/2022, 12:11:31 AM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:11:32 AM - INFO - New connected socket [id: v6x4k5szE8rfHmtEAAHx]
+11/9/2022, 12:12:29 AM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:12:31 AM - INFO - New connected socket [id: SGLPIeqWC68Dbr8MAAHz]
+11/9/2022, 12:13:25 AM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:13:27 AM - INFO - New connected socket [id: sV8pxLw_8Hl9weS9AAH1]
+11/9/2022, 12:19:30 AM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:19:31 AM - INFO - New connected socket [id: Ja1vDCqudte4PZXKAAH3]
+11/9/2022, 12:20:33 AM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:20:35 AM - INFO - New connected socket [id: 5sVPC_MFWgaWjkAIAAH5]
+11/9/2022, 12:21:50 AM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:21:52 AM - INFO - New connected socket [id: VEi6K_hQfr8ehqhMAAH7]
+11/9/2022, 12:23:08 AM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:23:10 AM - INFO - New connected socket [id: aO0E0TfXUqoqf3H2AAH9]
+11/9/2022, 12:24:26 AM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:24:29 AM - INFO - New connected socket [id: sAnC-tIXI_fuI2__AAH_]
+11/9/2022, 12:25:44 AM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:25:45 AM - INFO - New connected socket [id: dZUW7nb69PoLG_nQAAIB]
+11/9/2022, 12:27:02 AM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:27:03 AM - INFO - New connected socket [id: jIQSFNgcb0GAyHweAAID]
+11/9/2022, 12:28:20 AM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:28:22 AM - INFO - New connected socket [id: NEBvDLudf_XYCMgQAAIF]
+11/9/2022, 12:29:37 AM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:29:38 AM - INFO - New connected socket [id: W93GwgLEOgfjR9asAAIH]
+11/9/2022, 12:30:55 AM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:30:56 AM - INFO - New connected socket [id: ROoz7y_KKKl0WHqCAAIJ]
+11/9/2022, 12:32:13 AM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:32:15 AM - INFO - New connected socket [id: P5-74Dqy8Mx_WYmEAAIL]
+11/9/2022, 12:33:30 AM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:33:32 AM - INFO - New connected socket [id: VTWQ75xzctmVO3CdAAIN]
+11/9/2022, 12:34:48 AM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:34:51 AM - INFO - New connected socket [id: RiaynZdYKuSuBjkjAAIP]
+11/9/2022, 12:36:07 AM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:36:09 AM - INFO - New connected socket [id: S0nGDKpPSy5EnQjCAAIR]
+11/9/2022, 12:37:25 AM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:37:27 AM - INFO - New connected socket [id: XAarXsQ4QGeY4DxeAAIT]
+11/9/2022, 12:38:43 AM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:38:46 AM - INFO - New connected socket [id: ozADdM1NFBkxdfEwAAIV]
+11/9/2022, 12:40:01 AM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:40:02 AM - INFO - New connected socket [id: mg3Hlh7jj3v9DPEWAAIX]
+11/9/2022, 12:41:19 AM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:41:20 AM - INFO - New connected socket [id: GXVaNK76vRhmL2YzAAIZ]
+11/9/2022, 12:42:37 AM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:42:39 AM - INFO - New connected socket [id: iaRla8J-fpxEHk80AAIb]
+11/9/2022, 12:43:54 AM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:43:56 AM - INFO - New connected socket [id: tpmzCHrXp8SFOLpjAAId]
+11/9/2022, 12:45:12 AM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:45:15 AM - INFO - New connected socket [id: ETHVPDxSGMmE0ZoJAAIf]
+11/9/2022, 12:46:30 AM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:46:32 AM - INFO - New connected socket [id: FLS_4sNj1FuJUCZcAAIh]
+11/9/2022, 12:47:48 AM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:47:49 AM - INFO - New connected socket [id: ZsjT92cdnh8go20cAAIj]
+11/9/2022, 12:49:06 AM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:49:07 AM - INFO - New connected socket [id: nXuD8SmbXGjw70PRAAIl]
+11/9/2022, 12:50:24 AM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:50:26 AM - INFO - New connected socket [id: 1U9Oqx-6hB3FATxbAAIn]
+11/9/2022, 12:51:41 AM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:51:42 AM - INFO - New connected socket [id: jHDlzC7MWUY8a27xAAIp]
+11/9/2022, 1:09:20 AM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 1:09:22 AM - INFO - New connected socket [id: VWsE0rcNvunntbzPAAIr]
+11/9/2022, 12:06:14 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:06:15 PM - INFO - New connected socket [id: 6Z1gi0o0bAcHr3dGAAIt]
+11/9/2022, 12:31:30 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:31:32 PM - INFO - New connected socket [id: M9y7p99g9Rr_KsXaAAIv]
+11/9/2022, 12:31:32 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: M9y7p99g9Rr_KsXaAAIv]
+11/9/2022, 12:31:32 PM - INFO - Setting socket.userId = TsT4f5 for socket [id: M9y7p99g9Rr_KsXaAAIv]
+11/9/2022, 12:32:08 PM - INFO - Broadcasting event: update-board
+11/9/2022, 12:32:08 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/9/2022, 12:32:09 PM - INFO - Broadcasting event: update-board
+11/9/2022, 12:32:09 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/9/2022, 12:33:46 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:33:48 PM - INFO - New connected socket [id: DdfPuUBOtl1tYxILAAIx]
+11/9/2022, 12:33:48 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: DdfPuUBOtl1tYxILAAIx]
+11/9/2022, 12:33:49 PM - INFO - Setting socket.userId = kQbyb5 for socket [id: DdfPuUBOtl1tYxILAAIx]
+11/9/2022, 12:35:39 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:35:41 PM - INFO - New connected socket [id: LPQ8RqeuxuHzxygJAAIz]
+11/9/2022, 12:35:41 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: LPQ8RqeuxuHzxygJAAIz]
+11/9/2022, 12:35:42 PM - INFO - Setting socket.userId = M5Lt6B for socket [id: LPQ8RqeuxuHzxygJAAIz]
+11/9/2022, 12:35:48 PM - INFO - Broadcasting event: update-board
+11/9/2022, 12:35:48 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/9/2022, 12:35:48 PM - INFO - Broadcasting event: update-board
+11/9/2022, 12:35:48 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/9/2022, 12:35:52 PM - INFO - Broadcasting event: update-board
+11/9/2022, 12:35:52 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/9/2022, 12:35:54 PM - INFO - Broadcasting event: update-board
+11/9/2022, 12:35:54 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/9/2022, 12:35:55 PM - INFO - Broadcasting event: update-board
+11/9/2022, 12:35:55 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/9/2022, 12:36:15 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:36:17 PM - INFO - New connected socket [id: 7h7xoTT8Nkjdk7gEAAI1]
+11/9/2022, 12:36:17 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: 7h7xoTT8Nkjdk7gEAAI1]
+11/9/2022, 12:36:18 PM - INFO - Setting socket.userId = gBD9aP for socket [id: 7h7xoTT8Nkjdk7gEAAI1]
+11/9/2022, 12:37:36 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:37:38 PM - INFO - New connected socket [id: YnBORLgvJSbrqKjLAAI3]
+11/9/2022, 12:37:38 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: YnBORLgvJSbrqKjLAAI3]
+11/9/2022, 12:37:38 PM - INFO - Setting socket.userId = NWtsrN for socket [id: YnBORLgvJSbrqKjLAAI3]
+11/9/2022, 12:38:42 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:38:44 PM - INFO - New connected socket [id: LPAMPbBV0Bno_iU2AAI5]
+11/9/2022, 12:38:44 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: LPAMPbBV0Bno_iU2AAI5]
+11/9/2022, 12:38:44 PM - INFO - Setting socket.userId = sJ7Z0a for socket [id: LPAMPbBV0Bno_iU2AAI5]
+11/9/2022, 12:39:03 PM - INFO - Broadcasting event: update-board
+11/9/2022, 12:39:03 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/9/2022, 12:39:04 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:39:06 PM - INFO - New connected socket [id: 3MxIZYB5Bplu3kx7AAI7]
+11/9/2022, 12:39:06 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: 3MxIZYB5Bplu3kx7AAI7]
+11/9/2022, 12:39:06 PM - INFO - Setting socket.userId = ffwVG0 for socket [id: 3MxIZYB5Bplu3kx7AAI7]
+11/9/2022, 12:39:38 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:39:40 PM - INFO - New connected socket [id: yfHpj0tgCqgviH0RAAI9]
+11/9/2022, 12:39:40 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: yfHpj0tgCqgviH0RAAI9]
+11/9/2022, 12:39:40 PM - INFO - Setting socket.userId = HFWwev for socket [id: yfHpj0tgCqgviH0RAAI9]
+11/9/2022, 12:40:40 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:40:42 PM - INFO - New connected socket [id: mQWcr8wRQIxaPHW-AAI_]
+11/9/2022, 12:40:42 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: mQWcr8wRQIxaPHW-AAI_]
+11/9/2022, 12:40:42 PM - INFO - Setting socket.userId = uBOhqM for socket [id: mQWcr8wRQIxaPHW-AAI_]
+11/9/2022, 12:47:21 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:47:23 PM - INFO - New connected socket [id: 5zXsh7YkBIjSfvgqAAJB]
+11/9/2022, 12:47:23 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: 5zXsh7YkBIjSfvgqAAJB]
+11/9/2022, 12:47:23 PM - INFO - Setting socket.userId = xGk3yd for socket [id: 5zXsh7YkBIjSfvgqAAJB]
+11/9/2022, 12:47:37 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:47:39 PM - INFO - New connected socket [id: o0ibbMcrGTWz-hR7AAJD]
+11/9/2022, 12:47:39 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: o0ibbMcrGTWz-hR7AAJD]
+11/9/2022, 12:47:39 PM - INFO - Setting socket.userId = 7jYe2Z for socket [id: o0ibbMcrGTWz-hR7AAJD]
+11/9/2022, 12:48:30 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:48:33 PM - INFO - New connected socket [id: PBRK4sbJkU22bZFjAAJF]
+11/9/2022, 12:48:34 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: PBRK4sbJkU22bZFjAAJF]
+11/9/2022, 12:48:34 PM - INFO - Setting socket.userId = t4BUPq for socket [id: PBRK4sbJkU22bZFjAAJF]
+11/9/2022, 12:55:46 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 12:55:48 PM - INFO - New connected socket [id: xEPPOUrHHZ-lYJsqAAJH]
+11/9/2022, 12:55:48 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: xEPPOUrHHZ-lYJsqAAJH]
+11/9/2022, 12:55:48 PM - INFO - Setting socket.userId = rVRnHo for socket [id: xEPPOUrHHZ-lYJsqAAJH]
+11/9/2022, 1:01:02 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 1:01:04 PM - INFO - New connected socket [id: hrYW-tcg4-yNW070AAJJ]
+11/9/2022, 1:01:04 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: hrYW-tcg4-yNW070AAJJ]
+11/9/2022, 1:01:05 PM - INFO - Setting socket.userId = j89nBe for socket [id: hrYW-tcg4-yNW070AAJJ]
+11/9/2022, 1:02:26 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 1:02:29 PM - INFO - New connected socket [id: sZN5NivTxfiOLnmvAAJL]
+11/9/2022, 1:02:29 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: sZN5NivTxfiOLnmvAAJL]
+11/9/2022, 1:02:29 PM - INFO - Setting socket.userId = 3hcFLR for socket [id: sZN5NivTxfiOLnmvAAJL]
+11/9/2022, 1:02:54 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 1:02:56 PM - INFO - New connected socket [id: m5eiaDoxRQp4OK0WAAJN]
+11/9/2022, 1:02:56 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: m5eiaDoxRQp4OK0WAAJN]
+11/9/2022, 1:02:56 PM - INFO - Setting socket.userId = sr2eFj for socket [id: m5eiaDoxRQp4OK0WAAJN]
+11/9/2022, 1:05:41 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 1:05:43 PM - INFO - New connected socket [id: LSu_EB4oQh8HLzysAAJP]
+11/9/2022, 1:05:43 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: LSu_EB4oQh8HLzysAAJP]
+11/9/2022, 1:05:43 PM - INFO - Setting socket.userId = 8Xm66N for socket [id: LSu_EB4oQh8HLzysAAJP]
+11/9/2022, 1:06:37 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 1:06:38 PM - INFO - New connected socket [id: lgzyKWgJBrC24rAqAAJR]
+11/9/2022, 1:06:39 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: lgzyKWgJBrC24rAqAAJR]
+11/9/2022, 1:06:39 PM - INFO - Setting socket.userId = SgLG8Z for socket [id: lgzyKWgJBrC24rAqAAJR]
+11/9/2022, 1:08:09 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 1:08:11 PM - INFO - New connected socket [id: nIZ4btLL8lLnGFNGAAJT]
+11/9/2022, 1:08:11 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: nIZ4btLL8lLnGFNGAAJT]
+11/9/2022, 1:08:11 PM - INFO - Setting socket.userId = mi5X7q for socket [id: nIZ4btLL8lLnGFNGAAJT]
+11/9/2022, 1:09:23 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 1:09:25 PM - INFO - New connected socket [id: ETEqiXWXqo3CeGMiAAJV]
+11/9/2022, 1:09:25 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: ETEqiXWXqo3CeGMiAAJV]
+11/9/2022, 1:09:25 PM - INFO - Setting socket.userId = NAUCjQ for socket [id: ETEqiXWXqo3CeGMiAAJV]
+11/9/2022, 1:10:37 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 1:10:39 PM - INFO - New connected socket [id: dcqNWSnaufDBrNuiAAJX]
+11/9/2022, 1:10:39 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: dcqNWSnaufDBrNuiAAJX]
+11/9/2022, 1:10:39 PM - INFO - Setting socket.userId = Mihdip for socket [id: dcqNWSnaufDBrNuiAAJX]
+11/9/2022, 1:15:01 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 1:15:03 PM - INFO - New connected socket [id: U_FP0GraOzNa2QCNAAJZ]
+11/9/2022, 1:15:03 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: U_FP0GraOzNa2QCNAAJZ]
+11/9/2022, 1:15:03 PM - INFO - Setting socket.userId = Bci0sL for socket [id: U_FP0GraOzNa2QCNAAJZ]
+11/9/2022, 1:15:31 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 1:15:33 PM - INFO - New connected socket [id: M6uNTll4I8NpK6mDAAJb]
+11/9/2022, 1:15:33 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: M6uNTll4I8NpK6mDAAJb]
+11/9/2022, 1:15:33 PM - INFO - Setting socket.userId = iQAUpC for socket [id: M6uNTll4I8NpK6mDAAJb]
+11/9/2022, 1:26:30 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 1:26:31 PM - INFO - New connected socket [id: TnHMitf2ncngRUQMAAJd]
+11/9/2022, 1:26:31 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: TnHMitf2ncngRUQMAAJd]
+11/9/2022, 1:26:32 PM - INFO - Setting socket.userId = XsgJhJ for socket [id: TnHMitf2ncngRUQMAAJd]
+11/9/2022, 2:14:28 PM - INFO - Server is running on port: 3030
+11/9/2022, 2:14:31 PM - INFO - New connected socket [id: coB0hAv79O1jy3O1AAAB]
+11/9/2022, 2:14:31 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: coB0hAv79O1jy3O1AAAB]
+11/9/2022, 2:14:31 PM - INFO - Setting socket.userId = 53KCBU for socket [id: coB0hAv79O1jy3O1AAAB]
+11/9/2022, 2:30:39 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 2:30:41 PM - INFO - New connected socket [id: 8ihuOTITvqW7NR6SAAAD]
+11/9/2022, 2:33:15 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 2:33:16 PM - INFO - New connected socket [id: Yg40hQ0pBK3UA45JAAAF]
+11/9/2022, 2:40:56 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: Yg40hQ0pBK3UA45JAAAF]
+11/9/2022, 2:43:12 PM - INFO - New connected socket [id: hgy-pgmsx_E9oovtAAAH]
+11/9/2022, 2:43:13 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: hgy-pgmsx_E9oovtAAAH]
+11/9/2022, 2:43:14 PM - INFO - Setting socket.userId = 2iQqy9 for socket [id: hgy-pgmsx_E9oovtAAAH]
+11/9/2022, 7:30:55 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 7:30:56 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 7:30:57 PM - INFO - New connected socket [id: EsgcLgeoRgzE4bwVAAAK]
+11/9/2022, 7:30:57 PM - INFO - New connected socket [id: btFTmUwkul3tz1TMAAAL]
+11/9/2022, 7:32:52 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 7:32:52 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 7:32:54 PM - INFO - New connected socket [id: 3mmIX5JtgIBe_TENAAAO]
+11/9/2022, 7:32:54 PM - INFO - New connected socket [id: eE9zS3277u2F9QWCAAAP]
+11/9/2022, 7:40:32 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 7:40:32 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 7:40:33 PM - INFO - New connected socket [id: gBt8FArcHIdM8kU7AAAS]
+11/9/2022, 7:40:33 PM - INFO - New connected socket [id: M9fwp_euBui-8HfUAAAT]
+11/9/2022, 7:46:24 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 7:46:24 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 7:46:25 PM - INFO - New connected socket [id: 07_1gFVD_WDfzYFXAAAW]
+11/9/2022, 7:46:25 PM - INFO - New connected socket [id: f_JQXEMlj8AFy_qXAAAX]
+11/9/2022, 7:47:38 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 7:47:38 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 7:47:41 PM - INFO - New connected socket [id: sKj3hY3wBtxQeY0JAAAa]
+11/9/2022, 7:47:41 PM - INFO - New connected socket [id: emumzzgRXf57lE0kAAAb]
+11/9/2022, 7:48:56 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 7:48:56 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 7:48:57 PM - INFO - New connected socket [id: 44Sh4KUBH-4CZBy8AAAe]
+11/9/2022, 7:48:57 PM - INFO - New connected socket [id: 4bbYAbt8wtkRb1-3AAAf]
+11/9/2022, 7:50:32 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 7:50:32 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 7:50:33 PM - INFO - New connected socket [id: NXu_fECRiY8uqtaUAAAi]
+11/9/2022, 7:50:33 PM - INFO - New connected socket [id: CP9p4jwQxvxLBSOhAAAj]
+11/9/2022, 7:59:49 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 7:59:49 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 7:59:51 PM - INFO - New connected socket [id: e6QXpnR068p8yW-nAAAm]
+11/9/2022, 7:59:51 PM - INFO - New connected socket [id: 3F9eIA-Flj36WrcxAAAn]
+11/9/2022, 8:01:08 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 8:01:08 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 8:01:10 PM - INFO - New connected socket [id: fEXobuh40bmgKGMJAAAq]
+11/9/2022, 8:01:10 PM - INFO - New connected socket [id: _mi9stpsBEsn1aOlAAAr]
+11/9/2022, 8:02:55 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 8:02:55 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 8:02:57 PM - INFO - New connected socket [id: m2ZYJ1pRVpHO-fkaAAAu]
+11/9/2022, 8:02:57 PM - INFO - New connected socket [id: cXWC-4oz_ARHjeReAAAv]
+11/9/2022, 8:04:58 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 8:04:58 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 8:05:00 PM - INFO - New connected socket [id: 1U2X-9FWk7bVO9cMAAAy]
+11/9/2022, 8:05:00 PM - INFO - New connected socket [id: 3BLdz71w3xlylGlFAAAz]
+11/9/2022, 8:06:32 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 8:06:32 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 8:06:35 PM - INFO - New connected socket [id: 9jsCE7uyRzt_6VpHAAA2]
+11/9/2022, 8:06:35 PM - INFO - New connected socket [id: Wfmv27wHUbBFinZjAAA3]
+11/9/2022, 8:07:35 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 8:07:35 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 8:07:37 PM - INFO - New connected socket [id: wd2Vs-pCLZei_6N3AAA6]
+11/9/2022, 8:07:37 PM - INFO - New connected socket [id: BH2ANTgweeqVTbeTAAA7]
+11/9/2022, 8:08:39 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 8:08:39 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 8:08:41 PM - INFO - New connected socket [id: bHI8Whd4bxLBBkZdAAA-]
+11/9/2022, 8:08:41 PM - INFO - New connected socket [id: xCpIY6gNCGhQQqhIAAA_]
+11/9/2022, 8:10:45 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 8:10:45 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 8:10:46 PM - INFO - New connected socket [id: 5LNFFxKnv_ek9BJUAABC]
+11/9/2022, 8:10:47 PM - INFO - New connected socket [id: e1Kw2082Uw9le1iRAABD]
+11/9/2022, 8:12:03 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 8:12:03 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 8:12:04 PM - INFO - New connected socket [id: TXdv3FXlbkAkdfxIAABF]
+11/9/2022, 8:12:05 PM - INFO - New connected socket [id: 1dzc7aIMNbsJf7N4AABH]
+11/9/2022, 8:52:07 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 8:52:07 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 8:52:08 PM - INFO - New connected socket [id: JtoyNNm2dBdxFCqQAABJ]
+11/9/2022, 8:52:10 PM - INFO - New connected socket [id: KKAoYl0DzSP8yAfZAABL]
+11/9/2022, 9:26:56 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 9:26:56 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 9:26:58 PM - INFO - New connected socket [id: ADeXCugWytyWfzuvAABO]
+11/9/2022, 9:26:58 PM - INFO - New connected socket [id: fg4TvRjOj8wG5aAbAABP]
+11/9/2022, 9:34:36 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 9:34:36 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 9:34:38 PM - INFO - New connected socket [id: aCtB9L3nvir3DvhRAABS]
+11/9/2022, 9:34:38 PM - INFO - New connected socket [id: 6TyPqNnGyJYCbszPAABT]
+11/9/2022, 9:34:48 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 9:34:48 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 9:34:49 PM - INFO - New connected socket [id: OixrR3R0RTK6HMG4AABW]
+11/9/2022, 9:34:49 PM - INFO - New connected socket [id: m8rrjC3ymrk7QbNBAABX]
+11/9/2022, 11:32:01 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:32:01 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:32:02 PM - INFO - New connected socket [id: eKP1Jz2OF4UtQwZjAABa]
+11/9/2022, 11:32:02 PM - INFO - New connected socket [id: oQiVjRRrARV8JQqCAABb]
+11/9/2022, 11:32:19 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:32:19 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:32:22 PM - INFO - New connected socket [id: szQE2Jnp8MBFeENDAABe]
+11/9/2022, 11:32:22 PM - INFO - New connected socket [id: 3FswlX31V_haJ--mAABf]
+11/9/2022, 11:34:19 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:34:19 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:34:21 PM - INFO - New connected socket [id: 9VCi-aJmXPvUmP-XAABi]
+11/9/2022, 11:34:21 PM - INFO - New connected socket [id: fJ5p_6obHtl6vxqsAABj]
+11/9/2022, 11:38:51 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:38:51 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:38:54 PM - INFO - New connected socket [id: wAEF24IrDYc1PxbRAABm]
+11/9/2022, 11:38:54 PM - INFO - New connected socket [id: rhlDN-NQJC9-a4h4AABn]
+11/9/2022, 11:40:07 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:40:07 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:40:09 PM - INFO - New connected socket [id: fyR75gyxtOuj0IusAABq]
+11/9/2022, 11:40:09 PM - INFO - New connected socket [id: foo5ktpuu1mE3SqGAABr]
+11/9/2022, 11:41:01 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:41:01 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:41:02 PM - INFO - New connected socket [id: q1sn4fjGawZWVqlaAABu]
+11/9/2022, 11:41:02 PM - INFO - New connected socket [id: Tx8UNRtcqIIwkgoNAABv]
+11/9/2022, 11:41:56 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:41:56 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:41:57 PM - INFO - New connected socket [id: 3wHH4LEOOMjCQZRuAABy]
+11/9/2022, 11:41:57 PM - INFO - New connected socket [id: xZYQ7pG1JuBLOL4qAABz]
+11/9/2022, 11:43:48 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:43:48 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:43:49 PM - INFO - New connected socket [id: xZbmyd7LF22aECppAAB2]
+11/9/2022, 11:43:49 PM - INFO - New connected socket [id: 0lSLKEAJJqGoRT-FAAB3]
+11/9/2022, 11:45:06 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:45:06 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:45:09 PM - INFO - New connected socket [id: kilivYN0OnMAltJUAAB6]
+11/9/2022, 11:45:09 PM - INFO - New connected socket [id: -osDfQRO_UGmAIl_AAB7]
+11/9/2022, 11:46:23 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:46:23 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:46:25 PM - INFO - New connected socket [id: 21d9sVSf7WeVgSC0AAB-]
+11/9/2022, 11:46:25 PM - INFO - New connected socket [id: Jbdkp_ukrag_5jPsAAB_]
+11/9/2022, 11:47:42 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:47:42 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:47:43 PM - INFO - New connected socket [id: P4jNieQIiu6DikM2AACC]
+11/9/2022, 11:47:43 PM - INFO - New connected socket [id: UXynmgIAluWaxStLAACD]
+11/9/2022, 11:49:00 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:49:00 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:49:01 PM - INFO - New connected socket [id: fNt0f_7uJGgNMi6rAACG]
+11/9/2022, 11:49:01 PM - INFO - New connected socket [id: BxkT65bLlmuMsHS7AACH]
+11/9/2022, 11:50:18 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:50:18 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:50:20 PM - INFO - New connected socket [id: 9dAIWgSsEM1lcF1fAACK]
+11/9/2022, 11:50:20 PM - INFO - New connected socket [id: EF-A1ul7fV6KOSVmAACL]
+11/9/2022, 11:51:36 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:51:36 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:51:37 PM - INFO - New connected socket [id: eAzCMZSkbEbUeuilAACN]
+11/9/2022, 11:51:38 PM - INFO - New connected socket [id: _Xknw_bnXjv26ik4AACP]
+11/9/2022, 11:52:54 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:52:54 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:52:55 PM - INFO - New connected socket [id: Q8WHs3RAGJG_nGghAACR]
+11/9/2022, 11:52:56 PM - INFO - New connected socket [id: _wSBO9Wsl8j-PCubAACT]
+11/9/2022, 11:54:12 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:54:12 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:54:14 PM - INFO - New connected socket [id: PMTqpC3JTrn3EU2NAACW]
+11/9/2022, 11:54:14 PM - INFO - New connected socket [id: 5ZWCCA8HmR8elj99AACX]
+11/9/2022, 11:55:31 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:55:31 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:55:32 PM - INFO - New connected socket [id: 8JR6djDKePLjQPo1AACa]
+11/9/2022, 11:55:32 PM - INFO - New connected socket [id: 7Mcz5Mmqk-fh2rIxAACb]
+11/9/2022, 11:56:48 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:56:48 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:56:50 PM - INFO - New connected socket [id: ILUF92pMlRKydITEAACe]
+11/9/2022, 11:56:50 PM - INFO - New connected socket [id: _nYOeFu31c5eagzdAACf]
+11/9/2022, 11:58:07 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:58:07 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:58:10 PM - INFO - New connected socket [id: U3mZSqppSMrSAJM0AACi]
+11/9/2022, 11:58:10 PM - INFO - New connected socket [id: u-_E_hD-dSEgwJ7HAACj]
+11/9/2022, 11:59:25 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:59:25 PM - INFO - Socket disconnected [id: undefined]
+11/9/2022, 11:59:27 PM - INFO - New connected socket [id: bswTY89WGKYA5ctrAACm]
+11/9/2022, 11:59:27 PM - INFO - New connected socket [id: jizFJP0pslCD8LNOAACn]
+11/10/2022, 12:00:43 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:00:43 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:00:45 AM - INFO - New connected socket [id: 4x-VnfdZ612gKVGhAACq]
+11/10/2022, 12:00:45 AM - INFO - New connected socket [id: vpobE6HPtaxHBIP1AACr]
+11/10/2022, 12:02:02 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:02:02 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:02:04 AM - INFO - New connected socket [id: N5F-RfBW_gNABQsVAACu]
+11/10/2022, 12:02:04 AM - INFO - New connected socket [id: fcjPuu2W0qWO3fx2AACv]
+11/10/2022, 12:03:19 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:03:19 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:03:21 AM - INFO - New connected socket [id: pN-SGqyabzisQl_5AACy]
+11/10/2022, 12:03:21 AM - INFO - New connected socket [id: y9lPaDTEVuB0IgKMAACz]
+11/10/2022, 12:04:38 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:04:38 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:04:40 AM - INFO - New connected socket [id: rYDIxQ_9n581a42GAAC2]
+11/10/2022, 12:04:40 AM - INFO - New connected socket [id: UY21Xy5c6qiurOSBAAC3]
+11/10/2022, 12:05:57 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:05:57 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:05:57 AM - INFO - New connected socket [id: X1TE2icvvOrlO1YDAAC6]
+11/10/2022, 12:05:57 AM - INFO - New connected socket [id: roJZEjWE0s9EJSkCAAC7]
+11/10/2022, 12:07:17 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:07:17 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:07:18 AM - INFO - New connected socket [id: bC0HO4SYEuOZnhz-AAC9]
+11/10/2022, 12:07:20 AM - INFO - New connected socket [id: qYXfZDu1dGkC94XlAAC_]
+11/10/2022, 12:08:35 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:08:35 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:08:38 AM - INFO - New connected socket [id: rwsYWa1DgPjorsEFAADC]
+11/10/2022, 12:08:38 AM - INFO - New connected socket [id: sSl64kvUb6VQWOEqAADD]
+11/10/2022, 12:09:53 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:09:53 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:09:55 AM - INFO - New connected socket [id: LgO5NgT1oD2cYiFEAADG]
+11/10/2022, 12:09:55 AM - INFO - New connected socket [id: hqwBAu0Sqz_A-Gs8AADH]
+11/10/2022, 12:11:11 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:11:11 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:11:14 AM - INFO - New connected socket [id: wu4cXAXplx8DZeywAADK]
+11/10/2022, 12:11:14 AM - INFO - New connected socket [id: P35AIUtX6NsMD8Z9AADL]
+11/10/2022, 12:12:29 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:12:29 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:12:32 AM - INFO - New connected socket [id: cpjWZzb7Ctwo79eIAADO]
+11/10/2022, 12:12:32 AM - INFO - New connected socket [id: XYSRk-jiDx4JyNVmAADP]
+11/10/2022, 12:13:47 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:13:47 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:13:49 AM - INFO - New connected socket [id: Itkm6NTpUd47enXeAADS]
+11/10/2022, 12:13:49 AM - INFO - New connected socket [id: fbOCjYbmAwiweG8LAADT]
+11/10/2022, 12:15:05 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:15:05 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:15:08 AM - INFO - New connected socket [id: gDGoQC6ZwsAQHKVrAADW]
+11/10/2022, 12:15:08 AM - INFO - New connected socket [id: 80IuT0mK5aI6OIgPAADX]
+11/10/2022, 12:16:24 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:16:24 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:16:25 AM - INFO - New connected socket [id: k9XZdZuqOeVy8KkeAADZ]
+11/10/2022, 12:16:26 AM - INFO - New connected socket [id: gZrqMIlGnKwFR7m1AADb]
+11/10/2022, 12:17:41 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:17:41 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:17:43 AM - INFO - New connected socket [id: GtZErmev2iRcQxWiAADe]
+11/10/2022, 12:17:43 AM - INFO - New connected socket [id: PxD5XWKBpBqMBd09AADf]
+11/10/2022, 12:19:00 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:19:00 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:19:02 AM - INFO - New connected socket [id: LxP2xvO1tRh_JXxLAADi]
+11/10/2022, 12:19:02 AM - INFO - New connected socket [id: m-QSawokchED7YHHAADj]
+11/10/2022, 12:20:18 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:20:18 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:20:21 AM - INFO - New connected socket [id: C_BUK-sfsk76m7o0AADm]
+11/10/2022, 12:20:21 AM - INFO - New connected socket [id: GD4i9d5kBNIAQt7kAADn]
+11/10/2022, 12:21:36 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:21:36 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:21:38 AM - INFO - New connected socket [id: Te7aHpfUa6bYjcDPAADq]
+11/10/2022, 12:21:38 AM - INFO - New connected socket [id: hw6ST6TLZeOZpbfFAADr]
+11/10/2022, 12:22:58 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:22:58 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:23:00 AM - INFO - New connected socket [id: _CPhrsd7zzalMm6HAADu]
+11/10/2022, 12:23:00 AM - INFO - New connected socket [id: Q7kHB0xZ49dARex-AADv]
+11/10/2022, 12:24:16 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:24:16 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:24:19 AM - INFO - New connected socket [id: u7iCnBI3BWr0EsU4AADy]
+11/10/2022, 12:24:19 AM - INFO - New connected socket [id: V3mqLJ7cO3hl8wKTAADz]
+11/10/2022, 12:25:34 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:25:34 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:25:35 AM - INFO - New connected socket [id: SLGUUikyKeRPHhvlAAD2]
+11/10/2022, 12:25:35 AM - INFO - New connected socket [id: V3pr8bw4BBScpVScAAD3]
+11/10/2022, 12:26:52 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:26:52 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:26:53 AM - INFO - New connected socket [id: j3PF8Wy6GIVCjfdrAAD6]
+11/10/2022, 12:26:53 AM - INFO - New connected socket [id: B5qeWOIl-Df5zGBGAAD7]
+11/10/2022, 12:28:10 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:28:10 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:28:13 AM - INFO - New connected socket [id: IZcR4jofQNo_Vz1bAAD-]
+11/10/2022, 12:28:13 AM - INFO - New connected socket [id: yS40ZCrXpIZs_JEuAAD_]
+11/10/2022, 12:29:28 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:29:28 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:29:30 AM - INFO - New connected socket [id: 7-NB_dy6l_EYCCyJAAEC]
+11/10/2022, 12:29:30 AM - INFO - New connected socket [id: a06x3pMo5ZWCQcZ1AAED]
+11/10/2022, 12:30:46 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:30:46 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:30:49 AM - INFO - New connected socket [id: 3Zdz71jGM2qNt4o3AAEG]
+11/10/2022, 12:30:49 AM - INFO - New connected socket [id: xNGy19q9cvLxCjWNAAEH]
+11/10/2022, 12:32:05 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:32:05 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:32:07 AM - INFO - New connected socket [id: akspcAyFjSk6l5NMAAEK]
+11/10/2022, 12:32:07 AM - INFO - New connected socket [id: u0Fom6LUU3VJ-a4mAAEL]
+11/10/2022, 12:33:22 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:33:22 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:33:24 AM - INFO - New connected socket [id: ySGj-QyfnfDTYic0AAEO]
+11/10/2022, 12:33:24 AM - INFO - New connected socket [id: EELjIiiI4gyjI-ijAAEP]
+11/10/2022, 12:34:44 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:34:44 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:34:45 AM - INFO - New connected socket [id: o6XjTFbin6fHH5AcAAES]
+11/10/2022, 12:34:45 AM - INFO - New connected socket [id: _lNGj6I7eqGDGS09AAET]
+11/10/2022, 12:36:02 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:36:02 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:36:05 AM - INFO - New connected socket [id: LQCEsz7lCitVEHNAAAEW]
+11/10/2022, 12:36:05 AM - INFO - New connected socket [id: -ZqlqsFOgAPwkjiNAAEX]
+11/10/2022, 12:37:20 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:37:20 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:37:22 AM - INFO - New connected socket [id: dRT0_x5VEjgFNpb0AAEa]
+11/10/2022, 12:37:22 AM - INFO - New connected socket [id: qNVRTf2vWmtCXkfYAAEb]
+11/10/2022, 12:38:38 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:38:38 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:38:40 AM - INFO - New connected socket [id: dW8QAeb8wCz2FEHjAAEe]
+11/10/2022, 12:38:40 AM - INFO - New connected socket [id: acpnB2pGZNMxESibAAEf]
+11/10/2022, 12:39:36 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:39:36 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:39:39 AM - INFO - New connected socket [id: 5fhI--eiSr2mmj89AAEi]
+11/10/2022, 12:39:39 AM - INFO - New connected socket [id: 8bh0U7OCk7cNVzTjAAEj]
+11/10/2022, 12:40:32 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:40:32 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:40:33 AM - INFO - New connected socket [id: WVYSeXP3P43yO7RZAAEl]
+11/10/2022, 12:40:34 AM - INFO - New connected socket [id: 5nEvmK3XhrU-lR31AAEn]
+11/10/2022, 12:41:35 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:41:35 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:41:37 AM - INFO - New connected socket [id: BkrjgfTzxw6daMzeAAEq]
+11/10/2022, 12:41:37 AM - INFO - New connected socket [id: XgGJO-_aYFCUciGSAAEr]
+11/10/2022, 12:42:53 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:42:53 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:42:56 AM - INFO - New connected socket [id: ptBBU5pvy5E9T-z6AAEu]
+11/10/2022, 12:42:56 AM - INFO - New connected socket [id: _KYONDo2jfGfGKDRAAEv]
+11/10/2022, 12:44:11 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:44:11 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:44:13 AM - INFO - New connected socket [id: qVgHUo4FamK2IsVBAAEy]
+11/10/2022, 12:44:13 AM - INFO - New connected socket [id: bJ2-GSebFi7XKZCFAAEz]
+11/10/2022, 12:45:29 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:45:29 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:45:30 AM - INFO - New connected socket [id: eMH9BUl0E0cl_6quAAE1]
+11/10/2022, 12:45:31 AM - INFO - New connected socket [id: R4JivHHj5jcpL8U7AAE3]
+11/10/2022, 12:46:48 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:46:48 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:46:50 AM - INFO - New connected socket [id: owIdduoT66Bj356sAAE6]
+11/10/2022, 12:46:50 AM - INFO - New connected socket [id: DXuWQ6VR785HDHBZAAE7]
+11/10/2022, 12:48:06 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:48:06 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:48:08 AM - INFO - New connected socket [id: YK1x9zncraeReJZDAAE-]
+11/10/2022, 12:48:08 AM - INFO - New connected socket [id: gSjcQ5ROmKsSjP5_AAE_]
+11/10/2022, 12:49:24 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:49:24 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:49:25 AM - INFO - New connected socket [id: HSf7d6dGe45rj0kvAAFB]
+11/10/2022, 12:49:27 AM - INFO - New connected socket [id: DESJRf3Ox6fBOFfHAAFD]
+11/10/2022, 12:50:42 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:50:42 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:50:44 AM - INFO - New connected socket [id: nXDgqSwQOwudB_XoAAFG]
+11/10/2022, 12:50:44 AM - INFO - New connected socket [id: 6pWtxUSlZJYfbkfbAAFH]
+11/10/2022, 12:52:00 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:52:00 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:52:02 AM - INFO - New connected socket [id: SU_TbMUGJYDjLtwvAAFK]
+11/10/2022, 12:52:02 AM - INFO - New connected socket [id: ZHWE-qWepORE4r8PAAFL]
+11/10/2022, 12:53:19 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:53:19 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:53:20 AM - INFO - New connected socket [id: T8sebyrYqs-70ePiAAFN]
+11/10/2022, 12:53:21 AM - INFO - New connected socket [id: EPO2qy5L8gYO2b_xAAFP]
+11/10/2022, 12:54:18 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:54:18 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:54:20 AM - INFO - New connected socket [id: Nz5lLUUYQcckc61LAAFS]
+11/10/2022, 12:54:20 AM - INFO - New connected socket [id: bTd0ArBbgySfTsuyAAFT]
+11/10/2022, 12:57:07 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:57:07 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:57:09 AM - INFO - New connected socket [id: nVsSpfERt82MoQuvAAFW]
+11/10/2022, 12:57:09 AM - INFO - New connected socket [id: ovH5e9DZwh3OcYmPAAFX]
+11/10/2022, 1:00:06 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 1:00:06 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 1:00:08 AM - INFO - New connected socket [id: Cyklrf6ryXcOw4AXAAFZ]
+11/10/2022, 1:00:09 AM - INFO - New connected socket [id: -EdCK0FrSBnvxdyAAAFb]
+11/10/2022, 1:01:03 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 1:01:03 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 1:01:05 AM - INFO - New connected socket [id: 9sbfekt4NOAjCYNOAAFe]
+11/10/2022, 1:01:05 AM - INFO - New connected socket [id: Y3M1wyTa6xeiaFjYAAFf]
+11/10/2022, 1:03:48 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 1:03:48 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 1:03:50 AM - INFO - New connected socket [id: gkX3XzCYlq88Eqa0AAFi]
+11/10/2022, 1:03:50 AM - INFO - New connected socket [id: fVKnwRwCQr5X9WOLAAFj]
+11/10/2022, 1:04:53 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 1:04:53 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 1:04:55 AM - INFO - New connected socket [id: YeO9Kd_AHGaplYlBAAFm]
+11/10/2022, 1:04:55 AM - INFO - New connected socket [id: qy9WqfI_VvwIOkCoAAFn]
+11/10/2022, 1:12:22 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 1:12:22 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 1:12:24 AM - INFO - New connected socket [id: h8N_qMxIjfsnF_bsAAFq]
+11/10/2022, 1:12:24 AM - INFO - New connected socket [id: bePq5eoB7e6WFnjIAAFr]
+11/10/2022, 1:15:46 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 1:15:46 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 1:15:48 AM - INFO - New connected socket [id: I2jxOQ8qv-yaE4JeAAFu]
+11/10/2022, 1:15:48 AM - INFO - New connected socket [id: 0iVOpm7XRpB5dYcJAAFv]
+11/10/2022, 1:18:17 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 1:18:17 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 1:18:19 AM - INFO - New connected socket [id: oluFUyB_MuXe6UQ-AAFy]
+11/10/2022, 1:18:19 AM - INFO - New connected socket [id: -fGKRXa1NejSjS38AAFz]
+11/10/2022, 1:21:23 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 1:21:23 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 1:21:26 AM - INFO - New connected socket [id: 6xF7F4D15KMrVF-lAAF2]
+11/10/2022, 1:21:26 AM - INFO - New connected socket [id: SiToZlinbjRIfxRkAAF3]
+11/10/2022, 1:25:42 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 1:25:42 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 1:25:44 AM - INFO - New connected socket [id: PE3iGM4TPoqvjNxxAAF6]
+11/10/2022, 1:25:44 AM - INFO - New connected socket [id: yDoOPlVblLLbNVwyAAF7]
+11/10/2022, 1:26:45 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 1:26:45 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 1:26:47 AM - INFO - New connected socket [id: U3Nx-4sUZ6dolS0oAAF-]
+11/10/2022, 1:26:47 AM - INFO - New connected socket [id: jqI8EY-h3D--3MCmAAF_]
+11/10/2022, 1:31:51 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 1:31:51 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 1:31:52 AM - INFO - New connected socket [id: hr5rYdnwFbjAe_2kAAGB]
+11/10/2022, 1:31:53 AM - INFO - New connected socket [id: XehfE0fLPPfoy68WAAGD]
+11/10/2022, 1:36:03 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 1:36:03 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 1:36:05 AM - INFO - New connected socket [id: yMqRk5lvFyX0bRT8AAGG]
+11/10/2022, 1:36:05 AM - INFO - New connected socket [id: 8Ym-i2U6yKu_wIETAAGH]
+11/10/2022, 2:06:52 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 2:06:52 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 2:06:54 AM - INFO - New connected socket [id: tfGsnQy8ToyLeu3sAAGK]
+11/10/2022, 2:06:54 AM - INFO - New connected socket [id: pbOgiTA68BEkYWReAAGL]
+11/10/2022, 10:28:33 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 10:28:33 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 10:28:34 AM - INFO - New connected socket [id: fAxvvvE22fVBoq4zAAGO]
+11/10/2022, 10:28:34 AM - INFO - New connected socket [id: p6FK5AEQHVd3qaFEAAGP]
+11/10/2022, 10:37:19 AM - INFO - Server is running on port: 3030
+11/10/2022, 10:37:23 AM - INFO - New connected socket [id: jShheMljMNCuMWojAAAB]
+11/10/2022, 10:37:23 AM - INFO - New connected socket [id: CUbEw4A8Im8_9iBSAAAD]
+11/10/2022, 10:38:01 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 10:38:01 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 10:38:09 AM - INFO - New connected socket [id: 1RZiho7VuWyFOSyrAAAF]
+11/10/2022, 10:38:10 AM - INFO - Socket is now on board 6339db1375957217cc230181 [id: 1RZiho7VuWyFOSyrAAAF]
+11/10/2022, 10:38:11 AM - INFO - Setting socket.userId = U3XdYm for socket [id: 1RZiho7VuWyFOSyrAAAF]
+11/10/2022, 10:52:41 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 10:52:43 AM - INFO - New connected socket [id: yVlZEoMKm3xEEhYIAAAH]
+11/10/2022, 11:16:32 AM - INFO - Socket is now on board 6339db1375957217cc230181 [id: yVlZEoMKm3xEEhYIAAAH]
+11/10/2022, 11:32:29 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 11:32:32 AM - INFO - New connected socket [id: 35J1lplUzTQqnpeYAAAJ]
+11/10/2022, 11:32:32 AM - INFO - Socket is now on board 6339db1375957217cc230181 [id: 35J1lplUzTQqnpeYAAAJ]
+11/10/2022, 11:32:32 AM - INFO - Setting socket.userId = KNnN8v for socket [id: 35J1lplUzTQqnpeYAAAJ]
+11/10/2022, 11:32:38 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:32:38 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:32:38 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:32:38 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:32:39 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:32:39 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:32:40 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:32:40 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:32:46 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:32:46 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:32:47 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:32:47 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:32:48 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:32:48 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:32:49 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:32:49 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:33:43 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 11:33:45 AM - INFO - New connected socket [id: VBOhT380QryHz8BMAAAL]
+11/10/2022, 11:33:46 AM - INFO - Socket is now on board 6339db1375957217cc230181 [id: VBOhT380QryHz8BMAAAL]
+11/10/2022, 11:33:46 AM - INFO - Setting socket.userId = 0SyhM9 for socket [id: VBOhT380QryHz8BMAAAL]
+11/10/2022, 11:33:50 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:33:50 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:33:51 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:33:51 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:33:51 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:33:51 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:33:52 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:33:52 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:33:55 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:33:55 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:34:01 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:34:01 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:34:02 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:34:02 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:38:47 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:38:47 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:38:48 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:38:48 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:38:49 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:38:49 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:38:54 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:38:54 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:38:54 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:38:54 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:38:55 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:38:55 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:38:56 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:38:56 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:40:34 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:40:34 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:40:35 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:40:35 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:40:36 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:40:36 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:40:37 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:40:37 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:40:38 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:40:38 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:40:39 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:40:39 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:43:00 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 11:43:03 AM - INFO - New connected socket [id: jgZzFZFw7oHuZuOnAAAN]
+11/10/2022, 11:43:03 AM - INFO - Socket is now on board 6339db1375957217cc230181 [id: jgZzFZFw7oHuZuOnAAAN]
+11/10/2022, 11:43:03 AM - INFO - Setting socket.userId = h3a0gC for socket [id: jgZzFZFw7oHuZuOnAAAN]
+11/10/2022, 11:43:08 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:43:08 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:43:09 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:43:09 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:43:09 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:43:09 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:43:10 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:43:10 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:43:10 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:43:10 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:43:48 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:43:48 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:43:49 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:43:49 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:43:53 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:43:53 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:43:59 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:43:59 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:44:01 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:44:01 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:44:02 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:44:02 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:44:02 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:44:02 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:44:03 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:44:03 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:44:04 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:44:04 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:44:05 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:44:05 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:44:06 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:44:06 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:44:07 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:44:07 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:44:08 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:44:08 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:44:09 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:44:09 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:44:24 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:44:24 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:44:29 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:44:29 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:44:30 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:44:30 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:44:31 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:44:31 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:44:33 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:44:33 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:44:34 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:44:34 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:44:35 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:44:35 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:44:35 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:44:35 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:44:36 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:44:36 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:44:36 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:44:36 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:44:37 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:44:37 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:44:38 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:44:38 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:44:39 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:44:39 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:44:40 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:44:40 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:44:40 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:44:40 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:44:41 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:44:41 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:44:42 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:44:42 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:45:17 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:45:17 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:45:42 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:45:42 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:47:27 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:47:27 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:48:52 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:48:52 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:48:53 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:48:53 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:48:54 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:48:54 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:48:55 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:48:55 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:48:56 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:48:56 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:49:00 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:49:00 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:49:19 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:49:19 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:49:21 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:49:21 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:51:53 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:51:53 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:52:09 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:52:09 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:52:28 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:52:28 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:52:29 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:52:29 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:52:30 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:52:30 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:52:30 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:52:30 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:54:05 AM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 11:54:09 AM - INFO - New connected socket [id: ubKCHEivpv2MY0eRAAAP]
+11/10/2022, 11:54:09 AM - INFO - Socket is now on board 6339db1375957217cc230181 [id: ubKCHEivpv2MY0eRAAAP]
+11/10/2022, 11:54:09 AM - INFO - Setting socket.userId = OKG8MU for socket [id: ubKCHEivpv2MY0eRAAAP]
+11/10/2022, 11:54:14 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:54:14 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:54:15 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:54:15 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:54:17 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:54:17 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:54:17 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:54:17 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:54:21 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:54:21 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:54:23 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:54:23 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:54:24 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:54:24 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:54:25 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:54:25 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:54:26 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:54:26 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:54:28 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:54:28 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:54:31 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:54:31 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:54:32 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:54:32 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:54:33 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:54:33 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:54:34 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:54:34 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:54:34 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:54:34 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:54:35 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:54:35 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:54:36 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:54:36 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:54:37 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:54:37 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:54:38 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:54:38 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:54:39 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:54:39 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:54:40 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:54:40 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:54:41 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:54:41 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:58:48 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:58:48 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 11:58:51 AM - INFO - Broadcasting event: update-board
+11/10/2022, 11:58:51 AM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:01:38 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:01:38 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:01:58 PM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:02:01 PM - INFO - New connected socket [id: Gkvn0uPdoJuWkjW9AAAR]
+11/10/2022, 12:02:01 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: Gkvn0uPdoJuWkjW9AAAR]
+11/10/2022, 12:02:01 PM - INFO - Setting socket.userId = I32tKA for socket [id: Gkvn0uPdoJuWkjW9AAAR]
+11/10/2022, 12:02:12 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:02:12 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:02:13 PM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:02:16 PM - INFO - New connected socket [id: ovjBhCTQkQdMFdTAAAAT]
+11/10/2022, 12:02:16 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: ovjBhCTQkQdMFdTAAAAT]
+11/10/2022, 12:02:16 PM - INFO - Setting socket.userId = qJfpQa for socket [id: ovjBhCTQkQdMFdTAAAAT]
+11/10/2022, 12:02:24 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:02:24 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:02:25 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:02:25 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:02:26 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:02:26 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:02:29 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:02:29 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:07:34 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:07:34 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:07:43 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:07:43 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:07:59 PM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:08:02 PM - INFO - New connected socket [id: SMsoUsKpLZOldgeyAAAV]
+11/10/2022, 12:08:02 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: SMsoUsKpLZOldgeyAAAV]
+11/10/2022, 12:08:02 PM - INFO - Setting socket.userId = Y5sRi6 for socket [id: SMsoUsKpLZOldgeyAAAV]
+11/10/2022, 12:08:10 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:08:10 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:08:23 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:08:23 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:08:28 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:08:28 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:08:39 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:08:39 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:08:46 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:08:46 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:09:39 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:09:39 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:09:42 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:09:42 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:10:01 PM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 12:10:04 PM - INFO - New connected socket [id: ikgtXkgU66fBQWYPAAAX]
+11/10/2022, 12:10:04 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: ikgtXkgU66fBQWYPAAAX]
+11/10/2022, 12:10:04 PM - INFO - Setting socket.userId = 4inRpp for socket [id: ikgtXkgU66fBQWYPAAAX]
+11/10/2022, 12:15:20 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:15:20 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:15:43 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:15:43 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:15:44 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:15:44 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:15:45 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:15:45 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:15:46 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:15:46 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:15:54 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:15:54 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:21:52 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:21:52 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:21:52 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:21:52 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:21:52 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:21:52 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:24:25 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:24:25 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:24:30 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:24:30 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:32:05 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:32:05 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:32:06 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:32:06 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:32:06 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:32:06 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:32:09 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:32:09 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:32:10 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:32:10 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:32:14 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:32:14 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:32:14 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:32:14 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:32:19 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:32:19 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:32:20 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:32:20 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:32:33 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:32:33 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:32:33 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:32:33 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:32:35 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:32:35 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 12:32:35 PM - INFO - Broadcasting event: update-board
+11/10/2022, 12:32:35 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 2:20:29 PM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 2:20:31 PM - INFO - New connected socket [id: NtWwho2_EiOfUiq5AAAZ]
+11/10/2022, 2:20:31 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: NtWwho2_EiOfUiq5AAAZ]
+11/10/2022, 2:20:32 PM - INFO - Setting socket.userId = NoQFsg for socket [id: NtWwho2_EiOfUiq5AAAZ]
+11/10/2022, 2:23:24 PM - DEBUG - Getting Users
+11/10/2022, 2:23:29 PM - INFO - Broadcasting event: update-board
+11/10/2022, 2:23:29 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 2:38:33 PM - DEBUG - Getting Users
+11/10/2022, 2:40:59 PM - DEBUG - Getting Users
+11/10/2022, 2:48:58 PM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 2:49:00 PM - INFO - New connected socket [id: bgwh0DOzJMdrfeAfAAAb]
+11/10/2022, 2:49:00 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: bgwh0DOzJMdrfeAfAAAb]
+11/10/2022, 2:49:01 PM - INFO - Setting socket.userId = RUn78L for socket [id: bgwh0DOzJMdrfeAfAAAb]
+11/10/2022, 2:49:03 PM - DEBUG - Getting Users
+11/10/2022, 2:49:05 PM - INFO - Broadcasting event: update-board
+11/10/2022, 2:49:05 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 2:49:07 PM - INFO - Broadcasting event: update-board
+11/10/2022, 2:49:07 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 2:49:10 PM - INFO - Broadcasting event: update-board
+11/10/2022, 2:49:10 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 2:49:10 PM - INFO - Broadcasting event: update-board
+11/10/2022, 2:49:10 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 2:49:13 PM - DEBUG - Getting Users
+11/10/2022, 2:49:15 PM - INFO - Broadcasting event: update-board
+11/10/2022, 2:49:15 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 2:49:16 PM - INFO - Broadcasting event: update-board
+11/10/2022, 2:49:16 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 2:49:21 PM - INFO - Broadcasting event: update-board
+11/10/2022, 2:49:21 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 2:49:21 PM - INFO - Broadcasting event: update-board
+11/10/2022, 2:49:21 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 2:50:44 PM - DEBUG - Getting Users
+11/10/2022, 2:50:54 PM - INFO - Broadcasting event: update-board
+11/10/2022, 2:50:54 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 2:50:55 PM - INFO - Broadcasting event: update-board
+11/10/2022, 2:50:55 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 2:50:57 PM - INFO - Broadcasting event: update-board
+11/10/2022, 2:50:57 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 2:50:58 PM - INFO - Broadcasting event: update-board
+11/10/2022, 2:50:58 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 3:26:03 PM - DEBUG - Getting Boards
+11/10/2022, 3:26:03 PM - INFO - Broadcasting event: update-board
+11/10/2022, 3:26:03 PM - INFO - Emit to room: 6339db1375957217cc230181
+11/10/2022, 3:36:58 PM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 3:37:00 PM - INFO - New connected socket [id: ooUbKJex-5yicCVxAAAd]
+11/10/2022, 3:37:00 PM - DEBUG - Getting Boards
+11/10/2022, 3:37:00 PM - INFO - Setting socket.userId = GAxt2p for socket [id: ooUbKJex-5yicCVxAAAd]
+11/10/2022, 4:03:58 PM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 4:04:01 PM - INFO - New connected socket [id: 4wAPcelK8CEZdxWQAAAf]
+11/10/2022, 4:04:01 PM - DEBUG - Getting Boards
+11/10/2022, 4:04:01 PM - INFO - Setting socket.userId = bLzfGS for socket [id: 4wAPcelK8CEZdxWQAAAf]
+11/10/2022, 4:12:41 PM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 4:12:44 PM - INFO - New connected socket [id: jigtRoRE56gRQ4EBAAAh]
+11/10/2022, 4:12:44 PM - DEBUG - Getting Boards
+11/10/2022, 4:12:45 PM - INFO - Setting socket.userId = uHe5th for socket [id: jigtRoRE56gRQ4EBAAAh]
+11/10/2022, 4:14:46 PM - INFO - Server is running on port: 3030
+11/10/2022, 4:14:50 PM - INFO - New connected socket [id: PtZsWV_uBBDU1-THAAAB]
+11/10/2022, 4:20:22 PM - INFO - Socket is now on board 6339db1375957217cc230181 [id: PtZsWV_uBBDU1-THAAAB]
+11/10/2022, 4:21:02 PM - DEBUG - google-auth.service - login with username: leesharooon@gmail.com
+11/10/2022, 4:21:02 PM - INFO - User login:  | {"_id":"63345fb2077ddc00163c33e7","username":"leesharooon@gmail.com","fullname":"Lee Sharon","imgUrl":"https://lh3.googleusercontent.com/a-/ACNPEu-iYoe0heDsPeWKgF-oui2cF0jZrI_1og7eGvMRKSI=s96-c"}
+11/10/2022, 4:21:03 PM - DEBUG - Getting Boards
+11/10/2022, 4:21:15 PM - DEBUG - Getting Boards
+11/10/2022, 4:21:51 PM - INFO - Socket is leaving board 6339db1375957217cc230181 [id: PtZsWV_uBBDU1-THAAAB]
+11/10/2022, 4:21:51 PM - INFO - Socket is now on board 636d08e56363d8194c949836 [id: PtZsWV_uBBDU1-THAAAB]
+11/10/2022, 4:21:56 PM - INFO - Broadcasting event: update-board
+11/10/2022, 4:21:56 PM - INFO - Broadcast to room 636d08e56363d8194c949836 excluding user: undefined
+11/10/2022, 4:22:00 PM - INFO - Broadcasting event: update-board
+11/10/2022, 4:22:00 PM - INFO - Broadcast to room 636d08e56363d8194c949836 excluding user: undefined
+11/10/2022, 4:22:04 PM - DEBUG - Getting Boards
+11/10/2022, 4:23:09 PM - INFO - Socket is leaving board 636d08e56363d8194c949836 [id: PtZsWV_uBBDU1-THAAAB]
+11/10/2022, 4:23:09 PM - INFO - Socket is now on board 632ac23e4e2d9338caf71229 [id: PtZsWV_uBBDU1-THAAAB]
+11/10/2022, 4:23:11 PM - DEBUG - Getting Boards
+11/10/2022, 4:23:17 PM - DEBUG - Getting Boards
+11/10/2022, 4:23:20 PM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 4:23:23 PM - INFO - New connected socket [id: TPhLes3hMGOUHYdpAAAD]
+11/10/2022, 4:23:23 PM - INFO - Setting socket.userId = b8Ac2W for socket [id: TPhLes3hMGOUHYdpAAAD]
+11/10/2022, 4:23:24 PM - DEBUG - Getting Boards

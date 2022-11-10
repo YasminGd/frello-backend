@@ -14,7 +14,6 @@ module.exports = {
 
 async function query(filterBy) {
     try {
-        // const criteria = _buildCriteria(filterBy)
         const criteria = {}
         const collection = await dbService.getCollection("board")
         const boards = await collection.find(criteria).toArray()
@@ -37,6 +36,7 @@ async function getBoardById(boardId) {
 }
 
 async function add(board) {
+    console.log('add ~ board', board)
     try {
         const store = asyncLocalStorage.getStore()
         const { loggedinUser } = store
@@ -85,7 +85,7 @@ async function add(board) {
         ]
         if (!loggedinUser) board.members = []
         else board.members = [loggedinUser]
-
+        board.createdAt = Date.now()
         board.groups = []
         board.activities = []
         board.isStarred = false

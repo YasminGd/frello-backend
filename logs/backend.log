@@ -24494,3 +24494,157 @@
 11/10/2022, 4:23:23 PM - INFO - New connected socket [id: TPhLes3hMGOUHYdpAAAD]
 11/10/2022, 4:23:23 PM - INFO - Setting socket.userId = b8Ac2W for socket [id: TPhLes3hMGOUHYdpAAAD]
 11/10/2022, 4:23:24 PM - DEBUG - Getting Boards
+11/10/2022, 4:52:48 PM - INFO - Server is running on port: 3030
+11/10/2022, 4:53:12 PM - INFO - New connected socket [id: jxH-fIQoBi9t5JshAAAB]
+11/10/2022, 4:53:12 PM - INFO - Setting socket.userId = XhakMk for socket [id: jxH-fIQoBi9t5JshAAAB]
+11/10/2022, 4:53:46 PM - DEBUG - Getting Boards
+11/10/2022, 4:54:02 PM - INFO - Socket is now on board 632b3c8ece43d75b60aaa4ab [id: jxH-fIQoBi9t5JshAAAB]
+11/10/2022, 4:54:04 PM - DEBUG - Getting Boards
+11/10/2022, 4:54:05 PM - INFO - Socket is leaving board 632b3c8ece43d75b60aaa4ab [id: jxH-fIQoBi9t5JshAAAB]
+11/10/2022, 4:54:05 PM - INFO - Socket is now on board 632ac23e4e2d9338caf71228 [id: jxH-fIQoBi9t5JshAAAB]
+11/10/2022, 4:54:10 PM - INFO - Broadcasting event: update-board
+11/10/2022, 4:54:10 PM - INFO - Emit to room: 632ac23e4e2d9338caf71228
+11/10/2022, 4:56:52 PM - INFO - Broadcasting event: update-board
+11/10/2022, 4:56:52 PM - INFO - Emit to room: 632ac23e4e2d9338caf71228
+11/10/2022, 4:57:31 PM - INFO - Broadcasting event: update-board
+11/10/2022, 4:57:31 PM - INFO - Emit to room: 632ac23e4e2d9338caf71228
+11/10/2022, 4:57:32 PM - INFO - Broadcasting event: update-board
+11/10/2022, 4:57:32 PM - INFO - Emit to room: 632ac23e4e2d9338caf71228
+11/10/2022, 4:57:38 PM - INFO - Broadcasting event: update-board
+11/10/2022, 4:57:38 PM - INFO - Emit to room: 632ac23e4e2d9338caf71228
+11/10/2022, 4:57:41 PM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 4:57:42 PM - INFO - New connected socket [id: gbHzjiDzGJLvpDr8AAAD]
+11/10/2022, 4:57:42 PM - DEBUG - Getting Boards
+11/10/2022, 4:57:42 PM - INFO - Setting socket.userId = wGHFID for socket [id: gbHzjiDzGJLvpDr8AAAD]
+11/10/2022, 4:57:44 PM - INFO - Socket is now on board 632c6c5cb942a527c9dd3fcb [id: gbHzjiDzGJLvpDr8AAAD]
+11/10/2022, 4:59:32 PM - INFO - Broadcasting event: update-board
+11/10/2022, 4:59:32 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 4:59:32 PM - INFO - Broadcasting event: update-board
+11/10/2022, 4:59:32 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 4:59:37 PM - INFO - Broadcasting event: update-board
+11/10/2022, 4:59:37 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 4:59:39 PM - INFO - Broadcasting event: update-board
+11/10/2022, 4:59:39 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 4:59:42 PM - INFO - Broadcasting event: update-board
+11/10/2022, 4:59:42 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 4:59:44 PM - INFO - Broadcasting event: update-board
+11/10/2022, 4:59:44 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 4:59:59 PM - INFO - Broadcasting event: update-board
+11/10/2022, 4:59:59 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 5:00:19 PM - INFO - Broadcasting event: update-board
+11/10/2022, 5:00:19 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 5:00:20 PM - INFO - Broadcasting event: update-board
+11/10/2022, 5:00:20 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 5:16:19 PM - INFO - Broadcasting event: update-board
+11/10/2022, 5:16:19 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 5:16:22 PM - INFO - Broadcasting event: update-board
+11/10/2022, 5:16:23 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 5:17:29 PM - INFO - Broadcasting event: update-board
+11/10/2022, 5:17:29 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 5:20:34 PM - INFO - Broadcasting event: update-board
+11/10/2022, 5:20:34 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 5:21:30 PM - INFO - Broadcasting event: update-board
+11/10/2022, 5:21:30 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 5:22:37 PM - INFO - Broadcasting event: update-board
+11/10/2022, 5:22:37 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 5:23:20 PM - INFO - Broadcasting event: update-board
+11/10/2022, 5:23:20 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 5:25:19 PM - INFO - Broadcasting event: update-board
+11/10/2022, 5:25:19 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 5:25:32 PM - INFO - Broadcasting event: update-board
+11/10/2022, 5:25:32 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 5:25:56 PM - INFO - Broadcasting event: update-board
+11/10/2022, 5:25:56 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 5:26:05 PM - INFO - Broadcasting event: update-board
+11/10/2022, 5:26:05 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 5:26:18 PM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 5:26:21 PM - INFO - New connected socket [id: sLG3aN1iIjfUiAJ0AAAF]
+11/10/2022, 5:26:21 PM - INFO - Socket is now on board 632c6c5cb942a527c9dd3fcb [id: sLG3aN1iIjfUiAJ0AAAF]
+11/10/2022, 5:26:22 PM - INFO - Setting socket.userId = hotlgv for socket [id: sLG3aN1iIjfUiAJ0AAAF]
+11/10/2022, 5:26:33 PM - INFO - Broadcasting event: update-board
+11/10/2022, 5:26:33 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 5:26:45 PM - INFO - Broadcasting event: update-board
+11/10/2022, 5:26:45 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 5:27:02 PM - INFO - Broadcasting event: update-board
+11/10/2022, 5:27:02 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 5:27:10 PM - INFO - Broadcasting event: update-board
+11/10/2022, 5:27:10 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 5:27:18 PM - INFO - Broadcasting event: update-board
+11/10/2022, 5:27:18 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 5:27:27 PM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 5:27:30 PM - INFO - New connected socket [id: vipU6IZ22TDdZf7vAAAH]
+11/10/2022, 5:27:30 PM - INFO - Socket is now on board 632c6c5cb942a527c9dd3fcb [id: vipU6IZ22TDdZf7vAAAH]
+11/10/2022, 5:27:31 PM - INFO - Setting socket.userId = ffSeU6 for socket [id: vipU6IZ22TDdZf7vAAAH]
+11/10/2022, 5:29:10 PM - INFO - Broadcasting event: update-board
+11/10/2022, 5:29:10 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 5:29:11 PM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 5:29:13 PM - INFO - New connected socket [id: oMh_rEcxDS3qvSr-AAAJ]
+11/10/2022, 5:29:13 PM - INFO - Socket is now on board 632c6c5cb942a527c9dd3fcb [id: oMh_rEcxDS3qvSr-AAAJ]
+11/10/2022, 5:29:14 PM - INFO - Setting socket.userId = jopaHx for socket [id: oMh_rEcxDS3qvSr-AAAJ]
+11/10/2022, 5:32:24 PM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 5:32:27 PM - INFO - New connected socket [id: plLCAThbwYBeNLyVAAAL]
+11/10/2022, 5:32:27 PM - INFO - Socket is now on board 632c6c5cb942a527c9dd3fcb [id: plLCAThbwYBeNLyVAAAL]
+11/10/2022, 5:32:28 PM - INFO - Setting socket.userId = qujnCQ for socket [id: plLCAThbwYBeNLyVAAAL]
+11/10/2022, 5:37:24 PM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 5:37:26 PM - INFO - New connected socket [id: lRHQul7UMcJdPC2HAAAN]
+11/10/2022, 5:37:26 PM - INFO - Socket is now on board 632c6c5cb942a527c9dd3fcb [id: lRHQul7UMcJdPC2HAAAN]
+11/10/2022, 5:37:27 PM - INFO - Setting socket.userId = Hrhucz for socket [id: lRHQul7UMcJdPC2HAAAN]
+11/10/2022, 5:43:45 PM - INFO - Broadcasting event: update-board
+11/10/2022, 5:43:45 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 5:44:11 PM - INFO - Broadcasting event: update-board
+11/10/2022, 5:44:11 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 5:44:11 PM - INFO - Broadcasting event: update-board
+11/10/2022, 5:44:11 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 5:44:12 PM - INFO - Broadcasting event: update-board
+11/10/2022, 5:44:12 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 5:44:16 PM - INFO - Broadcasting event: update-board
+11/10/2022, 5:44:16 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 5:44:16 PM - INFO - Broadcasting event: update-board
+11/10/2022, 5:44:16 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 5:44:23 PM - INFO - Broadcasting event: update-board
+11/10/2022, 5:44:23 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 5:44:24 PM - INFO - Broadcasting event: update-board
+11/10/2022, 5:44:24 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 5:44:25 PM - INFO - Broadcasting event: update-board
+11/10/2022, 5:44:25 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 5:44:31 PM - INFO - Broadcasting event: update-board
+11/10/2022, 5:44:31 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 5:45:04 PM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 5:45:06 PM - INFO - New connected socket [id: Tf499LP1_vQX4btwAAAP]
+11/10/2022, 5:45:06 PM - INFO - Socket is now on board 632c6c5cb942a527c9dd3fcb [id: Tf499LP1_vQX4btwAAAP]
+11/10/2022, 5:45:06 PM - INFO - Setting socket.userId = LrTEUO for socket [id: Tf499LP1_vQX4btwAAAP]
+11/10/2022, 5:46:23 PM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 5:46:25 PM - INFO - New connected socket [id: yWIPvyc9zkpG7ArzAAAR]
+11/10/2022, 5:46:26 PM - INFO - Socket is now on board 632c6c5cb942a527c9dd3fcb [id: yWIPvyc9zkpG7ArzAAAR]
+11/10/2022, 5:46:26 PM - INFO - Setting socket.userId = 9neuYM for socket [id: yWIPvyc9zkpG7ArzAAAR]
+11/10/2022, 5:49:49 PM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 5:49:50 PM - INFO - New connected socket [id: UjMIfMYYANWTdVfvAAAT]
+11/10/2022, 5:49:50 PM - INFO - Socket is now on board 632c6c5cb942a527c9dd3fcb [id: UjMIfMYYANWTdVfvAAAT]
+11/10/2022, 5:49:50 PM - INFO - Setting socket.userId = uNsDXm for socket [id: UjMIfMYYANWTdVfvAAAT]
+11/10/2022, 5:49:57 PM - INFO - Broadcasting event: update-board
+11/10/2022, 5:49:57 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 5:50:03 PM - INFO - Broadcasting event: update-board
+11/10/2022, 5:50:03 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 5:59:32 PM - INFO - Socket disconnected [id: undefined]
+11/10/2022, 5:59:46 PM - INFO - New connected socket [id: LD4PZlxthKOBVoxfAAAV]
+11/10/2022, 5:59:46 PM - INFO - Socket is now on board 632c6c5cb942a527c9dd3fcb [id: LD4PZlxthKOBVoxfAAAV]
+11/10/2022, 5:59:46 PM - INFO - Setting socket.userId = OKByKn for socket [id: LD4PZlxthKOBVoxfAAAV]
+11/10/2022, 5:59:51 PM - INFO - Broadcasting event: update-board
+11/10/2022, 5:59:51 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 6:02:33 PM - INFO - Broadcasting event: update-board
+11/10/2022, 6:02:33 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 6:02:34 PM - INFO - Broadcasting event: update-board
+11/10/2022, 6:02:34 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 6:02:35 PM - INFO - Broadcasting event: update-board
+11/10/2022, 6:02:35 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 6:02:36 PM - INFO - Broadcasting event: update-board
+11/10/2022, 6:02:36 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 6:02:37 PM - INFO - Broadcasting event: update-board
+11/10/2022, 6:02:37 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 6:02:45 PM - INFO - Broadcasting event: update-board
+11/10/2022, 6:02:45 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 6:02:46 PM - INFO - Broadcasting event: update-board
+11/10/2022, 6:02:46 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 6:02:47 PM - INFO - Broadcasting event: update-board
+11/10/2022, 6:02:47 PM - INFO - Emit to room: 632c6c5cb942a527c9dd3fcb
+11/10/2022, 9:05:48 PM - INFO - Socket disconnected [id: undefined]

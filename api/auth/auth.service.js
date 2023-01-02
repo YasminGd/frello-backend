@@ -21,11 +21,14 @@ async function login(username, password) {
 async function signup(username, password, fullname, imgUrl) {
   const saltRounds = 10
 
-  logger.debug(`auth.service - signup with username: ${username}, fullname: ${fullname}`)
-  if (!username || !password || !fullname) return Promise.reject('fullname, username and password are required!')
+  logger.debug(
+    `auth.service - signup with username: ${username}, fullname: ${fullname}`
+  )
+  if (!username || !password || !fullname)
+    return Promise.reject('fullname, username and password are required!')
 
-  const userExist = await userService.getByUsername(username)
-  if (userExist) return Promise.reject('Username already taken')
+  const user = await userService.getByUsername(username)
+  if (user) return Promise.reject('Username already taken')
 
   const hash = await bcrypt.hash(password, saltRounds)
   return userService.add({ username, password: hash, fullname, imgUrl })

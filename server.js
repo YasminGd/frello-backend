@@ -8,10 +8,9 @@ const http = require('http').createServer(app)
 
 // Express App Config
 app.use(cookieParser())
-// app.use(express.json())
 app.use(express.json({ limit: '50mb' }))
 app.use(express.urlencoded({ limit: '50mb', extended: true }))
-app.use(express.static('public'))
+// app.use(express.static('public'))
 
 if (process.env.NODE_ENV === 'production') {
   // Express serve static files on production environment
@@ -20,7 +19,12 @@ if (process.env.NODE_ENV === 'production') {
   // Configuring CORS
   const corsOptions = {
     // Make sure origin contains the url your frontend is running on
-    origin: ['http://127.0.0.1:8080', 'http://localhost:8080', 'http://127.0.0.1:3000', 'http://localhost:3000'],
+    origin: [
+      'http://127.0.0.1:8080',
+      'http://localhost:8080',
+      'http://127.0.0.1:3000',
+      'http://localhost:3000',
+    ],
     credentials: true,
   }
   app.use(cors(corsOptions))

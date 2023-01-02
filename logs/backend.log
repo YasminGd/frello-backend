@@ -1,13 +1,3 @@
-9/14/2021, 12:34:51 PM - INFO - Server is running on port: 3030
-9/14/2021, 12:42:49 PM - INFO - Server is running on port: 3030
-9/14/2021, 12:47:44 PM - INFO - Server is running on port: 3030
-9/14/2021, 12:47:55 PM - INFO - Server is running on port: 3030
-9/14/2021, 12:55:49 PM - INFO - Server is running on port: 3030
-9/14/2021, 12:56:00 PM - INFO - Server is running on port: 3030
-9/14/2021, 12:56:05 PM - INFO - Server is running on port: 3030
-9/14/2021, 12:56:27 PM - INFO - Server is running on port: 3030
-9/14/2021, 12:56:38 PM - INFO - Req!!!
-9/14/2021, 12:57:17 PM - INFO - Server is running on port: 3030
 5/16/2022, 1:24:37 PM - INFO - Server is running on port: 3030
 5/16/2022, 1:24:47 PM - INFO - Req!!!
 5/16/2022, 1:29:44 PM - INFO - Server is running on port: 3030
@@ -24762,3 +24752,73 @@
 1/2/2023, 4:40:25 PM - INFO - New connected socket [id: S4RAnWd-gxnimfZNAAAB]
 1/2/2023, 4:40:35 PM - INFO - Server is running on port: 3030
 1/2/2023, 4:40:37 PM - INFO - New connected socket [id: VXZdNEMdweHiWKBXAAAB]
+1/2/2023, 4:43:06 PM - INFO - Server is running on port: 3030
+1/2/2023, 4:43:06 PM - INFO - New connected socket [id: w8Ho-dqZGz42TFIIAAAB]
+1/2/2023, 4:51:49 PM - INFO - Server is running on port: 3030
+1/2/2023, 4:51:51 PM - INFO - New connected socket [id: 0Uk-xiPv4b0wSKJLAAAB]
+1/2/2023, 4:52:30 PM - INFO - Server is running on port: 3030
+1/2/2023, 4:52:31 PM - INFO - New connected socket [id: im4PZ9dwLVW3Cm-cAAAB]
+1/2/2023, 4:54:22 PM - INFO - Server is running on port: 3030
+1/2/2023, 4:54:24 PM - INFO - New connected socket [id: V6trfNLrAHNo62L2AAAB]
+1/2/2023, 4:56:40 PM - INFO - Server is running on port: 3030
+1/2/2023, 4:56:40 PM - INFO - New connected socket [id: WiTCw3bpQzbELdFOAAAB]
+1/2/2023, 5:03:08 PM - INFO - Server is running on port: 3030
+1/2/2023, 5:03:09 PM - INFO - New connected socket [id: 1lKXwisKKoRrMtQKAAAB]
+1/2/2023, 5:03:25 PM - INFO - New connected socket [id: zOQlUR66GOklhSaTAAAD]
+1/2/2023, 5:03:25 PM - INFO - Socket is now on board 632ac23e4e2d9338caf71228 [id: zOQlUR66GOklhSaTAAAD]
+1/2/2023, 5:03:26 PM - INFO - Setting socket.userId = ub1vWE for socket [id: zOQlUR66GOklhSaTAAAD]
+1/2/2023, 5:03:29 PM - INFO - Broadcasting event: update-board
+1/2/2023, 5:03:29 PM - INFO - Emit to room: 632ac23e4e2d9338caf71228
+1/2/2023, 5:03:32 PM - INFO - Broadcasting event: update-board
+1/2/2023, 5:03:32 PM - INFO - Emit to room: 632ac23e4e2d9338caf71228
+1/2/2023, 5:03:34 PM - INFO - Broadcasting event: update-board
+1/2/2023, 5:03:34 PM - INFO - Emit to room: 632ac23e4e2d9338caf71228
+1/2/2023, 5:03:37 PM - INFO - Broadcasting event: update-board
+1/2/2023, 5:03:38 PM - INFO - Emit to room: 632ac23e4e2d9338caf71228
+1/2/2023, 5:03:46 PM - INFO - Broadcasting event: update-board
+1/2/2023, 5:03:47 PM - INFO - Emit to room: 632ac23e4e2d9338caf71228
+1/2/2023, 5:03:48 PM - INFO - Broadcasting event: update-board
+1/2/2023, 5:03:48 PM - INFO - Emit to room: 632ac23e4e2d9338caf71228
+1/2/2023, 5:03:50 PM - INFO - Broadcasting event: update-board
+1/2/2023, 5:03:50 PM - INFO - Emit to room: 632ac23e4e2d9338caf71228
+1/2/2023, 5:03:52 PM - INFO - Broadcasting event: update-board
+1/2/2023, 5:03:52 PM - INFO - Emit to room: 632ac23e4e2d9338caf71228
+1/2/2023, 5:03:55 PM - INFO - Broadcasting event: update-board
+1/2/2023, 5:03:55 PM - INFO - Emit to room: 632ac23e4e2d9338caf71228
+1/2/2023, 5:05:11 PM - INFO - Server is running on port: 3030
+1/2/2023, 5:05:11 PM - INFO - New connected socket [id: mHzBg40vvZ_MMRpKAAAB]
+1/2/2023, 5:05:12 PM - INFO - New connected socket [id: Cgu1jUT9hKvCB_mwAAAD]
+1/2/2023, 5:05:12 PM - INFO - Socket is now on board 632ac23e4e2d9338caf71228 [id: Cgu1jUT9hKvCB_mwAAAD]
+1/2/2023, 5:05:12 PM - INFO - Setting socket.userId = k22kfZ for socket [id: Cgu1jUT9hKvCB_mwAAAD]
+1/2/2023, 5:05:24 PM - INFO - Socket disconnected [id: undefined]
+1/2/2023, 5:05:24 PM - INFO - New connected socket [id: Fe5h3GfaXRK_5phnAAAF]
+1/2/2023, 5:05:24 PM - INFO - Socket is now on board 632ac23e4e2d9338caf71228 [id: Fe5h3GfaXRK_5phnAAAF]
+1/2/2023, 5:05:24 PM - INFO - Setting socket.userId = ZX4HcE for socket [id: Fe5h3GfaXRK_5phnAAAF]
+1/2/2023, 5:07:47 PM - INFO - Socket disconnected [id: undefined]
+1/2/2023, 5:07:48 PM - INFO - New connected socket [id: i-VvT4xGBSuhthPgAAAH]
+1/2/2023, 5:07:48 PM - INFO - Socket is now on board 632ac23e4e2d9338caf71228 [id: i-VvT4xGBSuhthPgAAAH]
+1/2/2023, 5:07:48 PM - INFO - Setting socket.userId = LZNkat for socket [id: i-VvT4xGBSuhthPgAAAH]
+1/2/2023, 5:08:40 PM - INFO - Socket disconnected [id: undefined]
+1/2/2023, 5:08:41 PM - INFO - New connected socket [id: LHgypZUM5Kz0-IBbAAAJ]
+1/2/2023, 5:08:41 PM - INFO - Socket is now on board 632ac23e4e2d9338caf71228 [id: LHgypZUM5Kz0-IBbAAAJ]
+1/2/2023, 5:08:42 PM - INFO - Setting socket.userId = ylw1PA for socket [id: LHgypZUM5Kz0-IBbAAAJ]
+1/2/2023, 5:15:13 PM - INFO - Socket is now on board 632ac23e4e2d9338caf71228 [id: mHzBg40vvZ_MMRpKAAAB]
+1/2/2023, 5:17:31 PM - INFO - Socket disconnected [id: undefined]
+1/2/2023, 5:17:41 PM - INFO - New connected socket [id: y82YW6LPpIhL_l3ZAAAL]
+1/2/2023, 5:17:41 PM - INFO - Socket is now on board 632ac23e4e2d9338caf71228 [id: y82YW6LPpIhL_l3ZAAAL]
+1/2/2023, 5:17:42 PM - INFO - Setting socket.userId = 633ac6b9d8e5450016206206 for socket [id: y82YW6LPpIhL_l3ZAAAL]
+1/2/2023, 5:18:37 PM - INFO - Socket disconnected [id: undefined]
+1/2/2023, 5:18:37 PM - INFO - Socket disconnected [id: undefined]
+1/2/2023, 5:18:39 PM - INFO - New connected socket [id: zYNy1M5w5uAt0PiJAAAN]
+1/2/2023, 5:18:39 PM - INFO - Socket is now on board 632ac23e4e2d9338caf71228 [id: zYNy1M5w5uAt0PiJAAAN]
+1/2/2023, 5:18:39 PM - INFO - New connected socket [id: 7HcSGi5m5nyeIw9mAAAP]
+1/2/2023, 5:18:39 PM - INFO - Setting socket.userId = 633ac6b9d8e5450016206206 for socket [id: zYNy1M5w5uAt0PiJAAAN]
+1/2/2023, 5:18:39 PM - INFO - Socket is now on board 632ac23e4e2d9338caf71228 [id: 7HcSGi5m5nyeIw9mAAAP]
+1/2/2023, 5:18:39 PM - INFO - Setting socket.userId = BsEilS for socket [id: 7HcSGi5m5nyeIw9mAAAP]
+1/2/2023, 5:18:43 PM - INFO - Broadcasting event: update-board
+1/2/2023, 5:18:43 PM - INFO - Broadcast to room 632ac23e4e2d9338caf71228 excluding user: 633ac6b9d8e5450016206206
+1/2/2023, 5:18:45 PM - INFO - Broadcasting event: update-board
+1/2/2023, 5:18:45 PM - INFO - Broadcast to room 632ac23e4e2d9338caf71228 excluding user: 633ac6b9d8e5450016206206
+1/2/2023, 5:19:03 PM - INFO - Server is running on port: 3030
+1/2/2023, 5:19:04 PM - INFO - New connected socket [id: nROncrTb9rTnIG0dAAAB]
+1/2/2023, 5:19:04 PM - INFO - New connected socket [id: 6aURu0BdvJgiYsSCAAAD]

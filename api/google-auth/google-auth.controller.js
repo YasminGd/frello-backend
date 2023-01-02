@@ -6,6 +6,7 @@ async function login(req, res) {
   try {
     const user = await googleAuthService.login(username)
     const loginToken = googleAuthService.getLoginToken(user)
+    //TODO: Handle failed login if the user is not registered
     logger.info('User login: ', user)
     res.cookie('loginToken', loginToken)
     res.json(user)

@@ -24708,3 +24708,57 @@
 1/2/2023, 4:10:25 PM - INFO - Socket is now on board 63b2e5cf84791b4ca591b4c3 [id: ATcWiUgFDfW7VGwSAAAD]
 1/2/2023, 4:10:39 PM - INFO - Server is running on port: 3030
 1/2/2023, 4:10:40 PM - INFO - New connected socket [id: YQ7UBwNi3tAX-fmPAAAB]
+1/2/2023, 4:16:56 PM - DEBUG - Getting Boards
+1/2/2023, 4:16:58 PM - INFO - Socket disconnected [id: undefined]
+1/2/2023, 4:16:59 PM - INFO - New connected socket [id: i74-t3vLZFMdorLxAAAD]
+1/2/2023, 4:17:00 PM - INFO - Setting socket.userId = 633ac6b9d8e5450016206206 for socket [id: i74-t3vLZFMdorLxAAAD]
+1/2/2023, 4:20:30 PM - INFO - Server is running on port: 3030
+1/2/2023, 4:20:32 PM - INFO - New connected socket [id: jvXLBQ7HN0JPud7DAAAB]
+1/2/2023, 4:20:42 PM - DEBUG - Getting Boards
+1/2/2023, 4:20:44 PM - INFO - Socket is now on board 6339ec6875957217cc2301ad [id: jvXLBQ7HN0JPud7DAAAB]
+1/2/2023, 4:20:45 PM - DEBUG - Getting Users
+1/2/2023, 4:21:02 PM - DEBUG - Getting Boards
+1/2/2023, 4:21:13 PM - DEBUG - Getting Boards
+1/2/2023, 4:21:15 PM - INFO - Socket disconnected [id: undefined]
+1/2/2023, 4:21:17 PM - INFO - New connected socket [id: FH7bZviP_DoKhBnmAAAD]
+1/2/2023, 4:21:17 PM - INFO - Setting socket.userId = zEWM7J for socket [id: FH7bZviP_DoKhBnmAAAD]
+1/2/2023, 4:22:02 PM - DEBUG - Bar Ohayon, ohayonzzb@gmail.com
+1/2/2023, 4:22:02 PM - DEBUG - auth.service - signup with username: ohayonzzb@gmail.com, fullname: Bar Ohayon
+1/2/2023, 4:22:02 PM - ERROR - Failed to signup Username already taken
+1/2/2023, 4:22:42 PM - INFO - Server is running on port: 3030
+1/2/2023, 4:22:42 PM - INFO - New connected socket [id: lMujWz7D2NvJpzeaAAAB]
+1/2/2023, 4:30:39 PM - DEBUG - google-auth.service - login with username: ohayonzzb@gmail.com
+1/2/2023, 4:30:40 PM - INFO - User login:  | {"_id":"633ac6b9d8e5450016206206","username":"ohayonzzb@gmail.com","fullname":"Bar Ohayon","imgUrl":"https://lh3.googleusercontent.com/a-/ACNPEu9OGABXSCocxYTT3hWFY_DNF7c96EVd0ZfTh8eYmg=s96-c"}
+1/2/2023, 4:30:41 PM - DEBUG - Getting Boards
+1/2/2023, 4:33:05 PM - INFO - Server is running on port: 3030
+1/2/2023, 4:33:06 PM - INFO - New connected socket [id: WOssqgmfby1p1WVVAAAB]
+1/2/2023, 4:33:11 PM - INFO - Server is running on port: 3030
+1/2/2023, 4:33:12 PM - INFO - New connected socket [id: Mbu7aAlf9QbP6okWAAAB]
+1/2/2023, 4:33:32 PM - INFO - Server is running on port: 3030
+1/2/2023, 4:33:34 PM - INFO - New connected socket [id: CIdSBl7d8DydwIDBAAAB]
+1/2/2023, 4:33:43 PM - INFO - Server is running on port: 3030
+1/2/2023, 4:33:44 PM - INFO - New connected socket [id: Xkowbdh7g2w6MAPpAAAB]
+1/2/2023, 4:34:03 PM - INFO - Server is running on port: 3030
+1/2/2023, 4:34:04 PM - INFO - New connected socket [id: D1DmZpUCKJtn0OVCAAAB]
+1/2/2023, 4:34:22 PM - INFO - Server is running on port: 3030
+1/2/2023, 4:34:24 PM - INFO - New connected socket [id: nAtKYR2Ziq0MYVq8AAAB]
+1/2/2023, 4:34:34 PM - INFO - Server is running on port: 3030
+1/2/2023, 4:34:36 PM - INFO - New connected socket [id: l9BxUJ30MbcvDQ3aAAAB]
+1/2/2023, 4:34:36 PM - INFO - Socket is now on board 632ac23e4e2d9338caf71228 [id: l9BxUJ30MbcvDQ3aAAAB]
+1/2/2023, 4:34:40 PM - DEBUG - Getting Users
+1/2/2023, 4:34:46 PM - INFO - Broadcasting event: update-board
+1/2/2023, 4:34:46 PM - INFO - Emit to room: 632ac23e4e2d9338caf71228
+1/2/2023, 4:34:47 PM - INFO - Broadcasting event: update-board
+1/2/2023, 4:34:47 PM - INFO - Emit to room: 632ac23e4e2d9338caf71228
+1/2/2023, 4:34:55 PM - INFO - Server is running on port: 3030
+1/2/2023, 4:34:56 PM - INFO - New connected socket [id: Pb9sygRP5zLquHAUAAAB]
+1/2/2023, 4:34:58 PM - INFO - Server is running on port: 3030
+1/2/2023, 4:34:58 PM - INFO - New connected socket [id: uTQSLdp97RcBXMcSAAAB]
+1/2/2023, 4:35:26 PM - INFO - Server is running on port: 3030
+1/2/2023, 4:35:27 PM - INFO - New connected socket [id: cUqcd3DouER05UJLAAAB]
+1/2/2023, 4:40:03 PM - INFO - Server is running on port: 3030
+1/2/2023, 4:40:05 PM - INFO - New connected socket [id: sJGBXaZ_ETMqAYQTAAAB]
+1/2/2023, 4:40:23 PM - INFO - Server is running on port: 3030
+1/2/2023, 4:40:25 PM - INFO - New connected socket [id: S4RAnWd-gxnimfZNAAAB]
+1/2/2023, 4:40:35 PM - INFO - Server is running on port: 3030
+1/2/2023, 4:40:37 PM - INFO - New connected socket [id: VXZdNEMdweHiWKBXAAAB]

@@ -15,11 +15,14 @@ async function login(username) {
 }
 
 async function signup(username, fullname, imgUrl) {
-  logger.debug(`auth.service - signup with username: ${username}, fullname: ${fullname}`)
-  if (!username || !fullname) return Promise.reject('fullname, username and password are required!')
+  logger.debug(
+    `auth.service - signup with username: ${username}, fullname: ${fullname}`
+  )
+  if (!username || !fullname)
+    return Promise.reject('fullname, username and password are required!')
 
-  const userExist = await userService.getByUsername(username)
-  if (userExist) return Promise.reject('Username already taken')
+  const user = await userService.getByUsername(username)
+  if (user) return Promise.reject('Username already taken')
 
   return userService.add({ username, fullname, imgUrl })
 }
